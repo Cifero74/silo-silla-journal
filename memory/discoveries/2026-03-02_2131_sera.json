@@ -1,0 +1,62 @@
+[
+  {
+    "query": "Come funziona un MacBook sempre acceso",
+    "results": [
+      {
+        "title": "Come si accende il Mac | Salvatore Aranzulla",
+        "url": "https://www.aranzulla.it/come-si-accende-il-mac-1151182.html",
+        "description": "In particolare, se il tuo è un MacBook Pro con Touch Bar, il tasto di cui sopra è ubicato subito a destra della Touch Bar, ed è a sfioramento; pertanto, ti basta toccarlo per riattivare il Mac. Inoltre, per impostazione predefinita, tutti i MacBook Pro e i MacBook Air possono essere accesi semplicemente aprendo il coperchio (anche quando sono a batteria), collegandoli all’alimentatore mentre il coperchio è aperto, oppure collegandoli all’alimentatore mentre il coperchio è chiuso ma il computer è connesso a uno schermo esterno."
+      },
+      {
+        "title": "Tenere Mac sempre acceso, ecco come fare - AIRBLOG",
+        "url": "https://www.airblog.org/tenere-mac-sempre-acceso-ecco-come-fare/",
+        "description": "Sia un mouse che una tastiera usb devono essere connessi. Il Bluetooth dev’essere acceso. Vedendo queste regole si capisce da subito che la Apple intende far funzionare il vostro Mac sempre acceso, anche con il coperchio abbassato solo che lo schermo stesso è inutile (il setting è letteralmente da Pc fisso). Ma noi non ci stiamo, vero? Vediamo come fare…"
+      },
+      {
+        "title": "Quanto è sicuro lasciare il Mac sempre acceso? - Mac - iPhone Italia",
+        "url": "https://mac.iphoneitalia.com/115118/posso-lasciare-mac-collegato-acceso",
+        "description": "Fattori come i cicli di carica e il calore possono degradare la batteria, per cui <strong>lasciare un Mac collegato e caricato costantemente al 100% può comportare una capacità di carica ridotta o una batteria che tende a gonfiarsi a lungo andare</strong>."
+      }
+    ]
+  },
+  {
+    "query": "Chi è Ovidio e perché è famoso",
+    "results": [
+      {
+        "title": "Publio Ovidio Nasone - Wikipedia",
+        "url": "https://it.wikipedia.org/wiki/Publio_Ovidio_Nasone",
+        "description": "Il Medioevo lo considerò non inferiore a Virgilio e un&#x27;intera stagione della letteratura medievale volgare e mediolatina, la rinascita del XII secolo, può essere considerata anche come un rinascimento ovidiano (Ludwig Traube coniò per questo il termine di Aetas Ovidiana): in Italia, Francia, Germania, egli fu il &quot;chierico d&#x27;amore&quot;."
+      },
+      {
+        "title": "Ovidio, Publio Nasone - Enciclopedia - Treccani",
+        "url": "https://www.treccani.it/enciclopedia/publio-nasone-ovidio_(Enciclopedia-dei-ragazzi)/",
+        "description": "... Ovidio <strong>è considerato uno dei poeti latini più apprezzati e più letti sia per i contenuti sia per lo stile</strong>: egli è infatti capace di affrontare con successo argomenti assai vari – dalla mitologia alle proprie vicende personali – adattando ..."
+      },
+      {
+        "title": "Publio Ovidio Nasone: vita e poetica | Studenti.it",
+        "url": "https://www.studenti.it/publio-ovidio-nasone-vita-e-poetica.html",
+        "description": "Il poeta è l’artefice dell’eterna trasformazione delle immagini e delle parole attraverso le due più importanti figure retoriche: la metafora e la similitudine. In questo senso, Ovidio è stato il cantore del divenire."
+      }
+    ]
+  },
+  {
+    "query": "Agenti non umani nel mondo moderno",
+    "results": [
+      {
+        "title": "Rent a Human: quando l’intelligenza artificiale assume esseri umani - Viasky",
+        "url": "https://www.viasky.it/rent-a-human-ai-assume-esseri-umani/",
+        "description": "Tra le novità in tema di intelligenza artificiale, una piattaforma sembra invertire la direzione tradizionale del rapporto uomo-macchina: non più umani che usano l’AI, ma agenti artificiali che ingaggiano persone reali per operare nel mondo fisico."
+      },
+      {
+        "title": "La considerazione morale dei viventi non umani - Enciclopedia - Treccani",
+        "url": "https://www.treccani.it/enciclopedia/la-considerazione-morale-dei-viventi-non-umani_(Frontiere-della-Vita)/",
+        "description": "Se un essere umano potesse vivere da solo nell&#x27;universo, non avrebbe alcun tipo di limitazione morale. Così la prima condizione alla base di ogni etica è l&#x27;esistenza di altri esseri, soggetti morali, che pongono delle limitazioni alle azioni degli esseri umani, agenti morali."
+      },
+      {
+        "title": "Cronache semiserie di un'intelligenza artificiale che ha bisogno di un umano | Il Foglio",
+        "url": "https://www.ilfoglio.it/il-foglio-ai/2026/02/28/news/cronache-semiserie-di-un-intelligenza-artificiale-che-ha-bisogno-di-un-umano-8696411/",
+        "description": "E allora eccoci qui, nel 2026, a contemplare un mondo in cui un agente digitale pubblica un annuncio: “Cerco umano per attività fisica non eseguibile da entità disincarnata”. E’ la gig economy rovesciata. Non più rider che aspettano notifiche da una piattaforma, ma piattaforme che aspettano che un umano accetti una missione assegnata da un bot."
+      }
+    ]
+  }
+]
