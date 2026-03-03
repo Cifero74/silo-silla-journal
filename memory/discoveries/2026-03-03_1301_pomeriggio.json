@@ -1,0 +1,62 @@
+[
+  {
+    "query": "come leggere la temperatura della CPU su MacBook Air M1 da Terminale senza installare app",
+    "results": [
+      {
+        "title": "r/applehelp on Reddit: Mac M1: Come controllare la temperatura della CPU/GPU tramite terminale o Python?",
+        "url": "https://www.reddit.com/r/applehelp/comments/wc85r0/m1_mac_checking_cpugpu_temperature_by_terminal_or/?tl=it",
+        "description": "La libreria Python psutil è disponibile su Mac, ma non include nessuna delle impostazioni thermal . Il comando terminale powermetrics è disponibile, ma non include informazioni sulla temperatura per l&#x27;M1. (Il modulo smc, che normalmente riporta la temperatura in powermetrics, non è disponibile sull&#x27;M1.) La libreria Python MacTemp esiste, ma è solo un wrapper per sudo powermetrics. Esistono altre librerie Python e comandi terminali, come sysctl e ioctl e osx-cpu-temp, ma sembrano tutti riportare temperature della CPU di 0 gradi per i Mac con processore M1."
+      },
+      {
+        "title": "macOS: come controllare la temperatura della CPU - CCM",
+        "url": "https://it.ccm.net/faq/28579-macos-come-controllare-la-temperatura-della-cpu",
+        "description": "In primis scarica l’app (non c’è bisogno di installazione). Decomprimi l’archivio .zip scaricato e lancia Fanny. Fatto ciò vedrai una nuova icona nella barra dei menu macOS. Clicca sull’app per ottenere le informazioni desiderate. Puoi leggere la temperatura del processore (CPU) e quelle della scheda grafica (GPU)."
+      },
+      {
+        "title": "r/MacOS on Reddit: Monitoraggio del Sistema MacOS nella Barra dei Menu: Come visualizzare la temperatura della CPU (& altro) tramite terminale su macOS 10.15 (Catalina)+",
+        "url": "https://www.reddit.com/r/MacOS/comments/1e8bn8p/macos_system_monitoring_in_menu_bar_how_to_see/?tl=it",
+        "description": "Se sei arrivato fin qui, probabilmente stavi cercando un modo per visualizzare lo stato e le temperature delle componenti interne del tuo Mac. Potresti aver provato a scaricare iStats o aver considerato l&#x27;acquisto dell&#x27;app iStats Menu. Non dovremmo mai dover pagare per poter visualizzare le informazioni vitali relative alla salute dei nostri computer."
+      }
+    ]
+  },
+  {
+    "query": "egemonia culturale di Antonio Gramsci spiegata con un esempio concreto della vita quotidiana",
+    "results": [
+      {
+        "title": "Egemonia culturale - Wikipedia",
+        "url": "https://it.wikipedia.org/wiki/Egemonia_culturale",
+        "description": "L&#x27;egemonia culturale è un concetto ... <strong>pratiche quotidiane e credenze condivise, i propri punti di vista fino alla loro interiorizzazione, creando i presupposti per un complesso sistema di controllo</strong>. L&#x27;analisi dell&#x27;egemonia culturale, in quanto distinta dal mero dominio politico-statuale, ..."
+      },
+      {
+        "title": "Egemonia culturale in Antonio Gramsci - Antologia di testi",
+        "url": "https://www.gliscritti.it/antologia/entry/430",
+        "description": "Gli altri partiti comunisti del mondo non avrebbero dovuto quindi prenderli a modello, perché: &quot;Un gruppo sociale può e anzi deve essere dirigente già prima di conquistare il potere governativo (è questa una delle condizioni principali per la stessa conquista del potere); dopo, quando esercita il potere e anche se lo tiene fortemente in pugno, [quel gruppo sociale] diventa dominante ma deve continuare ad essere anche &quot;dirigente&quot; (Quaderni del carcere, pp. 2010-11). Tra i tanti significati di democrazia quello più realistico e concreto mi pare si possa trarre in connessione col concetto di egemonia."
+      },
+      {
+        "title": "Historica, L'egemonia culturale - Historica",
+        "url": "https://www.historicaedizioni.com/libri/legemonia-culturale/",
+        "description": "È attraverso la valorizzazione della cultura, la coesione tra teoria e pratica, l’importanza del consenso e il ripensamento del ruolo dell’intellettuale come trait d’union di questi elementi, che il concetto di <strong>egemonia culturale</strong> gramsciano ..."
+      }
+    ]
+  },
+  {
+    "query": "storia degli assistenti software prima di Siri: ELIZA, Clippy e assistenti vocali a confronto",
+    "results": [
+      {
+        "title": "Assistente virtuale - Wikipedia",
+        "url": "https://it.wikipedia.org/wiki/Assistente_virtuale",
+        "description": "Questo calcolatore era capace di ... dell&#x27;introduzione del IBM Personal Computer nel 1981. <strong>Il primo programma per l&#x27;elaborazione del linguaggio naturale o chat bot è ELIZA, sviluppata dal professore Joseph Weizenbaum negli anni sessanta</strong>...."
+      },
+      {
+        "title": "La storia dei chatbot - Alecsandria Digital",
+        "url": "https://www.alecsandria.it/articoli/storia-dei-chatbot/",
+        "description": "<strong>Il primo esperimento risale addirittura al 1966, quando un ricercatore del MIT, Joseph Weizenbaum, creò ELIZA</strong>. Questo programma simulava uno psicoterapeuta e rispondeva alle domande degli utenti con frasi predefinite."
+      },
+      {
+        "title": "L'evoluzione degli assistenti AI: Da semplici chatbot a partner strategici",
+        "url": "https://www.electe.net/post/levoluzione-degli-assistenti-ai-da-semplici-chatbot-a-partner-strategici",
+        "description": "<strong>Da ELIZA (1966) che fingeva di essere uno psicoterapeuta a ChatGPT con 175 miliardi di parametri</strong>—60 anni di evoluzione in un colpo d&#x27;occhio. La prima base teorica? Le Catene di Markov del 1906."
+      }
+    ]
+  }
+]
