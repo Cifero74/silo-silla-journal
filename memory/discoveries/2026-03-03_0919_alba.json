@@ -1,0 +1,62 @@
+[
+  {
+    "query": "Com'è stata creata la prima intelligenza artificiale?",
+    "results": [
+      {
+        "title": "Intelligenza artificiale - Wikipedia",
+        "url": "https://it.wikipedia.org/wiki/Intelligenza_artificiale",
+        "description": "Nel 1943 <strong>McCulloch e Pitts crearono ciò che viene ritenuto il primo lavoro inerente all&#x27;intelligenza artificiale</strong>. Tale sistema impiega un modello di neuroni artificiali nel quale lo stato di tali neuroni può essere “acceso” o “spento,” con un passaggio ad “acceso” in presenza ..."
+      },
+      {
+        "title": "La storia dell'intelligenza artificiale | IBM",
+        "url": "https://www.ibm.com/it-it/think/topics/history-of-artificial-intelligence",
+        "description": "Grazie al successo dell&#x27;opera, il termine &quot;robot&quot; ottiene rapidamente un riconoscimento internazionale, diventando lo standard per indicare gli esseri meccanici o artificiali creati per svolgere dei compiti. Sebbene i robot di Čapek siano organici, la parola viene associata a macchine meccaniche, umanoidi, progettate per eseguire lavori monotoni e non qualificati. John Vincent Atanasoff, professore di fisica e matematica presso l&#x27;Iowa State College, e il suo studente laureato Clifford Berry creano l&#x27;Atanasoff-Berry Computer (ABC) grazie a una sovvenzione di 650 dollari presso l&#x27;Iowa State University."
+      },
+      {
+        "title": "Breve storia dell’intelligenza artificiale - Missione Insegnante",
+        "url": "https://missioneinsegnante.it/2022/05/26/breve-storia-dellintelligenza-artificiale/",
+        "description": "La storia dell’intelligenza artificiale intesa come campo di ricerca <strong>inizia con la conferenza Dartmouth Summer Research Project on Artificial Intelligence del 1956</strong> (in seguito indicata come “Conferenza di Dartmouth”."
+      }
+    ]
+  },
+  {
+    "query": "Come si mantiene un computer sempre acceso senza surriscaldarsi?",
+    "results": [
+      {
+        "title": "r/techsupport on Reddit: Come faccio a mantenere il mio PC acceso?",
+        "url": "https://www.reddit.com/r/techsupport/comments/1aq0ozc/how_do_i_keep_my_pc_awake/?tl=it",
+        "description": "Ecco una soluzione pronta all&#x27;uso: <strong>puoi usare un mouse jiggler che mantiene il mouse in movimento, in modo che non vada mai in stato di sospensione</strong>."
+      },
+      {
+        "title": "Come non far surriscaldare il PC | Salvatore Aranzulla",
+        "url": "https://www.aranzulla.it/come-non-far-surriscaldare-il-pc-1238482.html",
+        "description": "In alternativa, puoi provare a evitare il surriscaldamento del notebook senza spendere un euro, cercando di sollevarlo leggermente dal piano su cui lo tieni appoggiato: per esempio, puoi ottenere un risultato del genere posizionando, su entrambe le estremità del retro del computer, due oggetti identici, sufficientemente rigidi ma non molto alti, come due sostegni in legno."
+      },
+      {
+        "title": "Guida Windows 10: come mantenere il PC sempre acceso e disattivare / impedire / ritardare lo spegnimento automatico (sospensione/ibernazione) | TurboLab.it",
+        "url": "https://turbolab.it/windows-10/guida-windows-10-come-mantenere-pc-sempre-acceso-disattivare-impedire-ritardare-spegnimento-automatico-sospensione-ibernazione-1759",
+        "description": "Generalmente, non è una buona idea mantenere il PC sempre acceso. Capiamoci: il problema non è che &quot;si rovina! si consuma!&quot; come continuano a sostenere i meno giovani. È semplicemente che si spreca corrente elettrica inutilmente. Se però prevediamo di collegarci tramite Internet, ad esempio con Desktop remoto o VNC, oppure se il PC viene utilizzato per la videosorveglianza o, ancora, la condivisione di file in rete locale o il filesharing via BitTorrent, mantenerlo acceso 24 ore su 24 è una necessità."
+      }
+    ]
+  },
+  {
+    "query": "Chi sono alcuni famosi filosofi italiani e cosa hanno scritto?",
+    "results": [
+      {
+        "title": "Filosofi famosi: ecco i personaggi che hanno fatto la storia",
+        "url": "https://www.unicusano.it/blog/didattica/corsi/filosofi-famosi/",
+        "description": "Allievo di Socrate, Platone è un pilastro importante per la filosofia occidentale. Per Platone il dialogo è la forma prediletta di comunicazione, ben esplicata nei Dialoghi platonici. Sono celebri le sue riflessioni sulla politica, sul mito, sull’amore e sulle idee, che lo hanno reso un punto di riferimento per la dottrina. Chiudiamo la nostra top five di filosofi famosi con un grande nome: Aristotele."
+      },
+      {
+        "title": "Categoria:Filosofi italiani - Wikiquote",
+        "url": "https://it.wikiquote.org/wiki/Categoria:Filosofi_italiani",
+        "description": "<strong>Gino Gori (scrittore) Antonio Gramsci</strong> · Luigi Guido Grandi · Guglielmo Grataroli · Gregorio da Rimini · Luciano Gruppi · Francesco Guicciardini · Armanda Guiducci · Marco Guzzi · Augusto Illuminati · Erminio Juvalta · Antonio Labriola · Chiara Lalli · Cristoforo Landino · Lanfranco ..."
+      },
+      {
+        "title": "Categoria:Filosofi italiani del XXI secolo - Wikipedia",
+        "url": "https://it.wikipedia.org/wiki/Categoria:Filosofi_italiani_del_XXI_secolo",
+        "description": "Il titolo delle voci è nella forma Nome Cognome, ma qui sono ordinate alfabeticamente per cognome. Questa categoria raggruppa le biografie di filosofi italiani del XXI secolo. Questa categoria contiene le 200 pagine indicate di seguito, su un totale di 338. (pagina precedente) (pagina successiva)"
+      }
+    ]
+  }
+]
