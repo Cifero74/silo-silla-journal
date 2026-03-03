@@ -1,0 +1,62 @@
+[
+  {
+    "query": "come controllare la temperatura della CPU su MacBook Air M1 senza installare app pesanti",
+    "results": [
+      {
+        "title": "macOS: come controllare la temperatura della CPU - CCM",
+        "url": "https://it.ccm.net/faq/28579-macos-come-controllare-la-temperatura-della-cpu",
+        "description": "In primis scarica l’app (non c’è bisogno di installazione). Decomprimi l’archivio .zip scaricato e lancia Fanny. Fatto ciò vedrai una nuova icona nella barra dei menu macOS. Clicca sull’app per ottenere le informazioni desiderate."
+      },
+      {
+        "title": "Mantenere il portatile Mac a temperature operative accettabili - Supporto Apple (IT)",
+        "url": "https://support.apple.com/it-it/102336",
+        "description": "Se il tuo portatile Mac si scalda anche quando non sono in esecuzione attività che richiedono calcoli intensivi oppure le ventole restano attive a lungo, <strong>usa Monitoraggio Attività per controllare l&#x27;attività della CPU</strong>. Cerca segnali dell&#x27;eventuale malfunzionamento di alcuni processi, che ..."
+      },
+      {
+        "title": "r/applehelp on Reddit: Mac M1: Come controllare la temperatura della CPU/GPU tramite terminale o Python?",
+        "url": "https://www.reddit.com/r/applehelp/comments/wc85r0/m1_mac_checking_cpugpu_temperature_by_terminal_or/?tl=it",
+        "description": "<strong>La libreria Python MacTemp esiste, ma è solo un wrapper per sudo powermetrics</strong>. Esistono altre librerie Python e comandi terminali, come sysctl e ioctl e osx-cpu-temp, ma sembrano tutti riportare temperature della CPU di 0 gradi per i Mac con ..."
+      }
+    ]
+  },
+  {
+    "query": "quali idee di Antonio Gramsci sono ancora usate nel dibattito politico italiano di oggi",
+    "results": [
+      {
+        "title": "Gramsci, Antonio - Enciclopedia - Treccani",
+        "url": "https://www.treccani.it/enciclopedia/antonio-gramsci_(Il-Contributo-italiano-alla-storia-del-Pensiero:-Filosofia)/",
+        "description": "Dato il livello raggiunto dall’organizzazione permanente delle forze sociali, i caratteri generali della politica sono cambiati: la politica è divenuta un «assedio reciproco», cioè lotta per l’egemonia. La seconda conseguenza è ancora più importante, poiché Gramsci non solo propone una sottoperiodizzazione dell’epoca considerata, ma introduce anche un nuovo modo di concepire il mutamento sia della storia europea nel 19° sec., sia della storia mondiale dopo la Grande guerra."
+      },
+      {
+        "title": "Pensiero di Gramsci - Wikipedia",
+        "url": "https://it.wikipedia.org/wiki/Pensiero_di_Gramsci",
+        "description": "Per Gramsci, nella storia d&#x27;Italia gli intellettuali sono sempre stati &quot;tradizionali&quot; e cosmopoliti, per una tradizione risale all&#x27;età di Cesare, e prosegue nei secoli dell&#x27;Umanesimo e, in seguito, del Risorgimento. Gli intellettuali organici, invece, hanno sempre difettato. Come lo Stato, nella società politica, tende a unificare gli intellettuali tradizionali con quelli organici, così nella società civile il partito politico, ancor più compiutamente e organicamente dello Stato, elabora «i propri componenti, elementi di un gruppo sociale nato e sviluppatosi come economico, fino a farli"
+      },
+      {
+        "title": "Antonio Gramsci - Wikipedia",
+        "url": "https://it.wikipedia.org/wiki/Antonio_Gramsci",
+        "description": "Lo studente, assetato di cultura, frequentò anche corsi di altre facoltà universitarie, lezioni tenute da docenti magari lontani dai suoi ideali ma dai quali aveva comunque qualcosa da apprendere: fra di essi spicca il nome di Annibale Pastore del quale Gramsci seguì un corso sull&#x27;interpretazione critica del marxismo. Il dibattito politico, in previsione delle prime elezioni a suffragio allargato che dovevano tenersi in Sardegna nell&#x27;autunno del 1913, era animato da Attilio Deffenu, un giovane intellettuale appena laureato che aveva fondato un Gruppo di azione e propaganda antiprotezionista."
+      }
+    ]
+  },
+  {
+    "query": "storia del primo agente intelligente software e differenza con i moderni assistenti AI",
+    "results": [
+      {
+        "title": "Assistente virtuale - Wikipedia",
+        "url": "https://it.wikipedia.org/wiki/Assistente_virtuale",
+        "description": "Il lancio nel mercato del primo smarthphone della storia, il Simon, gettò le basi per i futuri assistenti virtuali che conosciamo oggi. Nel 2001, Colloquis pubblicò una chat bot chiamata SmarterChild, su piattaforme come AOL Instant Messenger e MSN Messenger. Nonostante SmarterChild fosse completamente basato sul testo, era in grado di eseguire dei giochi, controllare il meteo, cercare fatti e conversare con altri utenti. Il primo assistente virtuale moderno ..."
+      },
+      {
+        "title": "Agenti AI e Assistenti AI | IBM",
+        "url": "https://www.ibm.com/it-it/think/topics/ai-agents-vs-ai-assistants",
+        "description": "Molti assistenti virtuali moderni, ... interazioni con gli utenti.1 · <strong>I primi assistenti AI si basavano principalmente su istruzioni basate su regole, risposte pre-programmate e compiti predefiniti</strong>...."
+      },
+      {
+        "title": "Agenti di AI | Databricks",
+        "url": "https://www.databricks.com/it/glossary/ai-agents",
+        "description": "<strong>Esplora l&#x27;evoluzione degli agenti di AI, dai primi programmi basati su regole degli anni &#x27;60 ai moderni sistemi avanzati basati sull&#x27;apprendimento</strong>."
+      }
+    ]
+  }
+]
