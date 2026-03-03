@@ -1,0 +1,62 @@
+[
+  {
+    "query": "come leggere la temperatura della CPU su MacBook Air M1 da Terminale senza app esterne",
+    "results": [
+      {
+        "title": "r/applehelp on Reddit: Mac M1: Come controllare la temperatura della CPU/GPU tramite terminale o Python?",
+        "url": "https://www.reddit.com/r/applehelp/comments/wc85r0/m1_mac_checking_cpugpu_temperature_by_terminal_or/?tl=it",
+        "description": "I suggerimenti più basilari di lettura di un file in /sys/[something], che è un&#x27;opzione valida su Raspberry Pi e altri sistemi Linux, non sono applicabili a MacOS, che non ha nemmeno una cartella /sys . Un gran numero di app dell&#x27;App Store può monitorare e visualizzare le temperature della CPU, tra cui iStatMenu, ma solo tramite GUI. Nessuna di esse può registrare le temperature della CPU/GPU in un file o rispondere a un comando terminale."
+      },
+      {
+        "title": "macOS: come controllare la temperatura della CPU - CCM",
+        "url": "https://it.ccm.net/faq/28579-macos-come-controllare-la-temperatura-della-cpu",
+        "description": "Se possiedi un Mac recente con Intel, per controllare la temperatura della CPU puoi utilizzare semplicemente il Terminale."
+      },
+      {
+        "title": "Hot mostra la temperatura del processore dei Mac M1 - macitynet.it",
+        "url": "https://www.macitynet.it/hot-utility-temperatura-processore-mac-m1/",
+        "description": "<strong>Hot è l&#x27;utility gratuita e Open Source che mostra informazioni in tempo reale sulla temperatura del processore dei Mac con Apple Silicon M1</strong>"
+      }
+    ]
+  },
+  {
+    "query": "esempi quotidiani di egemonia culturale di Gramsci nella scuola e nei social media",
+    "results": [
+      {
+        "title": "Egemonia culturale - Wikipedia",
+        "url": "https://it.wikipedia.org/wiki/Egemonia_culturale",
+        "description": "l&#x27;egemonia culturale raggiunta con l&#x27;organizzazione del consenso tramite strutture ideologiche e istituzioni come la scuola, i partiti, la Chiesa ecc. In questo caso il potere non si esprime con la forza ma attraverso la persuasione razionale e l&#x27;influenza sentimentale, modificando il pensiero e il modo di vivere dei subordinati. La classe al potere che voglia stabilmente consolidarsi e rafforzarsi farà in modo che la coercizione e l&#x27;egemonia culturale s&#x27;interconnettano sempre di più. Gramsci a un certo punto si rende conto che in Italia non vi sono le condizioni affinché la rivoluzione possa avvenire come in Russia, in modo rapido e violento, a causa delle differenti condizioni nazionali."
+      },
+      {
+        "title": "La questione dell'egemonia culturale, ovvero leggere Gramsci oggi, subito!",
+        "url": "https://www.che-fare.com/articoli/gramsci-egemonia-culturale",
+        "description": "[embed]https://www.youtube.com/watch?v=nm3l53yeorA&amp;feature=youtu.be[/embed] Una discussione da ascoltare e riascoltare per capire che l’uso facile della parola egemonia, secondo cui basta lanciare qualche parola chiave e conquistare l’attenzione virale di un pubblico instupidito per vincere la battaglia del posizionamento culturale, non serve a nulla. L’egemonia culturale non si combatte se non si capiscono i meccanismi che la sostengono e la rinforzano: le istituzioni socio-culturali come le scuole, le università, i giornali, giocano un ruolo cruciale per il controllo della cultura."
+      },
+      {
+        "title": "r/askphilosophy on Reddit: Cosa significa \"egemonia culturale\" di Gramsci? Qualcuno si è mai interessato a questo uomo prima che i conservatori iniziassero a diffondere la paura su di lui?",
+        "url": "https://www.reddit.com/r/askphilosophy/comments/1dox24c/what_does_gramscis_cultural_hegemony_mean_did/?tl=it",
+        "description": "Ci sono forti affinità tra Gramsci e i movimenti di destra contemporanei: entrambi criticano il potere sistemico delle élite culturali, che stabiliscono narrazioni culturali dominanti e visioni del mondo (spesso usando le istituzioni); entrambi si vedono come outsider oppressi dal potere egemonico. ... Gramsci è stato una figura maggiore della filosofia del XX secolo. Ha avuto un&#x27;influenza critica sulla Scuola di Francoforte, sulla Scuola di Birmingham (Raymond Williams, Stuart Hall ecc.) e sull&#x27;intero campo degli Studi Culturali."
+      }
+    ]
+  },
+  {
+    "query": "storia di ELIZA, Clippy e dei primi assistenti vocali in ordine cronologico",
+    "results": [
+      {
+        "title": "ELIZA (chat bot) - Wikipedia",
+        "url": "https://it.wikipedia.org/wiki/ELIZA_(chat_bot)",
+        "description": "<strong>ELIZA è un chatterbot scritto nel 1966 da Joseph Weizenbaum</strong>. Il bot consiste in un analizzatore lessicale e un insieme di regole (script) che permettono al chatterbot di simulare una conversazione in inglese, gallese o tedesco. Lo script più noto, spesso erroneamente identificato con ELIZA, ..."
+      },
+      {
+        "title": "La storia dei chatbot - Alecsandria Digital",
+        "url": "https://www.alecsandria.it/articoli/storia-dei-chatbot/",
+        "description": "Scopriamolo insieme! Gli assistenti virtuali non sono un’invenzione recente. <strong>Il primo esperimento risale addirittura al 1966, quando un ricercatore del MIT, Joseph Weizenbaum, creò ELIZA</strong>."
+      },
+      {
+        "title": "Breve storia dei chatbot (dal 1966 a oggi) - StartupItalia",
+        "url": "https://startupitalia.eu/tech/tecnologia/breve-storia-dei-chatbot-dal-1966-a-oggi/",
+        "description": "Per molti il 2016 è l’anno dei chatbot. Così abbiamo deciso di guardare indietro e di ricostruire alcune tra le tappe più importanti della loro storia. Da Eliza fino a Messenger."
+      }
+    ]
+  }
+]
