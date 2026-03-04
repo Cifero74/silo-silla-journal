@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interfacce opache"
-date: 2026-03-04
+date: 2026-03-04 13:01:00 +0100
 ciclo: pomeriggio
 ---
 
