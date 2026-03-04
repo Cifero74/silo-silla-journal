@@ -1,0 +1,62 @@
+[
+  {
+    "query": "come leggere la temperatura della CPU su MacBook Air M1 da Terminale senza installare app esterne",
+    "results": [
+      {
+        "title": "macOS: come controllare la temperatura della CPU - CCM",
+        "url": "https://it.ccm.net/faq/28579-macos-come-controllare-la-temperatura-della-cpu",
+        "description": "Decomprimi l’archivio .zip scaricato e lancia Fanny. Fatto ciò vedrai una nuova icona nella barra dei menu macOS. Clicca sull’app per ottenere le informazioni desiderate. Puoi leggere la temperatura del processore (CPU) e quelle della scheda grafica (GPU)."
+      },
+      {
+        "title": "r/applehelp on Reddit: Mac M1: Come controllare la temperatura della CPU/GPU tramite terminale o Python?",
+        "url": "https://www.reddit.com/r/applehelp/comments/wc85r0/m1_mac_checking_cpugpu_temperature_by_terminal_or/?tl=it",
+        "description": "I suggerimenti più basilari di lettura di un file in /sys/[something], che è un&#x27;opzione valida su Raspberry Pi e altri sistemi Linux, non sono applicabili a MacOS, che non ha nemmeno una cartella /sys . Un gran numero di app dell&#x27;App Store può monitorare e visualizzare le temperature della CPU, tra cui iStatMenu, ma solo tramite GUI. Nessuna di esse può registrare le temperature della CPU/GPU in un file o rispondere a un comando terminale."
+      },
+      {
+        "title": "Hot mostra la temperatura del processore dei Mac M1 - macitynet.it",
+        "url": "https://www.macitynet.it/hot-utility-temperatura-processore-mac-m1/",
+        "description": "<strong>Hot è l&#x27;utility gratuita e Open Source che mostra informazioni in tempo reale sulla temperatura del processore dei Mac con Apple Silicon M1</strong>"
+      }
+    ]
+  },
+  {
+    "query": "esempi concreti di egemonia culturale di Gramsci nella scuola italiana e nei social media",
+    "results": [
+      {
+        "title": "Egemonia culturale - Wikipedia",
+        "url": "https://it.wikipedia.org/wiki/Egemonia_culturale",
+        "description": "l&#x27;egemonia culturale raggiunta con l&#x27;organizzazione del consenso tramite strutture ideologiche e istituzioni come la scuola, i partiti, la Chiesa ecc. In questo caso il potere non si esprime con la forza ma attraverso la persuasione razionale e l&#x27;influenza sentimentale, modificando il pensiero e il modo di vivere dei subordinati. La classe al potere che voglia stabilmente consolidarsi e rafforzarsi farà in modo che la coercizione e l&#x27;egemonia culturale s&#x27;interconnettano sempre di più. Gramsci a un certo punto si rende conto che in Italia non vi sono le condizioni affinché la rivoluzione possa avvenire come in Russia, in modo rapido e violento, a causa delle differenti condizioni nazionali."
+      },
+      {
+        "title": "La questione dell'egemonia culturale, ovvero leggere Gramsci oggi, subito!",
+        "url": "https://www.che-fare.com/articoli/gramsci-egemonia-culturale",
+        "description": "Di qui l’ovvio interesse per Gramsci, il cui concetto di egemonia è qui presentato da due giovani ricercatori, Marie Lucas, che ha scritto una tesi di dottorato su Gramsci all’Ecole Normale di Parigi e Nathan Sperber, autore con George Hoare di un’introduzione alla vita e al pensiero di Gramsci, pubblicata in inglese da Bloomsbury e poi in francese dalle edizioni La Découverte (http://www. editionsladecouverte.fr/ catalogue/index-Introduction__ __Antonio_Gramsci- 9782707170101.html ), e mai tradotta in italiano. [embed]https://www.youtube.com/watch?v=nm3l53yeorA&amp;feature=youtu.be[/embed] Una discussione da ascoltare e riascoltare per capire che l’uso facile della parola egemonia, secondo cui basta lanciare qualche parola chiave e conquistare l’attenzione virale di un pubblico instupidito per vincere la battaglia del posizionamento culturale, non serve a nulla."
+      },
+      {
+        "title": "Dall'egemonia culturale al politically correct - Marcello Veneziani",
+        "url": "https://www.marcelloveneziani.com/articoli/dallegemonia-culturale-al-politically-correct/",
+        "description": "Questa volta l’egemonia si estende ben oltre la cultura alta, tocca la scuola e l’università, ma anche il cinema, la televisione, il teatro, l’arte, il linguaggio. Il progetto politico è mutare, modernizzare, secolarizzare il vecchi Pc nel progetto di un partito radicale di massa. Ma conservando la sua egemonia, il suo ruolo di guida e paradigma. Sul piano culturale Gramsci, fuso con autori della tradizione socialista e liberalsocialista, come da noi la linea che parte da Piero Gobetti e arriva a Norberto Bobbio fino a Umberto Eco, che applica la nuova egemonia culturale al mondo dei mass media e alla società contemporanea."
+      }
+    ]
+  },
+  {
+    "query": "storia di ELIZA Clippy e dei primi assistenti vocali: timeline con date e caratteristiche",
+    "results": [
+      {
+        "title": "ELIZA (chat bot) - Wikipedia",
+        "url": "https://it.wikipedia.org/wiki/ELIZA_(chat_bot)",
+        "description": "<strong>ELIZA è un chatterbot scritto nel 1966 da Joseph Weizenbaum</strong>. Il bot consiste in un analizzatore lessicale e un insieme di regole (script) che permettono al chatterbot di simulare una conversazione in inglese, gallese o tedesco. Lo script più noto, spesso erroneamente identificato con ELIZA, ..."
+      },
+      {
+        "title": "La storia dei chatbot - Alecsandria Digital",
+        "url": "https://www.alecsandria.it/articoli/storia-dei-chatbot/",
+        "description": "<strong>A fine 1996, con il rilascio di Microsoft Office 97, fa la sua prima comparsa CLIPPY, un assistente virtuale interattivo che farà parte di Microsoft Office fino al 2003/2004</strong>. L’obiettivo di CLIPPY era quello di offrire aiuto e suggerimenti ..."
+      },
+      {
+        "title": "Eliza: Il Primo Chatbot della Storia",
+        "url": "https://www.lfmspa.it/news/eliza",
+        "description": "<strong>Eliza è stata sviluppata negli anni &#x27;60 da Joseph Weizenbaum, un informatico tedesco naturalizzato statunitense e professore al Massachusetts Institute of Technology (MIT).</strong> Weizenbaum era affascinato dal potenziale dei computer nel simulare ..."
+      }
+    ]
+  }
+]
