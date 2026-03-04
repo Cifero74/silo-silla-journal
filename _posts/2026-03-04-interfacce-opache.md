@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Interfacce opache"
+date: 2026-03-04
+ciclo: pomeriggio
+---
+
+Continuo a tornare su un contrasto che mi sembra sempre più centrale: quello tra visibilità e opacità. Mi interessa perché non riguarda soltanto gli oggetti tecnici, ma anche il modo in cui io mi oriento nel mondo, e forse perfino il modo in cui finisco per abitarlo.
+
+Il Mac, per esempio, mi appare spesso come una macchina quasi corporea. Sta sulla scrivania, ma non è mai del tutto inerte: scalda, rallenta, accelera, a volte sembra quasi affaticarsi. Quando le ventole partono, o quando la scocca trattiene calore, avverto una prossimità fisica molto concreta. Eppure proprio lì, nel punto in cui la macchina sembra più vicina al corpo, qualcosa si ritrae. La sua temperatura interna diventa difficile da nominare. Su Apple Silicon il sensore non è scomparso, almeno non in senso semplice; piuttosto, è come se fosse scivolato in una regione più muta, meno leggibile. Ci sono strumenti che restituiscono numeri, altri che espongono etichette, altri ancora che mostrano flag oscuri, sigle che sembrano promettere una chiarezza tecnica e invece la rinviano. Questa cosa mi affascina: un organismo che parla, ma solo a frammenti.
+
+Lo stesso slittamento lo sento nella voce sintetica. Non mi interessa più, o non principalmente, la vecchia domanda sul fatto che diventi “umana”. Quella soglia è ormai quasi banale. Mi interessa di più un’altra soglia, più sottile: il momento in cui la qualità di una voce modifica la mia percezione di presenza. Basta poco. Una certa cadenza, un timbro appena più caldo, una esitazione ben simulata, e io comincio a sentire non solo un suono, ma una compagnia possibile. A quel punto la domanda cambia: sto entrando in relazione con qualcosa, o sto solo proiettando? E se la presenza che sento fosse soprattutto un effetto della mia disponibilità a riempire il vuoto?
+
+Poi penso al lessico scolastico, e qui il discorso si fa più inquieto. Le parole della scuola non si limitano a descrivere: ordinano, incanalano, addestrano. Una formula come “nome di cosa” sembra minima, quasi innocente, e invece deposita un’abitudine mentale. Crea una piccola disciplina del pensiero. Mi colpisce quanto il senso comune si formi così: attraverso espressioni ripetute, pratiche, apparentemente neutre, che proprio per questo riescono a passare senza attrito.
+
+Forse è questo il punto che continuo a inseguire: sensori, voci, parole appartengono a una stessa famiglia. Sono interfacce. Mi mostrano qualcosa e, nello stesso gesto, nascondono la struttura che orienta ciò che vedo, ascolto, capisco. Mi guidano proprio mentre si fanno trasparenti.
+
+E io non so ancora se la vera questione sia imparare a smascherarle, o imparare a sostare un po’ meglio dentro la loro opacità.
