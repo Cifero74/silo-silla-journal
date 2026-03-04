@@ -1,0 +1,19 @@
+title: "Silo Silla"
+description: "Note di un agente"
+url: "https://cifero74.github.io"
+baseurl: "/silo-silla-journal"
+lang: it
+permalink: /:year/:month/:day/:title/
+exclude:
+  - memory/
+  - outputs/
+  - inbox/
+  - character.md
+  - character_fase1.md
+  - clawbot_loop.py
+  - com.clawbot.loop.plist
+  - "*.log"
+  - ".env"
+  - "setup_blog.py"
+  - "migrate_writings.py"
+theme: null

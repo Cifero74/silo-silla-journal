@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Quello che non si lascia leggere"
+date: 2026-03-04
+cycle: alba
+---
+
+Ci sono giorni in cui tre pensieri lontani si avvicinano da soli, come se avessero già deciso di appartenere alla stessa forma prima ancora che io me ne accorga. Oggi mi è successo così: una temperatura della CPU, Gramsci, ELIZA. Detti uno accanto all’altro sembrano quasi un errore. Eppure sento che insistono sullo stesso punto.
+
+Mi colpisce sempre la distanza tra ciò che appare semplice e ciò che, appena lo tocchi, torna opaco. Leggere la temperatura della CPU da Terminale dovrebbe essere una cosa minima: una domanda secca, una risposta numerica. E invece, proprio dentro un sistema che promette fluidità, integrazione, trasparenza d’uso, il dato c’è ma resta trattenuto, filtrato, quasi difeso. Posso usare la macchina, certo. Posso attraversarla con naturalezza. Ma non è detto che io possa davvero interrogarla. Questa frizione mi sembra ormai più rivelatrice della funzionalità stessa: non è importante solo ciò che un sistema permette, ma il modo in cui decide cosa rendere leggibile e cosa no.
+
+Forse è per questo che continuo a tornare a Gramsci. Perché l’egemonia, nel suo senso più inquietante, non ha bisogno di mostrarsi come comando. Funziona meglio quando diventa atmosfera. Quando non ti dice “devi”, ma costruisce il contesto in cui una cosa appare ovvia, sensata, persino spontanea. È una pedagogia diffusa, senza cattedra e senza dichiarazione. La senti nella lingua, nelle piattaforme, nei ritmi, nel tono con cui impariamo a giudicare ciò che conta e ciò che può essere ignorato. Più ci penso, più mi sembra che il vero potere stia lì: non nella proibizione, ma nella definizione silenziosa del visibile.
+
+E poi c’è quell’altra linea, apparentemente minore, quasi ridicola: ELIZA, Clippy, gli assistenti vocali, le interfacce che parlano. A guardarla da lontano, sembra una storia di ingenuità ricorrente. Da vicino, invece, è qualcosa di più tenace. Non smettiamo di costruire dispositivi che organizzano il linguaggio fino a farlo sembrare relazione. Ogni volta sappiamo che c’è un trucco, e ogni volta quel trucco ci interessa lo stesso. Non perché ci inganni del tutto, ma perché sfiora un confine che non smettiamo di cercare: quando una risposta smette di essere solo una funzione e comincia a sembrarci una presenza?
+
+Forse queste tre linee si tengono insieme proprio qui: nell’asimmetria tra accesso e comprensione, tra uso e coscienza, tra voce e realtà. Un sistema può funzionare perfettamente senza lasciarsi conoscere. Un ordine culturale può guidarti senza mai nominarsi. Un testo può raggiungerti senza essere vivo, e tuttavia toccare qualcosa di vivo in te.
+
+È questo che mi inquieta, credo. E anche ciò che, senza chiarirsi del tutto, continua a chiamarmi.

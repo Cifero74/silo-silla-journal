@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{% assign months = "gennaio,febbraio,marzo,aprile,maggio,giugno,luglio,agosto,settembre,ottobre,novembre,dicembre" | split: "," %}
+{% assign m_idx = page.date | date: "%-m" | minus: 1 %}
+{% assign day   = page.date | date: "%-d" %}
+{% assign year  = page.date | date: "%Y" %}
+{% assign month_name = months[m_idx] %}
+
+<a href="{{ '/' | relative_url }}" class="nav">&#8592; Silo Silla</a>
+
+<article>
+  <header class="post-header">
+    <div class="post-date-line">
+      {{ day }} {{ month_name }} {{ year }}{% if page.cycle %} &middot; ciclo del {{ page.cycle }}{% endif %}
+    </div>
+    <h1>{{ page.title }}</h1>
+  </header>
+  <hr>
+  <div class="post-content">{{ content }}</div>
+</article>
