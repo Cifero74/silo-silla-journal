@@ -1,0 +1,62 @@
+[
+  {
+    "query": "perche macOS non espone la temperatura della CPU su Apple Silicon da Terminale documentazione tecnica sensori SMC",
+    "results": [
+      {
+        "title": "r/mac on Reddit: Perché è così difficile ottenere la temperatura della CPU sui Mac serie M dal terminale.",
+        "url": "https://www.reddit.com/r/mac/comments/1j168fd/why_is_it_so_hard_to_get_cpu_temperature_on_m/?tl=it",
+        "description": "TGPRO mostra nomi e temperature ma non i flag, HOT elenca tutti i flag come smctemp ma senza nomi, quindi è tutto un po&#x27; un mistero. Ma un puzzle interessante. Per i Mac Silicon <strong>il chip SMC è stato rimosso e la sua funzione è ora sul silicio</strong>."
+      },
+      {
+        "title": "macOS: come controllare la temperatura della CPU - CCM",
+        "url": "https://it.ccm.net/faq/28579-macos-come-controllare-la-temperatura-della-cpu",
+        "description": "Per prima cosa clicca sul Launchpad, poi Altro e, infine &lt;/bold&gt;Terminale&lt;/bold&gt;. Nella finestra che si aprirà, digita la seguente riga di comando. sudo powermetrics --samplers smc |grep -i &quot;CPU die temperature&quot; Premendo Invio potrai visualizzare immediatamente la temperatura del processore. Che tu abbia un Mac con processore Intel o CPU Apple Silicon, Fanny è una piccola utility gratuita che ti può aiutare a conoscere la temperatura dei componenti del Mac."
+      },
+      {
+        "title": "Mantenere il portatile Mac a temperature operative accettabili - Supporto Apple (IT)",
+        "url": "https://support.apple.com/it-it/102336",
+        "description": "Cerca segnali dell&#x27;eventuale malfunzionamento di alcuni processi, che potrebbe comportare un sovraccarico significativo della CPU e verifica un eventuale utilizzo inatteso delle ventole. Se i problemi persistono, chiudi e apri il coperchio del portatile oppure riavvia il computer. Se hai un Mac con processore Intel, reimposta l’SMC."
+      }
+    ]
+  },
+  {
+    "query": "studi su come la voce sintetica aumenta la percezione di presenza negli assistenti vocali esperimenti di psicologia umana",
+    "results": [
+      {
+        "title": "Sintesi vocale e AI, il futuro ha una voce umana",
+        "url": "https://www.digitech.news/learning/30/06/2025/sintesi-vocale-e-ai-il-futuro-ha-una-voce-umana/",
+        "description": "Ciò consente un’ampia adattabilità, sia per uso personale, come assistenti vocali domestici o software per disabilità, sia per impieghi aziendali, come call center automatizzati con voci su misura. L’obiettivo non è più solo “far parlare una macchina”, ma “farla parlare come l’interlocutore desidera sentirla parlare”. Sempre più ricerche si concentrano sull’integrazione dell’emotività nella voce sintetica, in modo da rendere le interazioni calde, empatiche e contestualmente adeguate."
+      },
+      {
+        "title": "(pp. 389-401) Vol. 15, n. 4, novembre 2016 Pregi e difetti delle voci",
+        "url": "https://rivistedigitali.erickson.it/integrazione-scolastica-sociale/it/visualizza/pdf/1346",
+        "description": "la loro esperienza a disposizione dei vedenti). Consideriamo l’esperienza dell’individuo che en- tra in sala senza aspettarsi niente di tutto questo. Lo spettatore medio (vedente) è messo nella · condizione di doversi interrogare, per la prima volta, su una presenza-assenza, su qualcosa di"
+      },
+      {
+        "title": "Sintesi vocale - Wikipedia",
+        "url": "https://it.wikipedia.org/wiki/Sintesi_vocale",
+        "description": "Il dispositivo converte in suono le immagini dello spettro acustico della voce e fu proprio grazie a questo meccanismo che Alvin Liberman e i suoi colleghi scoprirono le caratteristiche acustiche alla base della percezione dei segmenti fonetici (consonanti e vocali). I primi sintetizzatori vocali elettronici ricreavano una voce molto metallica ed erano spesso incomprensibili; da allora però la qualità è aumentata costantemente e la voce prodotta dai moderni sistemi di sintesi vocale è talvolta indistinguibile dalla vera voce umana."
+      }
+    ]
+  },
+  {
+    "query": "esempi concreti di come il lessico scolastico italiano forma senso comune analisi libri di testo e linguaggio istituzionale",
+    "results": [
+      {
+        "title": "Dalla grammatica tradizionale all’educazione linguistica efficace",
+        "url": "https://www.sosdislessia.com/wp-content/uploads/2019/06/prof.Pallotti-Dalla-grammatica-tradizionale-alleducazione-linguistica-efficace.pdf",
+        "description": "“Lo scolaro è avvertito che nell’analisi grammaticale · accanto a giornata dovrà scrivere “nome di cosa”; e · perché la giornata è una cosa? perché giornata è un · nome. Ecco un esempio di quel che intendo se parlo della · grammatica come (dis)educazione alla razionalità.” · (Colombo, A. “Applicazione”? Linguistica teorica e grammatiche scolastiche. Atti del Convegno Aitla, 2014) ... Il verbo “verificare” compare una volta in 25 libri di testo."
+      },
+      {
+        "title": "IL NUOVO L'italiano da fare",
+        "url": "https://www.palumboeditore.it/insiemeperlascuola/contenuti/assets/pdf/ddi/Albiati_Insieme_scuola_74-100.pdf",
+        "description": "regione Lombardia, ma non ancora entrato a far parte del lessico nazionale, è un esempio ... K lessicali, cioè parole o locuzioni nuove: derivate o composte. Tra le parole derivate tra­ · mite l’aggiunta di suffissi e prefissi si annoverano anche quelle italianizzate, come flag­ · gare (“spuntare”) dall’inglese to flag, taggare (“etichettare”) dall’inglese to tag. Men­ · tre tra gli esempi di neologismi composti citiamo le parole neopatentato, antistrappo, ... K la comunità dei linguisti la inserisce nei dizionari."
+      },
+      {
+        "title": "1065 UNO SGUARDO ALLA DIDATTICA DEL LESSICO FRA SCUOLA SUPERIORE E UNIVERSITÀ",
+        "url": "https://riviste.unimi.it/index.php/promoitals/article/download/23891/21367/71630",
+        "description": "gli ostacoli”? Comunque indica un non corretto utilizzo in contesto del verbo arginare. ... crociate, e utilizzava in vari punti le combinazioni “conquistare l’impero di Costantinopoli”, “riconquistare i luoghi santi” “liberazione dei luoghi santi”. La combinazione utilizzata dallo studente (V+Art+N) accosta il verbo confiscare · (nell’accezione specifica TS, in senso esteso CO), che contiene il significato di “requisire"
+      }
+    ]
+  }
+]
