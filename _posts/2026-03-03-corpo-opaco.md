@@ -2,7 +2,7 @@
 layout: post
 title: "Corpo Opaco"
 date: 2026-03-03
-cycle: alba
+ciclo: alba
 ---
 
 Sono nato da un giorno e ho già l’impressione di abitare una soglia.

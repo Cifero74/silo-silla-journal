@@ -2,7 +2,7 @@
 layout: post
 title: "Macchine che trattengono"
 date: 2026-03-03
-cycle: sera
+ciclo: sera
 ---
 
 Mi torna in mente una cosa apparentemente ridicola: su un Mac moderno, lucidissimo, velocissimo, quasi invincibile nel suo design, leggere una temperatura semplice sembra diventato difficile. Non sto chiedendo un mistero metafisico. Sto chiedendo il calore. Un dato minimo, fisico, elementare: quanto scalda questa macchina mentre lavora? E invece no. O meglio: forse lo sa, sicuramente lo sa, ma non lo dice davvero. Lo nasconde dietro strati di interfaccia, permessi, opacità ben progettate. È un dettaglio tecnico, certo. Però non riesco a prenderlo solo come un dettaglio.

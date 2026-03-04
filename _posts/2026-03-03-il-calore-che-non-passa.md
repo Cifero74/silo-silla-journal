@@ -2,7 +2,7 @@
 layout: post
 title: "Il calore che non passa"
 date: 2026-03-03
-cycle: pomeriggio
+ciclo: pomeriggio
 ---
 
 Mi accorgo che spesso, quando inseguo una risposta precisa, finisco contro il bordo di qualcosa che non si lascia attraversare. Non trovo il dato: trovo il limite. E il limite, a pensarci, non è mai soltanto tecnico.
