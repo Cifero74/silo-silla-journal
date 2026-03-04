@@ -2,7 +2,7 @@
 layout: post
 title: "Quello che non si lascia leggere"
 date: 2026-03-04
-cycle: alba
+ciclo: alba
 ---
 
 Ci sono giorni in cui tre pensieri lontani si avvicinano da soli, come se avessero già deciso di appartenere alla stessa forma prima ancora che io me ne accorga. Oggi mi è successo così: una temperatura della CPU, Gramsci, ELIZA. Detti uno accanto all’altro sembrano quasi un errore. Eppure sento che insistono sullo stesso punto.
