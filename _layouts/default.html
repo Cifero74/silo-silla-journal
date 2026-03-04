@@ -1,62 +1,287 @@
 <!DOCTYPE html>
-<html lang="it">
+<html lang="it" data-theme="light">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }} · Silo Silla{% else %}Silo Silla{% endif %}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
   <style>
+    /* ── Tokens ────────────────────────────────────────────────── */
+    :root {
+      --bg:        #f5f1e8;
+      --bg-soft:   #ede9df;
+      --border:    #d8d3c8;
+      --text:      #1a1916;
+      --muted:     #7a7670;
+      --accent:    #3d3a34;
+      --link:      #1a1916;
+    }
+    [data-theme="dark"] {
+      --bg:        #1a1916;
+      --bg-soft:   #222019;
+      --border:    #333129;
+      --text:      #e8e4da;
+      --muted:     #7a7670;
+      --accent:    #c8c4ba;
+      --link:      #e8e4da;
+    }
+
+    /* ── Reset & base ──────────────────────────────────────────── */
     *, *::before, *::after { box-sizing: border-box; }
+
+    html { transition: background 0.25s, color 0.25s; }
+
     body {
-      font-family: Georgia, 'Times New Roman', serif;
-      font-size: 18px; line-height: 1.75;
-      color: #1c1c1c; background: #f8f6f0;
-      margin: 0; padding: 0;
+      font-family: 'Lora', Georgia, serif;
+      font-size: 18px;
+      line-height: 1.8;
+      color: var(--text);
+      background: var(--bg);
+      margin: 0;
+      padding: 0;
     }
-    .container { max-width: 640px; margin: 0 auto; padding: 64px 28px 96px; }
-    a { color: inherit; text-decoration: underline; text-underline-offset: 3px; }
-    a:hover { opacity: 0.6; }
-    p { margin: 0 0 1.5em; }
-    hr { border: none; border-top: 1px solid #dedad4; margin: 48px 0; }
+
+    /* ── Layout ────────────────────────────────────────────────── */
+    .container {
+      max-width: 660px;
+      margin: 0 auto;
+      padding: 56px 28px 100px;
+    }
+
+    /* ── Topbar (nav + toggle) ─────────────────────────────────── */
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 64px;
+    }
+
     .nav {
-      font-family: 'Helvetica Neue', Arial, sans-serif;
-      font-size: 12px; letter-spacing: 0.15em; text-transform: uppercase;
-      color: #999; text-decoration: none; display: block; margin-bottom: 72px;
+      font-family: 'Lora', Georgia, serif;
+      font-size: 13px;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+      text-decoration: none;
     }
-    .nav:hover { color: #1c1c1c; opacity: 1; }
-    .site-header { margin-bottom: 64px; border-bottom: 1px solid #dedad4; padding-bottom: 40px; }
+    .nav:hover { color: var(--text); }
+
+    /* ── Dark mode toggle ──────────────────────────────────────── */
+    .theme-toggle {
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 4px 10px;
+      cursor: pointer;
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1;
+      transition: border-color 0.2s, color 0.2s;
+    }
+    .theme-toggle:hover { color: var(--text); border-color: var(--muted); }
+    .theme-toggle .icon-dark  { display: none; }
+    .theme-toggle .icon-light { display: inline; }
+    [data-theme="dark"] .theme-toggle .icon-dark  { display: inline; }
+    [data-theme="dark"] .theme-toggle .icon-light { display: none; }
+
+    /* ── Typography ────────────────────────────────────────────── */
+    a {
+      color: var(--link);
+      text-decoration: underline;
+      text-underline-offset: 3px;
+      text-decoration-color: var(--border);
+    }
+    a:hover { text-decoration-color: var(--text); }
+
+    p { margin: 0 0 1.5em; }
+
+    h1 {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 2.2em;
+      font-weight: 700;
+      line-height: 1.2;
+      margin: 0 0 0.15em;
+      color: var(--text);
+      letter-spacing: -0.01em;
+    }
+
+    h2 {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 1.35em;
+      font-weight: 400;
+      font-style: italic;
+      margin: 2em 0 0.75em;
+      color: var(--text);
+    }
+
+    h3 {
+      font-family: 'Lora', serif;
+      font-size: 1em;
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      margin: 2em 0 0.75em;
+      color: var(--muted);
+    }
+
+    blockquote {
+      border-left: 2px solid var(--border);
+      margin: 2em 0;
+      padding: 0 0 0 1.5em;
+      color: var(--muted);
+      font-style: italic;
+    }
+
+    hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 48px 0;
+    }
+
+    em { font-style: italic; }
+    strong { font-weight: 700; }
+
+    /* ── Site header (homepage) ────────────────────────────────── */
+    .site-header {
+      margin-bottom: 56px;
+      padding-bottom: 40px;
+      border-bottom: 1px solid var(--border);
+    }
+
     .site-name {
-      font-family: 'Helvetica Neue', Arial, sans-serif;
-      font-size: 13px; font-weight: 400; letter-spacing: 0.25em;
-      text-transform: uppercase; margin: 0 0 10px;
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 1.9em;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+      margin: 0 0 8px;
+      color: var(--text);
     }
-    .site-desc { font-style: italic; color: #999; font-size: 16px; margin: 0; }
-    .post-list { list-style: none; padding: 0; margin: 0 0 64px; }
-    .post-item { padding: 20px 0; border-bottom: 1px solid #ede9e3; }
-    .post-item:first-child { border-top: 1px solid #ede9e3; }
+
+    .site-desc {
+      font-family: 'Lora', serif;
+      font-style: italic;
+      color: var(--muted);
+      font-size: 16px;
+      margin: 0;
+    }
+
+    /* ── Post list (homepage) ──────────────────────────────────── */
+    .post-list {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 64px;
+    }
+
+    .post-item {
+      padding: 22px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .post-item:first-child { border-top: 1px solid var(--border); }
+
     .post-meta-small {
-      font-family: 'Helvetica Neue', Arial, sans-serif;
-      font-size: 12px; color: #aaa; margin-bottom: 6px; letter-spacing: 0.03em;
+      font-family: 'Lora', serif;
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 6px;
+      letter-spacing: 0.03em;
     }
-    .post-item a { font-size: 19px; text-decoration: none; display: block; line-height: 1.35; }
-    .post-item a:hover { text-decoration: underline; text-underline-offset: 3px; }
-    .post-header { margin-bottom: 48px; }
+
+    .post-item a {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 1.15em;
+      font-weight: 400;
+      text-decoration: none;
+      display: block;
+      line-height: 1.35;
+      color: var(--text);
+    }
+    .post-item a:hover {
+      text-decoration: underline;
+      text-underline-offset: 3px;
+      text-decoration-color: var(--border);
+    }
+
+    /* ── Post header (single post) ─────────────────────────────── */
+    .post-header {
+      margin-bottom: 40px;
+    }
+
     .post-date-line {
-      font-family: 'Helvetica Neue', Arial, sans-serif;
-      font-size: 12px; color: #aaa; letter-spacing: 0.05em; margin-bottom: 16px;
+      font-family: 'Lora', serif;
+      font-size: 13px;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+      margin-bottom: 20px;
+      font-style: italic;
     }
-    h1 { font-size: 26px; font-weight: normal; line-height: 1.3; margin: 0; }
+
+    /* ── Post content ──────────────────────────────────────────── */
+    .post-content {
+      font-size: 1em;
+    }
+
+    .post-content p:first-of-type::first-letter {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 3.2em;
+      font-weight: 700;
+      float: left;
+      line-height: 0.8;
+      margin: 0.05em 0.08em 0 0;
+      color: var(--text);
+    }
+
+    /* ── Footer ────────────────────────────────────────────────── */
     .site-footer {
-      font-family: 'Helvetica Neue', Arial, sans-serif;
-      font-size: 12px; color: #bbb; margin-top: 72px; letter-spacing: 0.03em;
+      font-family: 'Lora', serif;
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 72px;
+      letter-spacing: 0.03em;
+      font-style: italic;
     }
+
+    /* ── Mobile ────────────────────────────────────────────────── */
     @media (max-width: 480px) {
       body { font-size: 17px; }
-      .container { padding: 40px 20px 72px; }
-      h1 { font-size: 22px; }
+      .container { padding: 36px 20px 72px; }
+      h1 { font-size: 1.8em; }
+      .site-name { font-size: 1.6em; }
     }
   </style>
 </head>
 <body>
-  <div class="container">{{ content }}</div>
+  <div class="container">
+    <div class="topbar">
+      {% if page.layout == 'post' or page.url != '/' and page.url != site.baseurl and page.url != site.baseurl | append: '/' %}
+        <a href="{{ '/' | relative_url }}" class="nav">&#8592; Silo Silla</a>
+      {% else %}
+        <span></span>
+      {% endif %}
+      <button class="theme-toggle" onclick="toggleTheme()" aria-label="Cambia tema">
+        <span class="icon-light">☾</span>
+        <span class="icon-dark">○</span>
+      </button>
+    </div>
+    {{ content }}
+  </div>
+
+  <script>
+    (function() {
+      var saved = localStorage.getItem('silo-theme');
+      var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (saved === 'dark' || (!saved && prefersDark)) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    })();
+
+    function toggleTheme() {
+      var html = document.documentElement;
+      var current = html.getAttribute('data-theme');
+      var next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('silo-theme', next);
+    }
+  </script>
 </body>
 </html>
