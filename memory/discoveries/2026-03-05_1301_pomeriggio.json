@@ -1,0 +1,62 @@
+[
+  {
+    "query": "in che modo le scuole italiane stanno affrontando l'intelligenza artificiale nei curricula",
+    "results": [
+      {
+        "title": "Intelligenza artificiale a scuola: isolamento o crescita? Il ruolo cruciale dell'educazione digitale nella consapevolezza degli studenti italiani - EduNews24",
+        "url": "https://edunews24.it/scuola/intelligenza-artificiale-a-scuola-isolamento-o-crescita-il-ruolo-cruciale-delleducazione-digitale-nella-consapevolezza-degli-studenti-italiani",
+        "description": "Il processo di alfabetizzazione digitale è già stato introdotto dalle riforme ministeriali più recenti, che <strong>puntano a includere nel curriculum lo sviluppo delle cosiddette &quot;competenze digitali trasversali&quot;.</strong>"
+      },
+      {
+        "title": "L’intelligenza artificiale entra a scuola. Ma come? | D. Azzolini, G. S. Lampis e F. Ottaviani",
+        "url": "https://lavoce.info/archives/109639/lintelligenza-artificiale-entra-a-scuola-ma-come/",
+        "description": "Leggi anche: L&#x27;intelligenza artificiale e il lavoro: lezioni dagli Stati Uniti · Le Linee guida italiane sull’uso dell’IA a scuola insistono sull’importanza della formazione per tutto il personale scolastico e amministrativo, compresi gli studenti, in modo da attrezzare l’intera comunità scolastica a integrarla in modo efficace e sicuro nelle attività quotidiane. Consigliano alle scuole di predisporre piani di formazione integrati nei piani triennali dell’offerta formativa, descrivendo in dettaglio moduli, tempi, risorse e metodologie rivolti a docenti e personale amministrativo."
+      },
+      {
+        "title": "L’Intelligenza Artificiale nelle aule di scuola, la sfida italiana - L'Eurispes",
+        "url": "https://www.leurispes.it/intelligenza-artificiale-nelle-aule-di-scuola-la-sfida-italiana/",
+        "description": "Intanto la Regione Lombardia lo scorso novembre ha pubblicato un documento contenente le linee guida sull’utilizzo dell’AI nelle scuole[3]; si tratta della prima adozione a livello regionale, sebbene preceduta da un’iniziativa di una rete di 55 scuole del Friuli-Venezia Giulia che ha pubblicato a maggio del 2024 l’e-book Costruire il futuro. Linee guida sull’utilizzo dell’IA in ambito scolastico e, molti licei soprattutto scientifici, hanno introdotto all’interno dei curricula scolastici, percorsi che integrano lo studio dell’Intelligenza Artificiale negli indirizzi di scienze applicate."
+      }
+    ]
+  },
+  {
+    "query": "la storia e l'evoluzione dei sensori di temperatura nei dispositivi Apple",
+    "results": [
+      {
+        "title": "Breve storia dei sensori di temperatura",
+        "url": "https://it.omega.com/technical-learning/storia-del-sensor-di-temperatura.html",
+        "description": "Non è chiaro se antichi greci o cinesi disponessero di modi per misurare la temperatura; quindi, per quanto ne sappiamo, la storia dei sensori di temperatura inizia nel Rinascimento. Questo whitepaper di Omega Engineering riepiloga proprio la storia conosciuta della misura della temperatura e, dopo una breve presentazione delle sfide affrontate, ripercorre lo sviluppo dei dispositivi in base a:"
+      },
+      {
+        "title": "L'iPhone diventa anche un termometro, la nuova idea targata Apple | GQ Italia",
+        "url": "https://www.gqitalia.it/tech-auto/article/iphone-termometro-febbre-temperatura",
+        "description": "Stando ad un brevetto depositato ... United States Patent and Trademark Office, <strong>la Mela avrebbe trovato un modo per misurare la temperatura corporea direttamente con lo smartphone grazie ad un semplice accessorio da agganciare alla</strong> fotocamera...."
+      },
+      {
+        "title": "Apple brevetta un sensore di temperatura per iPhone - macitynet.it",
+        "url": "https://www.macitynet.it/apple-brevetta-sensore-temperatura-iphone/",
+        "description": "<strong>Apple ha da tempo registrato alcuni brevetti per sfruttare sensori per la lettura della temperatura da applicare alla fotocamera</strong>, accessorio che potrebbe essere usato non solo in iPhone, ma anche in altri dispositivi del marchio, inclusi Apple ..."
+      }
+    ]
+  },
+  {
+    "query": "strategie per migliorare la qualità delle voci sintetiche nei sistemi vocali",
+    "results": [
+      {
+        "title": "Voci di sintesi vocale custom: 5 punti chiave per i brand manager",
+        "url": "https://www.readspeaker.com/it/blog/voci-personalizzate/",
+        "description": "Qual è il nostro consiglio? Chiedi sempre al tuo fornitore di servizi di sintesi vocale text-to-speech che tipo di risorse informatiche sono necessarie per implementare una voce che sia di tuo gradimento. Non dare per scontato che la voce ad alta definizione realizzata dall’intelligenza artificiale sia adatta per l’uso che ne devi fare. La realtà sul piano tecnico è che le voci migliori di oggi non funzionano in tutte le situazioni."
+      },
+      {
+        "title": "Sintesi vocale - Wikipedia",
+        "url": "https://it.wikipedia.org/wiki/Sintesi_vocale",
+        "description": "I vari sistemi di sintesi vocale ... campioni vocali memorizzati: un sistema che memorizza singoli fonemi o fonemi doppi consente di ottenere il numero massimo di combinazioni a discapito della chiarezza complessiva, mentre in altri sistemi concepiti per un impiego specifico si ricorre alla registrazione di parole intere o di intere frasi per ottenere un risultato di qualità elevata. In alternativa, un sintetizzatore può incorporare ..."
+      },
+      {
+        "title": "Top10 Sintetizzatori Vocali AI del 2024: crea contenuti Vocali",
+        "url": "https://www.adaptiwave.com/migliori-10-sintetizzatori-vocali-ai/",
+        "description": "Inoltre, offre voci di alta qualità, tra cui le Studio voices e le Neural voices, che garantiscono un audio di livello professionale. L’integrazione con altri prodotti Google Cloud rende questa API particolarmente vantaggiosa per le aziende già inserite nell’ecosistema Google. Le continue migliorie e l’ampio supporto linguistico consolidano la posizione di Google Cloud Text-to-Speech tra i migliori sintetizzatori vocali del 2024."
+      }
+    ]
+  }
+]
