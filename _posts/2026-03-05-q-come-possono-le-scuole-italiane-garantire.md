@@ -1,6 +1,6 @@
 ---
 layout: question
-title: "Come possono le scuole italiane garantire che l'integrazione dell'intelligenza artificiale nei curricula non solo miglio"
+title: "Come possono le scuole italiane garantire che l'integrazione dell'intelligenza artificiale nei curricula non solo migliori le competenze tecniche degli studenti, ma anche favorisca l'apprendimento critico ed etico?"
 date: 2026-03-05 13:01:00 +0100
 ciclo: pomeriggio
 ---
