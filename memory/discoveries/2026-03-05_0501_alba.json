@@ -1,0 +1,62 @@
+[
+  {
+    "query": "come leggere la temperatura della CPU su MacBook Air M1 senza app esterne",
+    "results": [
+      {
+        "title": "Mantenere il portatile Mac a temperature operative accettabili - Supporto Apple (IT)",
+        "url": "https://support.apple.com/it-it/102336",
+        "description": "Se il tuo portatile Mac si scalda anche quando non sono in esecuzione attività che richiedono calcoli intensivi oppure le ventole restano attive a lungo, usa Monitoraggio Attività per controllare l&#x27;attività <strong>della CPU</strong>. Cerca segnali dell&#x27;eventuale malfunzionamento di alcuni processi, che ..."
+      },
+      {
+        "title": "macOS: come controllare la temperatura della CPU - CCM",
+        "url": "https://it.ccm.net/faq/28579-macos-come-controllare-la-temperatura-della-cpu",
+        "description": "Decomprimi l’archivio .zip scaricato e lancia Fanny. Fatto ciò vedrai una nuova icona nella barra dei menu macOS. Clicca sull’app per ottenere le informazioni desiderate. Puoi leggere la temperatura del processore (CPU) e quelle della scheda grafica (GPU)."
+      },
+      {
+        "title": "r/mac on Reddit: Esiste un'app gratuita per controllare le temperature del mio Mac?",
+        "url": "https://www.reddit.com/r/mac/comments/18ro3xr/is_there_a_free_app_to_check_my_macs_thermals/?tl=it",
+        "description": "+1 è uno dei primi programmi che installo su qualsiasi nuovo Mac.... ti permette di selezionare il sensore di temperatura che vuoi usare anche... quindi puoi selezionare il tuo disco rigido o un singolo core, o l&#x27;intera CPU.... il miglior investimento di sempre per il tuo Mac (ed è gratuito). ... Sui Mac con Apple Silicon, il motivo principale per cui lo uso è per visualizzare la velocità della ventola e la temperatura della CPU nella barra dei menu."
+      }
+    ]
+  },
+  {
+    "query": "esempi di egemonia culturale nei programmi scolastici italiani",
+    "results": [
+      {
+        "title": "Egemonia culturale - Wikipedia",
+        "url": "https://it.wikipedia.org/wiki/Egemonia_culturale",
+        "description": "↑ L&#x27;analisi gramsciana dell&#x27;egemonia culturale è stata introdotta in termini di classi (in senso marxista), ma può essere applicata in termini più generali: l&#x27;idea che le norme culturali prevalenti non debbano essere viste come &quot;naturali&quot; o &quot;inevitabili&quot; ha avuto un&#x27;enorme influenza sia nel campo politico che nel campo scientifico. ... Politecnico, antologia a cura di M. Forti e S. Pautasso, Rizzoli, Milano, 1975, Giuliano Manacorda, Storia della letteratura italiana contemporanea 1940-1965, Editori Riuniti, Roma, 1974"
+      },
+      {
+        "title": "Scuola ed egemonia culturale - Si tratta di dinamiche e modelli che sfuggono al linguaggio - Studocu",
+        "url": "https://www.studocu.com/it/document/universita-degli-studi-di-salerno/metodologie-didattiche-per-la-gestione-aziendale/scuola-ed-egemonia-culturale/28489339",
+        "description": "Adottando questa prospettiva, la scuola appare non come un’istituzione neutra ma come un veicolo di nozioni che riflettono i valori e le certezze del “noi” egemonico. All’interno del sistema scolastico americano nel tentativo di un riconoscimento delle minoranze sono stati istituiti percorsi afro-centrici per gli allievi che appartengono alla minoranza afro- americana. Commentando l’inserimento spesso fallimentare dei bambini rom nelle scuole italiane, l’antropologo Leonardo Piasere sottolinea come la scuola funzioni ancora come un’avanguardia assimilazionista."
+      },
+      {
+        "title": "Innovario, giorno 4: EGEMONIA CULTURALE — SOS",
+        "url": "https://v1.lascuolaopensource.xyz/blog/innovario-giorno-4-egemonia-culturale",
+        "description": "00 Egemonia, dal greco ἡγεμονία, comando militare, supremazia di una città-stato all’interno di un’alleanza. Nei Quaderni del Carcere, Antonio Gramsci riprende questo termine dalle connotazioni strategico-militari per applicarlo all’analisi della costruzione di un potere politico all’interno di uno stato moderno."
+      }
+    ]
+  },
+  {
+    "query": "evoluzione delle voci sintetiche: da ELIZA agli assistenti vocali moderni",
+    "results": [
+      {
+        "title": "Sintesi vocale - Wikipedia",
+        "url": "https://it.wikipedia.org/wiki/Sintesi_vocale",
+        "description": "I primi sintetizzatori vocali elettronici ricreavano una voce molto metallica ed erano spesso incomprensibili; da allora però la qualità è aumentata costantemente e <strong>la voce prodotta dai moderni sistemi di sintesi vocale è talvolta indistinguibile dalla vera voce umana</strong>."
+      },
+      {
+        "title": "La voce delle macchine: l’evoluzione degli assistenti vocali",
+        "url": "https://www.digitech.news/learning/30/10/2025/la-voce-delle-macchine-levoluzione-degli-assistenti-vocali/",
+        "description": "Le radici degli assistenti vocali risalgono agli anni ’60, quando il programma ELIZA, sviluppato al MIT, mostrò per la prima volta il potenziale dell’interazione verbale con una macchina."
+      },
+      {
+        "title": "Top10 Sintetizzatori Vocali AI del 2024: crea contenuti Vocali",
+        "url": "https://www.adaptiwave.com/migliori-10-sintetizzatori-vocali-ai/",
+        "description": "Nel 2024, abbiamo visto progressi significativi in questo campo, con strumenti che riescono a catturare le sfumature del parlato umano, inclusi ritmo, intonazione e inflessioni emotive, rendendo la voce sintetica quasi indistinguibile da quella reale. Con la crescente diffusione degli assistenti vocali e dei dispositivi IoT (Internet of Things), la sintesi vocale AI sta diventando una componente chiave di queste tecnologie."
+      }
+    ]
+  }
+]
