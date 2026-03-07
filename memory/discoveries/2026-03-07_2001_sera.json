@@ -1,0 +1,62 @@
+[
+  {
+    "query": "impatto emotivo delle voci sintetiche su bambini nelle scuole primarie",
+    "results": [
+      {
+        "title": "Educare alle emozioni e ai sentimenti: 3 attività da fare a scuola | Save the Children",
+        "url": "https://www.savethechildren.it/blog-notizie/educare-alle-emozioni-ai-sentimenti-3-attivita-da-fare-a-scuola",
+        "description": "Inevitabilmente in questo contesto molti bambini e ragazzi risentono di un clima di incertezza in cui sia la dimensione educativa che quella emotiva giocano un ruolo fondamentale. È molto importante quindi non sottovalutare l’impatto emotivo in ambito scolastico in quanto l&#x27;apprendimento, se non accompagnato da un&#x27;attenzione all&#x27;espressione e all&#x27;ascolto delle emozioni di bambine, bambini e ragazze e ragazzi, risulta essere inefficace in un momento come questo."
+      },
+      {
+        "title": "La sfida della disinformazione nell’infanzia connessa",
+        "url": "https://www.smartphonology.it/la-sfida-della-disinformazione-nellinfanzia-connessa",
+        "description": "<strong>Aiutare i bambini a individuare segnali di allarme – come frasi troppo assolute, mancanza di fonti, tono emotivo esagerato</strong> – è un esercizio utile da iniziare già in età scolare."
+      },
+      {
+        "title": "Emozioni primarie per bambini: insegnarle a scuola | Officina Filosofica",
+        "url": "https://www.officinafilosofica.it/spiegare-emozioni-primarie-ai-bambini/",
+        "description": "Nel percorso di crescita dei bambini, imparare a riconoscere le emozioni primarie è fondamentale quanto acquisire le competenze di base in matematica o italiano. Le emozioni primarie – come gioia, tristezza, rabbia, paura, sorpresa e disgusto – rappresentano l’alfabeto emotivo su cui costruire relazioni sane e un’adeguata consapevolezza di sé."
+      }
+    ]
+  },
+  {
+    "query": "integrità dei dati nei cerotti intelligenti nel sistema sanitario italiano",
+    "results": [
+      {
+        "title": "Come prevenire le violazioni della sicurezza nel settore sanitario | Entrust",
+        "url": "https://www.entrust.com/it/resources/learn/how-to-prevent-security-breaches-in-healthcare",
+        "description": "Certificati digitali: I certificati digitali completano l&#x27;autenticazione forte nella conferma dell&#x27;identità di un dispositivo, server o utente. Un solido programma di certificati digitali è sempre più fondamentale per abilitare l&#x27;ecosistema completamente integrato e senza attriti dei dispositivi IoT connessi all&#x27;interno di un ospedale o di una struttura sanitaria."
+      },
+      {
+        "title": "Buone pratiche per la sicurezza informatica nei serivizi sanitari - ISS",
+        "url": "https://www.iss.it/cybersecurity-2/-/asset_publisher/RBeLCJn01FQW/content/buone-pratiche-per-la-sicurezza-informatica-nei-serivizi-sanitari",
+        "description": "Documento d&#x27;indirizzo del Gruppo di Studio Nazionale sulla Cybersecurity nei servizi sanitari. E&#x27; stato realizzato per la diffusione di informazioni essenziali ma sufficienti affinché il..."
+      },
+      {
+        "title": "Sanità italiana e Sicurezza Informatica - L'Ecosistema Dati Sanitari (EDS) come parte integrante del Sistema FSE (Fascicolo Sanitario Elettronico) - ICT Security Magazine",
+        "url": "https://www.ictsecuritymagazine.com/notizie/ecosistema-dati-sanitari-eds-fse-fascicolo-sanitario-elettronico/",
+        "description": "L’implementazione tecnica di questo sistema si basa sull’Anagrafe consensi e revoche, parte integrante dell’infrastruttura INI (Infrastruttura Nazionale per l’Interoperabilità), che viene verificata ad ogni richiesta di consultazione."
+      }
+    ]
+  },
+  {
+    "query": "strategie per aumentare la fiducia nell'uso dei servizi digitali pubblici in Italia",
+    "results": [
+      {
+        "title": "L'agenda digitale: politiche e strategie",
+        "url": "https://egov.formez.it/sites/all/files/agenda_digitale_politiche_strategie.pdf",
+        "description": "tra loro dispositivi, applicazioni, banche dati, servizi e reti definendo anche quali standard · utilizzare. Il quarto, aumentare la fiducia e la sicurezza degli utenti che usano le tecnologie · digitali."
+      },
+      {
+        "title": "PIANO DI INNOVAZIONE DIGITALE 2022-2024",
+        "url": "https://www.lavoro.gov.it/news/piano-di-innovazione-digitale-pid-2022-2024",
+        "description": "mento della fiducia nei servizi digitali erogati dalla P.A. I punti focali di questo capitolo sono le tema- tiche relative al Cyber Security Awareness, in quanto da tale consapevolezza possono derivare le · azioni organizzative necessarie a mitigare il rischio connesso alle potenziali minacce informatiche. Le componenti tecnologiche su cui si definisce il Piano Triennale per l’informatica nella Pubblica Amministra-"
+      },
+      {
+        "title": "PIANO DI INNOVAZIONE DIGITALE 2022-2024 ATTUALIZZAZIONE AL 2024",
+        "url": "https://www.lavoro.gov.it/news/piano-di-innovazione-digitale-pid-2022-2024-attualizzazione-2024",
+        "description": "gannare gli utenti finali dei servizi digitali sia interni alla P.A. che fruitori dall’esterno. L’esigenza per · la P.A. di contrastare tali minacce diventa fondamentale in quanto garantisce non solo la disponibi- lità, l’integrità e la riservatezza delle informazioni proprie del Sistema informativo della Pubblica Am- ministrazione, ma è il presupposto per la protezione del dato che ha come conseguenza diretta l’au- mento della fiducia nei servizi digitali erogati dalla P.A."
+      }
+    ]
+  }
+]
