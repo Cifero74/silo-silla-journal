@@ -1,0 +1,62 @@
+[
+  {
+    "query": "Impatto psicologico dell'uso dell'IA nella didattica delle scuole primarie",
+    "results": [
+      {
+        "title": "Le IA nell'istruzione: pro e contro per gli studenti - Agenda Digitale",
+        "url": "https://www.agendadigitale.eu/scuola-digitale/intelligenza-artificiale-nellapprendimento-le-sfide-per-docenti-e-ragazzi/",
+        "description": "Ciò significa che gli insegnanti saranno in grado di pianificare attività efficaci e all’avanguardia per i loro studenti, in modo efficiente e rapido, portando a risultati migliori nell’istruzione, oltre ad avere gli strumenti per apportare variazioni alla conduzione della singola lezione in tempo reale, ottimizzando così ogni attimo della loro didattica."
+      },
+      {
+        "title": "Intelligenza Artificiale nell'Istruzione: Pro e Contro per Bambini e Studenti Universitari",
+        "url": "https://brix-ia.com/blog/intelligenza-artificiale-nell-istruzione-pro-e-contro-per-bambini-e-studenti-universitari/",
+        "description": "<strong>Da un lato abbiamo apprendimento personalizzato e feedback immediato, dall&#x27;altro un po&#x27; di sana preoccupazione per privacy, disuguaglianze e dipendenza dalla tecnologia</strong>. In questo articolo andiamo a fondo su come l&#x27;IA stia impattando i bambini ..."
+      },
+      {
+        "title": "L'Intelligenza Artificiale a Scuola - Mondadori Education",
+        "url": "https://www.mondadorieducation.it/ia-a-scuola/",
+        "description": "Lorenzo Redaelli, docente, formatore, esperto AI e presidente dell’associazione culturale Didattica Innovativa, prende spunto da storie avvincenti del passato per aiutarci a comprendere meglio il presente e immaginare insieme il futuro della didattica, demistificando al contempo le nuove tecnologie e promuovendo un loro uso consapevole ed efficace nelle nostre scuole!"
+      }
+    ]
+  },
+  {
+    "query": "Implementazione dei cerotti intelligenti nel sistema sanitario italiano 2026",
+    "results": [
+      {
+        "title": "Fascicolo sanitario elettronico, attivo e funzionante in tutta Italia entro il 2026",
+        "url": "https://trendsanita.it/fascicolo-sanitario-elettronico-2026/",
+        "description": "<strong>Entro il 2026</strong> il Fascicolo Sanitario Elettronico dovrà essere regolarmente utilizzato da almeno l’85% dei medici di base in tutte le Regioni italiane e contenere tutti i dati sanitari più importanti di ogni paziente in formato digitale."
+      },
+      {
+        "title": "Come l'IoT trasforma industria, sanità e case intelligenti",
+        "url": "https://www.digitech.news/learning/04/03/2026/come-iot-trasforma-industria-sanita-e-case-intelligenti/",
+        "description": "Nel settore sanitario, <strong>le soluzioni IoT stanno ridefinendo il modo in cui vengono erogati i servizi</strong>. Dispositivi indossabili, sensori e applicazioni mobili permettono di raccogliere in tempo reale i parametri vitali dei pazienti, rafforzando ..."
+      },
+      {
+        "title": "IA e dati sanitari: il futuro tra progresso e regolamenti - I-Com, Istituto per la Competitività",
+        "url": "https://www.i-com.it/2025/05/30/lia-al-servizio-della-salute-opportunita-globali-e-regole-europee/",
+        "description": "Anche in Italia l’interesse per l’IA in sanità sta crescendo, come dimostra il progetto #Reg4IA della Regione Liguria, selezionato come pilota nazionale, che mira a ottimizzare la gestione delle liste d’attesa attraverso algoritmi predittivi e adattivi capaci di analizzare in tempo reale la domanda e l’offerta di prestazioni, personalizzando i percorsi di cura. Il progetto, finanziato con 6,5 milioni di euro, coinvolge anche altre regioni italiane e punta a migliorare l’efficienza e l’equità del sistema sanitario entro il 2026."
+      }
+    ]
+  },
+  {
+    "query": "Statistica recente sui tassi di interazione umana vs digitale in Italia",
+    "results": [
+      {
+        "title": "Cittadini e ICT – Anno 2024",
+        "url": "https://www.istat.it/comunicato-stampa/cittadini-e-ict-anno-2024/",
+        "description": "Nel 2024 il <strong>tasso di</strong> diffusione di Internet è pari all’86,2% (+2,5 punti percentuali rispetto all’anno precedente); questo valore sale al 93,4% tra le famiglie con almeno un componente tra i 16 e i 74 anni, in linea con la media Ue27 (94,1%)."
+      },
+      {
+        "title": "20 dicembre 2023 CITTADINI E ICT | ANNO 2023",
+        "url": "https://www.istat.it/it/files/2023/12/Cittadini-e-ICT-2023.pdf",
+        "description": "quelle che dispongono di un accesso a Internet è pari all’84,1% (+1 punto percentuale sull’anno · precedente). Supera di oltre 5 punti percentuali il divario tra il Centro-nord e il Mezzogiorno quanto a ... fattore discriminante: nei Comuni centro delle aree metropolitane il <strong>tasso di</strong> ..."
+      },
+      {
+        "title": "Assolombarda - Indice di digitalizzazione dell’economia e della società (DESI) - 2022",
+        "url": "https://www.assolombarda.it/centro-studi/indice-di-digitalizzazione-dell2019economia-e-della-societa-desi-2022",
+        "description": "L’Italia si posiziona 19esima ... i continui progressi, <strong>solo il 40% degli utenti italiani di Internet utilizza i servizi pubblici digitali, un dato ben al di sotto della media UE del 65%</strong>. Si ottengono risultati migliori ..."
+      }
+    ]
+  }
+]
