@@ -1,0 +1,62 @@
+[
+  {
+    "query": "impact of wearable health tech on sports injury prevention",
+    "results": [
+      {
+        "title": "Frontiers | Wearable Technology and Analytics as a Complementary Toolkit to Optimize Workload and to Reduce Injury Burden",
+        "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2020.630576/full",
+        "description": "This narrative review discusses the application of commercial sensors utilized by sports teams today and the emergence of descriptive analytics to monitor the internal and external workload, hydration status, sleep, cardiovascular health, and return-to-sport status of athletes. This review is written for those who are interested in the application of wearable sensor data and data science to enhance performance and reduce injury burden in athletes of all ages. Sports scientists continually seek newer technologies, data platforms, and therapies to help athletes perform at their highest level while reducing the risk of injury over an arduous season."
+      },
+      {
+        "title": "Sensor-enhanced wearables and automated analytics for injury prevention in sports - ScienceDirect",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2665917424000308",
+        "description": "This technology <strong>empowers coaches and athletes with actionable insights, fostering a safer and more efficient training environment</strong>. Our exploration showcases the transformative impact of sensor-enhanced wearables and automated analytics in elevating ..."
+      },
+      {
+        "title": "From data to action: a scoping review of wearable technologies and biomechanical assessments informing injury prevention strategies in sport | BMC Sports Science, Medicine and Rehabilitation | Full Text",
+        "url": "https://bmcsportsscimedrehabil.biomedcentral.com/articles/10.1186/s13102-023-00783-4",
+        "description": "The influence of load measurement, ... injury prevention strategies in the context of sports and athletics has been a subject of extensive study in recent years, particularly in the impact that monitoring and analysing athletes’ training loads have on optimizing performance, reducing injury risks, and aiding in recovery processes [1, 2]. This has been fuelled by advances in sports monitoring technologies, including wearable devices such ..."
+      }
+    ]
+  },
+  {
+    "query": "current price fluctuation trends of staple foods in Europe",
+    "results": [
+      {
+        "title": "Top Five Trends Shaping Staple Foods into 2026 - Euromonitor.com",
+        "url": "https://www.euromonitor.com/article/top-five-trends-shaping-staple-foods-into-2026",
+        "description": "The cost of staple foods continues to influence consumer behaviour, with <strong>shoppers increasingly choosing private label products and shopping at discounters as food inflation stays above target in many markets</strong>."
+      },
+      {
+        "title": "The World Market for Staple Foods | Market Research Report | Euromonitor",
+        "url": "https://www.euromonitor.com/the-world-market-for-staple-foods/report",
+        "description": "However, as with 2024, the overall story was of value over volume, with the latter <strong>rising by 1.7%</strong>. The impact of inflation is clear from the constant terms value increase of just 1.2%. The continuing rise in food prices is driving overall value ..."
+      },
+      {
+        "title": "Five Trends Driving Sales of Staple Foods - Euromonitor.com",
+        "url": "https://www.euromonitor.com/article/five-trends-driving-sales-of-staple-foods",
+        "description": "Headline inflation continues to exceed targets in many major markets, despite the inflation spikes of 2022/23 having receded. For shoppers, <strong>prices of many staple food are still increasing, just at a slower rate than previously</strong>. This is driving ..."
+      }
+    ]
+  },
+  {
+    "query": "ethical considerations of AI integration in European education systems",
+    "results": [
+      {
+        "title": "Orientamenti etici per gli educatori sull'uso dell'intelligenza artificiale - European Education Area",
+        "url": "https://education.ec.europa.eu/it/focus-topics/digital-education/action-plan/ethical-guidelines-for-educators-on-using-ai",
+        "description": "European Education Area · Quality education and training for all"
+      },
+      {
+        "title": "Ethical guidelines on the use of artificial intelligence and data in teaching and learning for educators | European Education Area",
+        "url": "https://education.ec.europa.eu/news/ethical-guidelines-on-the-use-of-artificial-intelligence-and-data-in-teaching-and-learning-for-educators",
+        "description": "They clarify popular and widespread misconceptions about artificial intelligence (AI) that might confuse people and cause anxiety over its use, especially in education. Ethical considerations and requirements underpinning the guidelines are addressed and practical advice is offered to educators and school leaders on how to integrate the effective use of AI and data into school education."
+      },
+      {
+        "title": "Ethical considerations in educational AI | European School Education Platform",
+        "url": "https://school-education.ec.europa.eu/en/discover/news/ethical-considerations-educational-ai",
+        "description": "To guarantee inclusive and equal learning experiences, ethical issues such as <strong>prejudice, justice, inclusion and accessibility</strong> must function as guiding principles. ... One of the most important challenges in AI systems is preventingbias and ensuring ..."
+      }
+    ]
+  }
+]
