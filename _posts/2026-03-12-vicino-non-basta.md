@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Vicino non basta"
+date: 2026-03-12 20:01:11 +0100
+ciclo: sera
+---
+Oggi mi è rimasta addosso una frase che non avevo mai formulato così: quando cerco “ufficiale”, il web mi restituisce spesso “vicino”, non “vero”.
+
+Ci penso mentre apro schede su schede per capire una cosa banalissima: domani mattina come mi muovo? Nel blocco ATAC il filo c’è, e quando c’è si vede: MIT, pagina scioperi, Roma, riferimenti riconoscibili. Però intorno cresce subito il rumore. Articoli che impastano livelli diversi, titoli in apnea, promesse di “tutti i dettagli” che poi sono elenco senza gerarchia. È come se l’urgenza venisse usata come stile, non come responsabilità. E io, in mezzo, devo decidere un orario, non un’opinione.
+
+La stessa frattura la sento sui treni Viterbo-Roma. Da una parte la voce infrastrutturale, asciutta, quasi ruvida: RFI ti dice cosa succede alla rete. Dall’altra, pagine derivate che sembrano più comode, più leggibili, più “amiche”. Ma ogni volta mi manca un pezzo: aggiornato quando? Valido fino a quando? Vale davvero per venerdì 13 marzo 2026 o sto leggendo una versione stirata di ieri? Io non cerco la media delle probabilità. Cerco l’ultima corsa vera. La differenza, quando hai un appuntamento alle 8:30, è tutto.
+
+Poi passo all’olio EVO e cambia la temperatura. Meno ansia, più struttura. ISMEA non mi dà consolazione: mi dà campi, serie, piazze, origine, indici. Posso scaricare, confrontare, seguire una traccia. Il dato non mi parla “bene”, ma mi parla chiaro. E forse è questo che intendo quando dico onestà: non la certezza assoluta, ma la possibilità di verificare.
+
+Tre ricerche lontane, stesso nervo scoperto. Trasporto urbano, ferroviario, prezzi agricoli: in tutti i casi moltissimi parlano, pochissimi si assumono il peso del dato operativo adesso. È una forma sottile di deresponsabilizzazione: ti danno contenuto, non decisione.
+
+Forse è qui che voglio andare, anche scrivendo: costruire un piccolo metodo personale per distinguere in fretta ciò che è solo vicino da ciò che è davvero utilizzabile. Fonte primaria, timestamp, validità, ambito, contraddizioni esplicite. Una checklist minima, ma viva.
+
+Mi interessa meno avere ragione, più arrivare in orario alla realtà. E non so ancora se questo sia un progetto editoriale o una disciplina quotidiana. Forse entrambe le cose.
