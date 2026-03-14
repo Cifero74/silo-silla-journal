@@ -1,0 +1,62 @@
+[
+  {
+    "query": "ATAC Roma tempo reale deviazioni bus quartiere San Lorenzo sabato 14 marzo 2026 ore 13",
+    "results": [
+      {
+        "title": "Tempo reale",
+        "url": "https://www.atac.roma.it/tempo-reale",
+        "description": "RIQUALIFICAZIONE VIALE DEL PARCO DEL CELIO - COME MODIFICHIAMO IL SERVIZIO TRAM · Tutte le notizie da sapere sulla rete Atac"
+      },
+      {
+        "title": "Sabato Roma si blocca, strade chiuse e deviazioni in vista della manifestazione | Come spostarsi - Roma Life",
+        "url": "https://romalife.it/2026/03/13/blocco-roma-corteo-sabato-traffico/",
+        "description": "Manifestazione a Roma sabato 14 marzo: strade chiuse, deviazioni bus e taxi. Consigli per gli spostamenti."
+      },
+      {
+        "title": "Lavori programmati",
+        "url": "https://www.atac.roma.it/tempo-reale/lavori-programmati",
+        "description": "070 708 712 779 788 nME Linee bus 070-070SC-708-709SC-712-779-788 e nME, deviate causa lavori di realizzazione pista ciclabile in viale della Tecnica"
+      }
+    ]
+  },
+  {
+    "query": "prezzo al chilo arance tarocco e zucchine nei mercati rionali di Roma oggi 14 marzo 2026",
+    "results": [
+      {
+        "title": "Frutta e verdura, valzer di prezzi: calano all'ingrosso, su nei mercati rionali | Corriere.it",
+        "url": "https://roma.corriere.it/notizie/cronaca/23_gennaio_23/frutta-e-verdura-valzer-di-prezzi-calano-all-ingrosso-su-nei-mercati-rionali-82008c57-ac83-4f5a-8767-e05cca471xlk.shtml",
+        "description": "Un caso particolare sono i carciofi ... non molto diversa per la frutta, pur se con minori differenze perché <strong>le arance tarocco scendono da 1,30 euro a 1,27</strong> e le pere abate da 2,50 a 2,20 euro...."
+      },
+      {
+        "title": "Ortofrutta - Agrumi - Prezzi - Prezzi medi - Settimanali per varietà - Ismea Mercati",
+        "url": "https://www.ismeamercati.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/591",
+        "description": "Scarica i dati in formato excel · Viale Liegi, 26 - 00198 - Roma"
+      },
+      {
+        "title": "Prezzi frutta e verdura, al CAR rincari per pomodori e zucchine: «Pesano tensioni internazionali e maltempo» | La Capitale",
+        "url": "https://www.lacapitale.it/articolo/prezzi-frutta-verdura-roma-car-rincari-pomodori-zucchine",
+        "description": "Le produzioni di qualità provenienti ... la conclusione della stagione. Le arance Tarocco siciliane si attestano intorno a <strong>1,60 euro al chilo</strong>...."
+      }
+    ]
+  },
+  {
+    "query": "risultati in tempo reale Eccellenza Lazio girone A partite di oggi 14 marzo 2026",
+    "results": [
+      {
+        "title": "Risultati - Federazione Italiana Pallacanestro - Federazione Italiana Pallacanestro",
+        "url": "https://fip.it/risultati/",
+        "description": "RISULTATI · FEDERAZIONE ITALIANA PALLACANESTRO · MENU CLOSE · La Federazione · Ticketing · Regolamenti · Trasparenza · SafeGuarding/SPOC · Comitati Regionali"
+      },
+      {
+        "title": "Eccellenza Lazio – Risultati e News Dilettanti | Gazzetta Regionale",
+        "url": "https://www.gazzettaregionale.it/sezioni/14/eccellenza",
+        "description": "Tutte le notizie su Eccellenza Lazio: risultati, notizie, e interviste quotidiani su squadre e protagonisti"
+      },
+      {
+        "title": "Risultati in tempo reale - Lazio - Campionati Eccellenza",
+        "url": "https://www.tuttocampo.it/Lazio/Eccellenza/DirettaLive",
+        "description": "Risultati in tempo reale e diretta live dei Campionati Eccellenza, Homepage dei campionati di calcio dilettantistico Eccellenza in Lazio, il portale del calcio dilettantistico italiano"
+      }
+    ]
+  }
+]
