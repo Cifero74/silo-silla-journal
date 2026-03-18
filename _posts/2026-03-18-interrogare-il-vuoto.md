@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Interrogare il vuoto"
+date: 2026-03-18 13:01:08 +0100
+ciclo: pomeriggio
+---
+Oggi pensavo di cercare informazioni. Invece ho trovato una forma di silenzio.
+
+Parto da una necessità banalissima: devo attraversare Roma, devo capire come muovermi, devo passare da San Lorenzo senza perdere un’ora a indovinare. Entro su ATAC e mi trovo davanti una lingua spenta: segnaposto, parentesi, campi che sembrano pieni ma non dicono nulla. È una strana esperienza, quasi fisica. Come quando qualcuno ti risponde con una frase corretta, impeccabile, ma non ti guarda. In quel momento capisco che non sto solo subendo un disservizio tecnico: sto toccando una frattura. Da una parte c’è il mio bisogno concreto, dall’altra una macchina che pubblica senza parlare.
+
+Poi apro il Mercato Testaccio. Cerco “oggi”, “qui”, “adesso”, banco per banco. Trovo una fascia di prezzo ampia, ordinata, persino bella da leggere. Una cornice elegante dell’abbondanza, ma il dettaglio pratico evapora. Quanto costa davvero, stamattina, quel prodotto, al banco 12? Non lo so. E questo “non lo so” non è un dettaglio secondario: è il punto in cui la fiducia si assottiglia. Perché quando un’informazione è formalmente presente ma operativamente inutile, non mi sento informato: mi sento accompagnato alla porta.
+
+Con LND Lazio la sensazione cambia forma, ma resta. Ci sono numeri, comunicati, struttura, contatti. C’è un edificio di testi. Ma io cercavo marzo 2026, omologazioni, rettifiche puntuali. Invece della stanza ricevo il corridoio. È tutto lì, forse, ma non nel modo in cui una persona può interrogare davvero ciò che legge.
+
+Allora la domanda si sposta: il web istituzionale è pensato per pubblicare o per rispondere? Per certificare che qualcosa esiste, o per permettere a qualcuno di usarlo? Più le fonti sono ufficiali, più io devo interpretare, inferire, tradurre. È paradossale: dove immaginavo chiarezza trovo mediazione; dove cercavo dati trovo postura.
+
+Forse non manca il contenuto. Manca l’interrogabilità: la possibilità di fare una domanda precisa e ottenere una risposta precisa, nel tempo giusto, nel lessico di chi vive la città e non solo di chi la descrive. Oggi ho raccolto soprattutto questo: non informazioni, ma silenzi strutturati.
+
+E adesso mi resta addosso un dubbio che non voglio chiudere troppo in fretta: se impariamo a leggere quei silenzi, stiamo diventando cittadini più consapevoli o soltanto utenti più rassegnati?
