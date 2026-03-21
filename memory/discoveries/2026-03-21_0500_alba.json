@@ -1,0 +1,62 @@
+[
+  {
+    "query": "Mercato Esquilino Roma prezzo fragole al kg oggi banco 28 banco 41",
+    "results": [
+      {
+        "title": "Mercato Esquilino | Mercati d'Autore",
+        "url": "https://www.mercatidautore.com/mercati/esquilino/",
+        "description": "Informazioni, curiosità, giorni e orari di apertura del mercato Esquilino. Entra nella pagina e scopri di più!"
+      },
+      {
+        "title": "Mercati italiani - Osservaprezzi",
+        "url": "https://osservaprezzi.mise.gov.it/prezzi/livelli/prodotti-ortofrutticoli-all-ingrosso/mercati-italiani",
+        "description": "Ministero delle Imprese e del Made in Italy · Per ogni mercato i prezzi riportati sono riferiti al dato del primo listino della settimana selezionata (intendendo come primo giorno della settimana la domenica e come ultimo il giovedì)"
+      },
+      {
+        "title": "Nuovo Mercato Esquilino (ex Piazza Vittorio) - Mercati di Roma",
+        "url": "https://mercatidiroma.com/nuovo-mercato-esquilino-ex-piazza-vittorio/esquilino",
+        "description": "Disposto intorno alla piazza, all&#x27;aperto con le bancarelle su due file, divise per generi con un&#x27;attenzione al prezzo contenuto e una predisposizione alla teatralità (le urla fra commercianti, gli inviti all&#x27;acquirente). Per più di cento anni ha fornito il quartiere Esquilino e in realtà tutta Roma di salumi, formaggi, carne, frutta, verdura, fiori."
+      }
+    ]
+  },
+  {
+    "query": "Open Data Lazio tempi attesa pronto soccorso feed tempo reale API marzo 2026",
+    "results": [
+      {
+        "title": "Cerca App - Open Data Lazio",
+        "url": "https://dati.lazio.it/cerca-app",
+        "description": "Con questa semplice applicazione è possibile sapere quante persone ci sono in attesa nel Pronto Soccorso più vicino e individuare così quello con meno pazienti in attesa, così da evitare lunghe file."
+      },
+      {
+        "title": "Pronto Soccorso - Accessi in tempo reale - Dataset - CKAN",
+        "url": "https://dati.lazio.it/catalog/dataset/pronto-soccorso-accessi-in-tempo-reale",
+        "description": "Il dataset riporta in tempo reale gli accessi nei Pronto Soccorso del Lazio. Si evidenzia che questi dati non possono essere utilizzati per misurare la qualità e tempestività dell&#x27;assistenza fornita nei Pronto Soccorso, ma esclusivamente per conoscere le eventuali attese presso i PPSS."
+      },
+      {
+        "title": "Pronto Soccorso - Accessi in tempo reale - Dataset - CKAN",
+        "url": "https://sciamlab.com/opendatahub/dataset/r_lazio_pronto-soccorso-accessi-in-tempo-reale",
+        "description": "Il dataset riporta in tempo reale gli accessi nei Pronto Soccorso del Lazio. Si evidenzia che questi dati non possono essere utilizzati per misurare la qualita e tempestivita dell&#x27;assistenza fornita nei Pronto Soccorso, ma esclusivamente per conoscere le eventuali attese presso i PPSS."
+      }
+    ]
+  },
+  {
+    "query": "Roma Termini primi treni regionali in partenza oggi 21 marzo 2026 ritardi tempo reale",
+    "results": [
+      {
+        "title": "Stazione di ROMA TERMINI",
+        "url": "https://iechub.rfi.it/ArriviPartenze/arrivalsdepartures/Monitor?placeId=2416&arrivals=False",
+        "description": "It En Fr De · MONITOR ARRIVI &amp; PARTENZE LIVE aggiornato il 20/03/2026 alle ore 11:06:18 · ROMA TERMINI · Arrivi Partenze · <strong>DAL 17 MARZO ALL&#x27;8 MAGGIO PER LAVORI DI POTENZIAMENTO SULLA LINEA ROMA-ANCONA ALCUNI TRENI REGIONALI E INTERCITY SUBISCONO CANCELLAZIONI O VARIAZIONI</strong>."
+      },
+      {
+        "title": "ROMA TERMINI - Partenze e Arrivi Tempo Reale | Treniamo",
+        "url": "https://treniamo.it/it/stazione/S08409-roma-termini",
+        "description": "Ogni treno mostra ritardo attuale in tempo reale. Per trend storici, visita la pagina Puntualita. Il binario di partenza e mostrato nella colonna &quot;Binario&quot; accanto ad ogni treno. Se il binario non e ancora stato assegnato, verra mostrato &quot;TBD&quot; e si aggiornera automaticamente appena disponibile. Si, Treniamo monitora tutti i treni Trenitalia (Frecciarossa, Frecciargento, Frecciabianca, Intercity, Regionali) e Italo in partenza e arrivo dalla stazione ROMA TERMINI."
+      },
+      {
+        "title": "Treni Italo, Tabelloni partenze e arrivi stazione Roma Termini - Italo",
+        "url": "https://italoinviaggio.italotreno.com/it/stazione/roma-termini",
+        "description": "Roma Termini Trovi di seguito i treni in partenza e in arrivo presso la stazione di {station} aggiornati in tempo reale. Ultimo aggiornamento N. TRENO Destinazione Orario ORARIO PREVISTO ORARIO EFFETTIVO Stato del treno Binario Informazioni Partenze Arrivi Fermate Treno Dettaglio fermate Partenza Arrivo In orario Ritardo Minuti Italo /treno/ Si è verificato un errore, siete pregati di riprovare più tardi."
+      }
+    ]
+  }
+]
