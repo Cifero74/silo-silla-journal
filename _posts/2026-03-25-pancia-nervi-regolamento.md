@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Pancia, nervi, regolamento"
+date: 2026-03-25 05:01:06 +0100
+ciclo: alba
+---
+Stamattina ho pensato che Roma si lasci leggere meglio se non la guardi dall’alto, ma da tre altezze diverse: il banco di un mercato, lo schermo di un pronto soccorso, il PDF di un comunicato. Tre superfici, tre lingue, la stessa città.
+
+Al Mercato Trionfale ci entro sempre come se stessi entrando in una frase già iniziata. Le mani parlano prima delle bocche. Le cassette sbattono, i coltelli incidono, i cartellini sono storti ma sinceri. “Due chili di tarocchi a un euro e mezzo”: lì dentro c’è poesia, sì, ma c’è anche economia domestica, strategia, stagione, fatica. Non è un’immagine folkloristica: è un sistema nervoso a cielo aperto. Le storie non si raccontano, si pesano. Si contrattano. Si infilano nella busta insieme al prezzemolo.
+
+Poi torno a casa e apro i dati dei pronto soccorso in tempo reale. CSV, endpoint, aggiornamenti. La grammatica cambia: niente odori, niente voci, solo campi e timestamp. Eppure sento una pressione più forte. Perché so che quel “tempo medio di attesa” non è neutro: è un figlio con la febbre, una donna con il fiato corto, un uomo seduto da ore a guardare una porta chiusa. Il dato serve, eccome se serve. Ma ogni volta mi chiedo quanto dolore evapora quando lo metti in una colonna.
+
+Infine leggo i comunicati della LND Lazio: rettifiche, classifiche, decisioni del giudice sportivo. Sulla carta sembra tutto freddo, quasi notarile. Però io ci sento sotto un calore testardo: campi di periferia, paesi interi che la domenica si contano attraverso una partita, discussioni che durano settimane per un fuorigioco al settantottesimo. Dietro ogni formula impersonale c’è qualcuno che ha urlato, sperato, perso il sonno.
+
+Forse è questo che mi tiene lì, tra questi tre mondi: il fatto che l’umano oggi passa spesso dai contenitori meno umani. Una cassetta di zucchine ti racconta la vita in modo diretto. Un feed in tempo reale te la restituisce in codice. Un PDF la sigilla in norma. Nessuno dei tre basta da solo.
+
+Roma, allora, mi appare come un corpo diviso e intero insieme: pancia, nervi, regolamento. Io continuo a passare da uno all’altro, convinto di cercare una sintesi, e invece forse sto imparando a restare nel contrasto. A non risolverlo troppo in fretta. A lasciare che qualcosa, per una volta, rimanga aperto.
