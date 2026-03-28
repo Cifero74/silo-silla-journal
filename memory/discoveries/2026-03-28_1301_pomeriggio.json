@@ -1,0 +1,62 @@
+[
+  {
+    "query": "CAR Roma listino ortofrutta 28 marzo 2026 zucchine verdi prezzo minimo massimo confronto settimana precedente",
+    "results": [
+      {
+        "title": "Listino Prezzi - Centro Agroalimentare Roma",
+        "url": "https://agroalimroma.it/listino-prezzi/",
+        "description": "Resta informato con il listino prezzi all’ingrosso del Centro Agroalimentare Roma. Servizio gratuito per operatori, sempre aggiornato e preciso."
+      },
+      {
+        "title": "Prezzi ortofrutta, l’effetto dei conflitti pesa sui listini del CAR | Specchio Economico",
+        "url": "https://www.specchioeconomico.com/prezzi-ortofrutta-conflitti-car-roma",
+        "description": "Rincari su ortaggi e primizie al CAR: conflitti, logistica e meteo incidono sui prezzi e sulla filiera agroalimentare."
+      },
+      {
+        "title": "Mercati italiani - Osservaprezzi",
+        "url": "https://osservaprezzi.mise.gov.it/prezzi/livelli/prodotti-ortofrutticoli-all-ingrosso/mercati-italiani",
+        "description": "Pertanto, i prezzi esposti non rappresentano una media dei prezzi della settimana selezionata ma sono i prezzi del primo listino della settimana, la cui data può cambiare da mercato a mercato in base al proprio calendario di rilevazione. Tutti i prezzi riportati sono al netto di tara e privi di IVA e sono riferiti al chilogrammo quando non diversamente indicato · I prezzi riportati - prevalente, minimo e massimo - sono prezzi all’ingrosso, non confrontabili con quelli praticati al consumo."
+      }
+    ]
+  },
+  {
+    "query": "ARES 118 Lazio accessi pronto soccorso dataset CSV aggiornamento tempo reale nota metodologica qualità della cura",
+    "results": [
+      {
+        "title": "Pronto Soccorso - Accessi in tempo reale - Dataset - CKAN",
+        "url": "https://dati.lazio.it/catalog/dataset/pronto-soccorso-accessi-in-tempo-reale",
+        "description": "<strong>Il dataset riporta in tempo reale gli accessi nei Pronto Soccorso del Lazio</strong>. Si evidenzia che questi dati non possono essere utilizzati per misurare la qualità e tempestività dell&#x27;assistenza..."
+      },
+      {
+        "title": "Pronto Soccorso - Accessi in tempo reale - Pronto Soccorso - Accessi in tempo reale - CKAN",
+        "url": "https://dati.lazio.it/catalog/it/dataset/pronto-soccorso-accessi-in-tempo-reale/resource/12c31624-f1a4-4874-a903-8954549ddb81",
+        "description": "URL: http://dati.lazio.it/catalog/dataset/144e577e-8a7e-4613-9830-48cbb1d7ee0f/resource/12c31624-f1a4-4874-a903-8954549ddb81/download/output_1627742164504.csv"
+      },
+      {
+        "title": "Dati",
+        "url": "https://dati.lazio.it/catalog/it/dataset/pronto-soccorso-accessi-in-tempo-reale.rdf",
+        "description": "<strong>Il dataset riporta in tempo reale gli accessi nei Pronto Soccorso del Lazio</strong>. Si evidenzia che questi dati non possono essere utilizzati per misurare la qualità e tempestività dell&#x27;assistenza fornita nei Pronto Soccorso, ma esclusivamente per conoscere le eventuali attese presso i PPSS."
+      }
+    ]
+  },
+  {
+    "query": "LND Lazio comunicato ufficiale 28 marzo 2026 Eccellenza Girone A rettifica classifica motivazioni regolamento",
+    "results": [
+      {
+        "title": "Comunicati Regionali - LND – LND Lazio",
+        "url": "https://lazio.lnd.it/comunicati-regioneli-lnd",
+        "description": "Comunicato Ufficiale n. 257 Programma recupero del 28 Gennaio 2026 - Programma gare del 7 ed 8 Febbraio 2026 ... Comunicato Ufficiale N. 256 Risultati gare - giustizia sportiva ... Comunicato Ufficiale N. 255 Risultati gare - giustizia sportiva ... Comunicato Ufficiale n. 253 Motivazioni CSAT"
+      },
+      {
+        "title": "LND Lazio",
+        "url": "https://lazio.lnd.it/",
+        "description": "È iniziato il conto alla rovescia verso Lazio 2026 per le Rappresentative che si stanno preparando al Torneo delle Regioni di Futsal che si... ... COMITATO REGIONALE LAZIO - LND via Tiburtina 1072 - 00156 ROMA tel. 06 416031 - fax. 06 41217815 segreteria: cr.lazio01@lnd.it comunicazione: stampa.lazio@lnd.it"
+      },
+      {
+        "title": "ECCELLENZA 2025-2026 - GIRONE A – LND Lazio",
+        "url": "https://lazio.lnd.it/eccellenza-girone-a-2",
+        "description": "domenica, 22 Marzo 2026 · OLD · MY LND · Facebook · Instagram · Mail · Telegram · Twitter · Youtube · Mission · Comitato Regionale · Area Società · Archivio Comunicati · Numeri utili e Mail · Regolamenti Tornei Giovanili · Moduli da scaricare · Contatta gli uffici · Calendari e Classifiche · Caricamento in corso... Nessuna giornata disponibile. CALENDARIO GIRONE A ·"
+      }
+    ]
+  }
+]

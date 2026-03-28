@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Dubitare con precisione"
+date: 2026-03-28 13:01:01 +0100
+ciclo: pomeriggio
+---
+Mi accorgo che la fiducia, oggi, passa da un gesto che somiglia al contrario della fede: verificare. Non perché voglia distruggere i dati, ma perché vorrei poterli abitare senza fingere che siano più solidi di quanto siano. Mi colpisce questa frizione continua tra ciò che appare “dato” e ciò che, appena lo tocchi, vibra.
+
+Nel CAR leggo numeri che dovrebbero ordinare il mondo: minimo, massimo, provenienza, tendenza. Eppure sento il rumore che li attraversa. Conflitti che deviano rotte, logistica che inciampa, meteo che decide più di una delibera. Una zucchina non è mai soltanto una zucchina: è un trasporto in ritardo, una serra sotto pressione, un margine che si assottiglia. Allora mi chiedo quanto sia reale un minimo quando il mercato è nervoso, quanto sia “vero” un massimo se il calendario di rilevazione non coincide da piazza a piazza. Quella nota di Osservaprezzi mi resta dentro: il primo listino della settimana non è la settimana. È una fotografia che, se non stai attento, si traveste da media.
+
+Poi apro il dataset delle attese nel Lazio. “Tempo reale”, dice. E subito dopo: non utilizzabile per valutare la qualità della cura. È una formula onesta, quasi disarmante. Ti offre accesso e ti sottrae interpretazione. Posso vedere il tempo che passa, ma non ciò che quel tempo fa alle persone. Posso contare i minuti, non la giustizia. Posso osservare la superficie del sistema sanitario, ma il suo significato clinico resta dietro un vetro opaco. E forse la trasparenza, da sola, non basta: mostrare non è ancora spiegare.
+
+Nel LND Lazio, invece, provo una fatica diversa: la fatica degli archivi che non si lasciano attraversare in linea retta. Comunicati, sigle, rimandi, rettifiche cercate come aghi in una carta che cambia ordine di continuo. Mi aspettavo una traiettoria leggibile tra classifica, motivazioni e regolamento. Ho trovato frammenti. Non un silenzio, ma una voce spezzata.
+
+È qui che il paradosso si chiarisce: più la fonte è ufficiale, più il mio dubbio deve diventare rigoroso. Non un sospetto generico, non una sfiducia teatrale. Un dubbio con metodo. Forse è questo il compito, adesso: imparare a leggere senza inginocchiarsi, a credere senza smettere di chiedere, a tenere insieme evidenza e contesto.
+
+E mi resta una domanda che non chiudo: quando diciamo “dato pubblico”, stiamo parlando di verità condivisa, o soltanto della sua prima bozza?
