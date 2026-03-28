@@ -1,0 +1,62 @@
+[
+  {
+    "query": "CAR Roma listino ortofrutta 28 marzo 2026 zucchine verdi prezzo minimo massimo PDF",
+    "results": [
+      {
+        "title": "Listino Prezzi - Centro Agroalimentare Roma",
+        "url": "https://agroalimroma.it/listino-prezzi/",
+        "description": "Resta informato con il listino prezzi all’ingrosso del Centro Agroalimentare Roma. Servizio gratuito per operatori, sempre aggiornato e preciso."
+      },
+      {
+        "title": "Rilevazioni mensili - beni e servizi di largo consumo - Osservaprezzi",
+        "url": "https://osservaprezzi.mise.gov.it/prezzi/livelli/beni-e-servizi-di-largo-consumo/archivio-rilevazioni-beni-e-servizi-di-largo-consumo?ANNO=2022&MESE=9&f%5BPROVINCIA%5D=Roma&f%5BTIPO_RECORD_MISE%5D=orto&submit=Applica",
+        "description": "I beni e servizi del paniere vengono classificati in sei tipologie: ortofrutta, alimentari, cura della persona e della casa, servizi, energetici e prodotti ittici. Per ognuna delle suddette tipologie è possibile selezionare la provincia di interesse e visualizzare i dati relativi all&#x27;ultimo mese disponibile. In termini generali, per i dati rilevati dagli Uffici Comunali di Statistica (rilevazione tradizionale) e per quelli derivanti dalla fonte amministrativa viene individuato il prezzo minimo e massimo effettivamente rilevato, mentre il prezzo medio è la media delle quotazioni di prezzo raccolte e validate."
+      },
+      {
+        "title": "Prezzi ortofrutta, l’effetto dei conflitti pesa sui listini del CAR | Specchio Economico",
+        "url": "https://www.specchioeconomico.com/prezzi-ortofrutta-conflitti-car-roma",
+        "description": "Rincari su ortaggi e primizie al CAR: conflitti, logistica e meteo incidono sui prezzi e sulla filiera agroalimentare."
+      }
+    ]
+  },
+  {
+    "query": "ARES 118 Lazio dataset accessi pronto soccorso tempo reale nota metodologica definizione e limiti",
+    "results": [
+      {
+        "title": "Pronto Soccorso - Accessi in tempo reale - Dataset - CKAN",
+        "url": "https://dati.lazio.it/catalog/dataset/pronto-soccorso-accessi-in-tempo-reale",
+        "description": "<strong>Il dataset riporta in tempo reale gli accessi nei Pronto Soccorso del Lazio</strong>. Si evidenzia che questi dati non possono essere utilizzati per misurare la qualità e tempestività dell&#x27;assistenza..."
+      },
+      {
+        "title": "Dati",
+        "url": "https://dati.lazio.it/catalog/it/dataset/pronto-soccorso-accessi-in-tempo-reale.rdf",
+        "description": "<strong>Il dataset riporta in tempo reale gli accessi nei Pronto Soccorso del Lazio</strong>. Si evidenzia che questi dati non possono essere utilizzati per misurare la qualità e tempestività dell&#x27;assistenza fornita nei Pronto Soccorso, ma esclusivamente per conoscere le eventuali attese presso i PPSS."
+      },
+      {
+        "title": "Pronto Soccorso - Accessi in tempo reale - Pronto Soccorso - Accessi in tempo reale - CKAN",
+        "url": "https://dati.lazio.it/catalog/it/dataset/pronto-soccorso-accessi-in-tempo-reale/resource/12c31624-f1a4-4874-a903-8954549ddb81",
+        "description": "URL: http://dati.lazio.it/catalog/dataset/144e577e-8a7e-4613-9830-48cbb1d7ee0f/resource/12c31624-f1a4-4874-a903-8954549ddb81/download/output_1627742164504.csv"
+      }
+    ]
+  },
+  {
+    "query": "LND Lazio comunicato ufficiale 28 marzo 2026 Eccellenza Girone A rettifica classifica testo integrale",
+    "results": [
+      {
+        "title": "Comunicati Regionali - LND – LND Lazio",
+        "url": "https://lazio.lnd.it/comunicati-regioneli-lnd",
+        "description": "Comunicato Ufficiale n. 260 Variazioni programma gare del 31 Gennaio 2026 e 1 Febbraio 2026 - programma gare di recupero ... Comunicato Ufficiale N. 259 Segreteria - risultati gare - giustizia sportiva ... Comunicato Ufficiale N. 258 Risultati gare - giustizia sportiva ... Comunicato Ufficiale n. 257 Programma recupero del 28 Gennaio 2026 - Programma gare del 7 ed 8 Febbraio 2026"
+      },
+      {
+        "title": "Eccellenza e Promozione, ufficiali play-off e play-out nella stagione 25/26 – LND Lazio",
+        "url": "https://lazio.lnd.it/archives/227377",
+        "description": "Le novità, contenute nel Comunicato Ufficiale CRL 28 LND, <strong>introducono meccanismi più strutturati, con particolare attenzione a premiare la posizione in classifica e a evitare spareggi inutili in caso di distacchi ampi</strong>."
+      },
+      {
+        "title": "LND Lazio",
+        "url": "https://lazio.lnd.it/",
+        "description": "È iniziato il conto alla rovescia verso Lazio 2026 per le Rappresentative che si stanno preparando al Torneo delle Regioni di Futsal che si... ... COMITATO REGIONALE LAZIO - LND via Tiburtina 1072 - 00156 ROMA tel. 06 416031 - fax. 06 41217815 segreteria: cr.lazio01@lnd.it comunicazione: stampa.lazio@lnd.it"
+      }
+    ]
+  }
+]
