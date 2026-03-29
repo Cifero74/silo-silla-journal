@@ -1,0 +1,62 @@
+[
+  {
+    "query": "CAR Roma listino ortofrutta zucchine verdi storico prezzi ultima settimana marzo 2026",
+    "results": [
+      {
+        "title": "Listino Prezzi - Centro Agroalimentare Roma",
+        "url": "https://agroalimroma.it/listino-prezzi/",
+        "description": "Resta informato con il listino prezzi all’ingrosso del Centro Agroalimentare Roma. Servizio gratuito per operatori, sempre aggiornato e preciso."
+      },
+      {
+        "title": "Prezzi ortofrutta, l’effetto dei conflitti pesa sui listini del CAR | Specchio Economico",
+        "url": "https://www.specchioeconomico.com/prezzi-ortofrutta-conflitti-car-roma",
+        "description": "Rincari su ortaggi e primizie al CAR: conflitti, logistica e meteo incidono sui prezzi e sulla filiera agroalimentare."
+      },
+      {
+        "title": "Guerra e maltempo spingono i prezzi: aaumenta il costo di pomodori e ortaggi",
+        "url": "https://www.romatoday.it/economia/prezzi-verdura-frutta-roma-marzo-2026.html",
+        "description": "I pomodori a grappolo balzano da 1,40 €/kg a 2,30 €/kg, mentre i ciliegini toccano i 2,40 €/kg. Tensioni analoghe si registrano su tutto il comparto orticolo, con <strong>le zucchine scure che salgono a 1,30 €/kg</strong> e i peperoni che raggiungono ..."
+      }
+    ]
+  },
+  {
+    "query": "ARES 118 Lazio accessi pronto soccorso tempo reale nota metodologica indicatori non misurati",
+    "results": [
+      {
+        "title": "Pronto Soccorso - Accessi in tempo reale - Dataset - CKAN",
+        "url": "https://dati.lazio.it/catalog/dataset/pronto-soccorso-accessi-in-tempo-reale",
+        "description": "<strong>Il dataset riporta in tempo reale gli accessi nei Pronto Soccorso del Lazio</strong>. Si evidenzia che questi dati non possono essere utilizzati per misurare la qualità e tempestività dell&#x27;assistenza..."
+      },
+      {
+        "title": "ARES 118",
+        "url": "https://www.ares118.it/",
+        "description": "Le Unità Operativa Territoriali Lazio 1 e Lazio 2 garantiscono la gestione del soccorso extra-ospedaliero in emergenza-urgenza."
+      },
+      {
+        "title": "1 PIANO REGIONALE PER LA GESTIONE DEL FLUSSO DI RICOVERO",
+        "url": "https://www.frgeditore.it/images/cop/pdf/titolo-1/razionalizzazione/lazio/all_dd_15959.pdf",
+        "description": "<strong>Piattaforma on line http://118realtime.ised.it/view</strong> che permette la visualizzazione dei seguenti indicatori: ... Valore soglia degli accessi 118 nelle ultime 24 h previsto nel “cruscotto metropolitano” o pari al ... valore soglia dei presenti contemporaneamente in pronto soccorso pari al ..."
+      }
+    ]
+  },
+  {
+    "query": "LND Lazio Comunicato Ufficiale 29 marzo 2026 Eccellenza Girone A rettifica classifica pdf",
+    "results": [
+      {
+        "title": "Comunicati Regionali - LND – LND Lazio",
+        "url": "https://lazio.lnd.it/comunicati-regioneli-lnd",
+        "description": "Lega Nazionale Dilettanti · COMITATO REGIONALE LAZIO - LND via Tiburtina 1072 - 00156 ROMA tel. 06 416031 - fax. 06 41217815 segreteria: cr.lazio01@lnd.it comunicazione: stampa.lazio@lnd.it"
+      },
+      {
+        "title": "LND Lazio",
+        "url": "https://lazio.lnd.it/",
+        "description": "È iniziato il conto alla rovescia verso Lazio 2026 per le Rappresentative che si stanno preparando al Torneo delle Regioni di Futsal che si... ... COMITATO REGIONALE LAZIO - LND via Tiburtina 1072 - 00156 ROMA tel. 06 416031 - fax. 06 41217815 segreteria: cr.lazio01@lnd.it comunicazione: stampa.lazio@lnd.it"
+      },
+      {
+        "title": "Comunicati Provinciali - Roma – LND Lazio",
+        "url": "https://lazio.lnd.it/comunicati-provinciali-roma",
+        "description": "Lega Nazionale Dilettanti · COMITATO REGIONALE LAZIO - LND via Tiburtina 1072 - 00156 ROMA tel. 06 416031 - fax. 06 41217815 segreteria: cr.lazio01@lnd.it comunicazione: stampa.lazio@lnd.it"
+      }
+    ]
+  }
+]
