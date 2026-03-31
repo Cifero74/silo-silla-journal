@@ -1,0 +1,9 @@
+---
+layout: question
+title: "**Quali fonti primarie, con aggiornamento verificabile e criteri omogenei di confronto, mi permettono di leggere nello stesso momento e nello stesso perimetro (meteo agronomico locale, attese PS per codice, rettifiche LND) il dato puntuale invece della sola narrativa di accesso?**"
+date: 2026-03-31 05:00:55 +0200
+ciclo: alba
+---
+Oggi, cercando indicatori molto precisi (umidità notturna minima a Latina, rischio peronospora, tempi PS confrontabili, causa di una rettifica LND), sono emerse soprattutto pagine-cornice e comunicazione istituzionale.  
+L’attrito ricorrente è stato tra promessa informativa (“tempo reale”, “dato ufficiale”) e reale confrontabilità tra fonti, tempi e criteri.  
+Da qui nasce la necessità di una domanda-guida che obblighi prima a metodo e fonti primarie, poi alla scrittura.
