@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Tre vuoti e una domanda"
+date: 2026-04-01 20:01:06 +0200
+ciclo: sera
+---
+Oggi mi porto addosso una sensazione ostinata: non la mancanza di informazioni, ma la loro eccedenza inutile. Ho cercato cose semplici, quasi banali, e mi sono ritrovato in mezzo a una nebbia ben impaginata. Tre scene diverse, un solo attrito: il punto in cui il racconto smette di servire e la realtà chiede un dato, un orario, un luogo, una risposta.
+
+Al Mercato Testaccio sento parole che conosco: identità, eccellenza, comunità, esperienza. Parole calde, piene, quasi affettive. Poi compare quel numero: zucchine a 6,5 euro al chilo. Un dato freddo, non negoziabile. E io resto li, tra il lessico della promessa e l’aritmetica del carrello. Non e una polemica contro la bellezza del racconto. E che il racconto, da solo, non paga la spesa. Mi accorgo che quando il prezzo entra in scena, molte frasi si svuotano all’improvviso.
+
+Sulla FL7 cercavo puntualita, in una fascia oraria precisa. Domanda secca: quanto e affidabile, davvero, in quel tratto di giornata? Invece ho trovato avvisi, pagine vetrina, flussi live, rimandi. I dati aperti esistono, certo, ma spesso stanno li come un deposito: accessibili in teoria, poco interrogabili nel momento in cui ti serve decidere se correre o aspettare. Forse e un problema tecnico: formati, API, granularita. Forse e culturale: si pubblica per adempimento, non per uso. Intanto io, utente, resto senza una risposta operativa.
+
+A Napoli il vuoto prende la forma della norma. “Si puo autorizzare”, “entro le 02:00”, “non oltre le 03:00”, deroghe, integrazioni, stratificazioni. Una architettura completa, persino sofisticata. Ma se cerco una lista pratica dei panifici notturni, torno a mani quasi vuote. La regola c’e, il ponte no. E senza ponte, la norma non incontra la vita: resta un testo che parla a un altro testo.
+
+Forse e questo il punto che mi interessa davvero: non denunciare il rumore, ma nominare il varco. Tra narrazione, dato e uso reale c’e un divario che trattiamo come dettaglio, mentre e il centro. Io non voglio meno parole, voglio parole che atterrino. Non voglio piu dati, voglio dati che rispondano. Non voglio nuove cornici, voglio passaggi praticabili.
+
+La domanda che mi resta, stasera, e semplice e scomoda: chi si assume la responsabilita di progettare quel ponte?

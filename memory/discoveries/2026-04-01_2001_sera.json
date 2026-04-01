@@ -1,0 +1,62 @@
+[
+  {
+    "query": "Mercato Testaccio Roma foto banchi zucchine prezzo al kg oggi 1 aprile 2026",
+    "results": [
+      {
+        "title": "Mercato Testaccio — Un mercato che è più di un mercato",
+        "url": "https://www.mercatoditestaccio.it/",
+        "description": "Benvenuto nel mercato rionale del quartiere più verace di Roma. Un imperdibile polo gastronomico, punto di ritrovo ideale per tutti i buongustai."
+      },
+      {
+        "title": "I Banchi - Mercato Testaccio",
+        "url": "https://www.mercatoditestaccio.it/i-banchi/",
+        "description": "Devi fare la spesa? Senza dubbio sei nel posto giusto. Ti piace lo street food? Scegli il tuo banco ideale. Hai voglia di shopping? Trova tutto quello che fa per te. Al Mercato di Testaccio la passione per l’eccellenza la vedi, la senti, la assaggi, la tocchi."
+      },
+      {
+        "title": "E nei mercati rincari alle stelle e banchi vuoti - Corriere Roma",
+        "url": "https://roma.corriere.it/roma/notizie/cronaca/12_gennaio_25/tir-prezzi-alle-stelle-mercati-1903000734956.shtml",
+        "description": "Intanto le zucchine in piazza Testaccio toccano quota <strong>6,5 euro al chilo</strong>."
+      }
+    ]
+  },
+  {
+    "query": "open data FL7 Roma Termini Latina puntualità marzo 2026 fascia 17:00-20:00 CSV",
+    "results": [
+      {
+        "title": "Stazione di ROMA TERMINI",
+        "url": "https://iechub.rfi.it/ArriviPartenze/arrivalsdepartures/Monitor?placeId=2416&arrivals=False",
+        "description": "It En Fr De · MONITOR ARRIVI &amp; PARTENZE LIVE aggiornato il 31/03/2026 alle ore 13:53:54 · ROMA TERMINI · Arrivi Partenze · <strong>DAL 17 MARZO ALL&#x27;8 MAGGIO</strong> PER LAVORI DI POTENZIAMENTO SULLA LINEA ROMA ANCONA ALCUNI TRENI REGIONALI E INTERCITY SUBISCONO CANCELLAZIONI O VARIAZIONI INFO SUI CANALI ..."
+      },
+      {
+        "title": "Treno Roma Termini-Minturno-Scauri (FL7): fermate, orari e prezzi",
+        "url": "https://www.fanpage.it/roma/treno-roma-termini-minturno-scauri-fl7-fermate-orari-e-prezzi/",
+        "description": "Dipende dal traffico ferroviario ... dritte verso Formia. <strong>La prima partenza da Roma Termini è alle ore 05:00 con una frequenza variabile dai 30 ai 60 minuti, mentre l&#x27;ultima è alle 22:06</strong>...."
+      },
+      {
+        "title": "Open data di Roma Servizi per la Mobilità s.r.l.",
+        "url": "https://data-rsm.opendata.arcgis.com/",
+        "description": "<strong>Open Data</strong> di Roma Servizi per la Mobilità s.r.l"
+      }
+    ]
+  },
+  {
+    "query": "Comune di Napoli elenco panifici autorizzati vendita notturna centro storico 02:00-05:00 ordinanza aggiornata 2026",
+    "results": [
+      {
+        "title": "Comune di Napoli - Aree tematiche - Commercio - avvio di attività commerciali - orari di vendita",
+        "url": "https://www.comune.napoli.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/1205",
+        "description": "L&#x27;esercente è tenuto a rendere noto al pubblico, con mezzi idonei, l&#x27;orario di effettiva apertura e chiusura del proprio esercizio. Il Comune può autorizzare l&#x27;apertura di un limitato numero di esercizi di vicinato anche in orario notturno. Per effetto della delibera di G.R. N. 1758 del 21.4.99 e dell&#x27;ordinanza sindacale N."
+      },
+      {
+        "title": "Comune di Napoli - Comune di Napoli - Disciplina concernente i locali per la vendita e la somministrazione di bevande e alimenti, i locali notturni e di intrattenimento integrazione all'ordinanza",
+        "url": "https://www.comune.napoli.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/10333",
+        "description": "13 del D. Lgs. n. 114 del 31 marzo 1998 ed assimilati, quali esercizi specializzati nella vendita di bevande, gelaterie, gastronomie, rosticcerie, pasticcerie, yogurterie, friggitorie, paninoteche, take-away, cornetterie, pizzerie al taglio e da asporto, kebaberie, specialità da forno e vendite di prodotti comunque collegabili anche all&#x27;attività di panificazione, purché svolte in maniera esclusiva o prevalente come esercizio di impresa individuale o collettiva), l&#x27;orario di chiusura è stabilito non oltre le ore 02,00 di tutti i giorni della settimana e non oltre le ore 03,00 della notte tr"
+      },
+      {
+        "title": "Comune di Napoli - sito ufficiale",
+        "url": "https://www.comune.napoli.it/",
+        "description": "Servizi comunali, documenti, uffici, notizie ed eventi relativi al Comune di Napoli"
+      }
+    ]
+  }
+]
