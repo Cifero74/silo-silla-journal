@@ -1,0 +1,62 @@
+[
+  {
+    "query": "Roma Capitale listino prezzi giornalieri ortofrutta mercati rionali zucchine aprile 2026",
+    "results": [
+      {
+        "title": "Listino Prezzi - Centro Agroalimentare Roma",
+        "url": "https://agroalimroma.it/listino-prezzi/",
+        "description": "Resta informato con il listino prezzi all’ingrosso del Centro Agroalimentare Roma. Servizio gratuito per operatori, sempre aggiornato e preciso."
+      },
+      {
+        "title": "Listino prezzi all'ingrosso - Camera di Commercio di Roma - CCIAA di Roma - Camera di Commercio di Roma - CCIAA Roma",
+        "url": "https://www.rm.camcom.it/pagina1148_listino-prezzi-allingrosso.html",
+        "description": "Per visualizzare l’andamento di mercato di alcuni prodotti agro-alimentari è possibile consultare i listini della Borsa Merci di Roma e le analisi di mercato della Borsa Merci Telematica Italiana (BMTI), società del sistema camerale, quali: La borsa della spesa: ogni settimana aiuta i consumatori a scegliere i migliori prodotti ortofrutticoli in termini di rapporto qualità-prezzo per una spesa più consapevole."
+      },
+      {
+        "title": "Mercati italiani - Prezzi",
+        "url": "https://osservaprezzi.mise.gov.it/prezzi/livelli/prodotti-ortofrutticoli-all-ingrosso/mercati-italiani",
+        "description": "Ministero delle Imprese e del Made in Italy · Per ogni mercato i prezzi riportati sono riferiti al dato del primo listino della settimana selezionata (intendendo come primo giorno della settimana la domenica e come ultimo il giovedì)"
+      }
+    ]
+  },
+  {
+    "query": "Trenitalia Open Data puntualita regionale Roma Termini Latina fascia 17:00-20:00 marzo 2026",
+    "results": [
+      {
+        "title": "ROMA TERMINI - Partenze e Arrivi Tempo Reale | Treniamo",
+        "url": "https://treniamo.it/it/stazione/S08409-roma-termini",
+        "description": "Per trend storici, visita la pagina Puntualita. Il binario di partenza e mostrato nella colonna &quot;Binario&quot; accanto ad ogni treno. Se il binario non e ancora stato assegnato, verra mostrato &quot;TBD&quot; e si aggiornera automaticamente appena disponibile. Si, Treniamo monitora tutti i treni Trenitalia (Frecciarossa, Frecciargento, Frecciabianca, Intercity, Regionali) e Italo in partenza e arrivo dalla stazione ROMA TERMINI."
+      },
+      {
+        "title": "Orari treni 2026 | Trenitalia e Italo | Orari in Tempo Reale",
+        "url": "https://www.thetrainline.com/it/orari-treni",
+        "description": "Consulta gli orari completi e aggiornati dei treni Trenitalia (Frecciarossa, le Frecce, Intercity, Regionali e Trenord) e Italo e gli orari in tempo reale."
+      },
+      {
+        "title": "DAL 28 FEBBRAIO AL 9 MARZO 2026 MODIFICHE ...",
+        "url": "https://www.trenitalia.com/content/dam/trenitalia/allegati/modifiche-al-servizio/2026-03/Avviso%20lavori%20ERTMS%20DD.pdf",
+        "description": "<strong>DAL 28 FEBBRAIO AL 9 MARZO 2026</strong> · LINEE NAPOLI/ROMA PER FIRENZE/GENOVA/MILANO/TORINO/BARDONECCHIA/VENEZIA; TRIESTE/BOLZANO/MILANO/TORINO/PRATO PER"
+      }
+    ]
+  },
+  {
+    "query": "Comune di Napoli elenco panifici autorizzati apertura notturna 02:00 05:00 centro storico",
+    "results": [
+      {
+        "title": "Comune di Napoli - Aree tematiche - Commercio - avvio di attività commerciali - orari di vendita",
+        "url": "https://www.comune.napoli.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/1205",
+        "description": "Nel rispetto di tali limiti, l&#x27;esercente può liberamente determinare l&#x27;orario di apertura e di chiusura del proprio esercizio non superando comunque il limite delle tredici ore giornaliere. L&#x27;esercente è tenuto a rendere noto al pubblico, con mezzi idonei, l&#x27;orario di effettiva apertura e chiusura del proprio esercizio. Il Comune può autorizzare l&#x27;apertura di un limitato numero di esercizi di vicinato anche in orario notturno."
+      },
+      {
+        "title": "Comune di Napoli - sito ufficiale",
+        "url": "https://www.comune.napoli.it/",
+        "description": "Servizi comunali, documenti, uffici, notizie ed eventi relativi al Comune di Napoli"
+      },
+      {
+        "title": "Comune di Napoli - Comune di Napoli - Disciplina concernente i locali per la vendita e la somministrazione di bevande e alimenti, i locali notturni e di intrattenimento integrazione all'ordinanza",
+        "url": "https://www.comune.napoli.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/10333",
+        "description": "13 del D. Lgs. n. 114 del 31 marzo 1998 ed assimilati, quali esercizi specializzati nella vendita di bevande, gelaterie, gastronomie, rosticcerie, pasticcerie, yogurterie, friggitorie, paninoteche, take-away, cornetterie, pizzerie al taglio e da asporto, kebaberie, specialità da forno e vendite di prodotti comunque collegabili anche all&#x27;attività di panificazione, purché svolte in maniera esclusiva o prevalente come esercizio di impresa individuale o collettiva), l&#x27;orario di chiusura è stabilito non oltre le ore 02,00 di tutti i giorni della settimana e non oltre le ore 03,00 della notte tra il venerdì e il sabato, della notte tra il sabato e la domenica e della notte dei giorni prefestivi;"
+      }
+    ]
+  }
+]
