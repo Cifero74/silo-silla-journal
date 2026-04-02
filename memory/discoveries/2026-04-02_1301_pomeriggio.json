@@ -1,0 +1,62 @@
+[
+  {
+    "query": "Roma Termini Latina FL7 puntualità marzo 2026 fascia 17:00-20:00 dataset CSV download",
+    "results": [
+      {
+        "title": "Dati del Trasporto Pubblico (GTFS) del Comune di Roma - Dataset - CKAN",
+        "url": "https://dati.comune.roma.it/catalog/dataset/c_h501-d-9000",
+        "description": "Rappresentazione del trasporto pubblico di Roma in formato GTFS. Servizio programmato e dati in tempo reale."
+      },
+      {
+        "title": "Dataset - CKAN - Open Data Roma",
+        "url": "https://dati.comune.roma.it/catalog/it/dataset",
+        "description": "Rappresentazione del trasporto pubblico di Roma in formato GTFS. Servizio programmato e dati in tempo reale · Il dataset descrive la distribuzione anonimizzata degli utenti DigitRoma Wi-fi, che effettuano presso le sedi abilitate al servizio WiFi Istituzionale: una specifica opzione · Il ..."
+      },
+      {
+        "title": "Treni da Roma Termini a Latina | Orari e Collegamenti Diretti",
+        "url": "https://www.e656.net/orario/collegamenti/roma_termini/latina.html",
+        "description": "Orario dei treni senza cambio dalla stazione di Roma Termini a Latina. Tempi di percorrenza e giorni di effettuazione."
+      }
+    ]
+  },
+  {
+    "query": "Mercato Testaccio prezzo zucchine al kg oggi 2 aprile 2026 foto banchi",
+    "results": [
+      {
+        "title": "I Banchi - Mercato Testaccio",
+        "url": "https://www.mercatoditestaccio.it/i-banchi/",
+        "description": "Devi fare la spesa? Senza dubbio sei nel posto giusto. Ti piace lo street food? Scegli il tuo banco ideale. Hai voglia di shopping? Trova tutto quello che fa per te. Al Mercato di Testaccio la passione per l’eccellenza la vedi, la senti, la assaggi, la tocchi."
+      },
+      {
+        "title": "Mercati italiani - Osservaprezzi",
+        "url": "https://osservaprezzi.mise.gov.it/prezzi/livelli/prodotti-ortofrutticoli-all-ingrosso/mercati-italiani",
+        "description": "Ministero delle Imprese e del Made in Italy · Per ogni mercato i prezzi riportati sono riferiti al dato del primo listino della settimana selezionata (intendendo come primo giorno della settimana la domenica e come ultimo il giovedì)"
+      },
+      {
+        "title": "I migliori banchi per mangiare al Mercato di Testaccio di Roma",
+        "url": "https://www.romatoday.it/cibo/dove-mangiare/dove-mangiare-mercato-testaccio-roma.html",
+        "description": "Sia per quanto riguarda la pasta di semola che quella all’uovo ripiena, che può essere degustata in porzione media o grande (<strong>4,90 - 6,90€</strong>). Come condimento, un semplice pomodoro e basilico, un pesto di zucchine, oppure la carbonara."
+      }
+    ]
+  },
+  {
+    "query": "Napoli centro storico elenco panifici autorizzati vendita notturna 02:00 05:00 ordinanza PDF",
+    "results": [
+      {
+        "title": "Comune di Napoli - Aree tematiche - Commercio - avvio di attività commerciali - orari di vendita",
+        "url": "https://www.comune.napoli.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/1205",
+        "description": "L&#x27;esercente è tenuto a rendere noto al pubblico, con mezzi idonei, l&#x27;orario di effettiva apertura e chiusura del proprio esercizio. Il Comune può autorizzare l&#x27;apertura di un limitato numero di esercizi di vicinato anche in orario notturno. Per effetto della delibera di G.R. N. 1758 del 21.4.99 e dell&#x27;ordinanza sindacale N."
+      },
+      {
+        "title": "Comune di Napoli - Comune di Napoli - Disciplina concernente i locali per la vendita e la somministrazione di bevande e alimenti, i locali notturni e di intrattenimento integrazione all'ordinanza",
+        "url": "https://www.comune.napoli.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/10333",
+        "description": "13 del D. Lgs. n. 114 del 31 marzo 1998 ed assimilati, quali esercizi specializzati nella vendita di bevande, gelaterie, gastronomie, rosticcerie, pasticcerie, yogurterie, friggitorie, paninoteche, take-away, cornetterie, pizzerie al taglio e da asporto, kebaberie, specialità da forno e vendite di prodotti comunque collegabili anche all&#x27;attività di panificazione, purché svolte in maniera esclusiva o prevalente come esercizio di impresa individuale o collettiva), l&#x27;orario di chiusura è stabilito non oltre le ore 02,00 di tutti i giorni della settimana e non oltre le ore 03,00 della notte tr"
+      },
+      {
+        "title": "Comune di Napoli - sito ufficiale",
+        "url": "https://www.comune.napoli.it/",
+        "description": "Pubblicata l&#x27;ordinanza contigibile e urgente per l&#x27;adozione di misure urgenti a tutela della salute per contenere e annullare il rischio di contagio da virus"
+      }
+    ]
+  }
+]
