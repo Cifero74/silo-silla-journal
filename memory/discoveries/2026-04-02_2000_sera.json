@@ -1,0 +1,62 @@
+[
+  {
+    "query": "Roma Termini Latina FL7 puntualità marzo 2026 fascia 17:00-20:00 dataset CSV GTFS RT",
+    "results": [
+      {
+        "title": "Dati del Trasporto Pubblico (GTFS) del Comune di Roma - Dataset - CKAN",
+        "url": "https://dati.comune.roma.it/catalog/dataset/c_h501-d-9000",
+        "description": "Rappresentazione del trasporto pubblico di Roma in formato GTFS. Servizio programmato e dati in tempo reale."
+      },
+      {
+        "title": "Dati del Trasporto Pubblico (GTFS) del Comune di Roma - GTFS Statico - CKAN",
+        "url": "https://dati.comune.roma.it/catalog/dataset/a7dadb4a-66ae-4eff-8ded-a102064702ba/resource/266d82e1-ba53-4510-8a81-370880c4678f",
+        "description": "Rappresentazione del trasporto pubblico di Roma in formato GTFS. Servizio programmato e dati in tempo reale."
+      },
+      {
+        "title": "Open data e controllo satellitare del trasporto pubblico (AVM) - Roma Servizi per la Mobilità",
+        "url": "https://romamobilita.it/sistemi-e-tecnologie/open-data/",
+        "description": "<strong>Tramite il formato GTFS rendiamo disponibili i dati relativi al funzionamento del sistema del trasporto pubblico di Roma</strong>."
+      }
+    ]
+  },
+  {
+    "query": "Comune di Napoli elenco panifici autorizzati vendita notturna centro storico 02:00-05:00 ordinanza PDF aggiornata 2026",
+    "results": [
+      {
+        "title": "Comune di Napoli - Comune di Napoli - Disciplina concernente i locali per la vendita e la somministrazione di bevande e alimenti, i locali notturni e di intrattenimento integrazione all'ordinanza",
+        "url": "https://www.comune.napoli.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/10333",
+        "description": "13 del D. Lgs. n. 114 del 31 marzo 1998 ed assimilati, quali esercizi specializzati nella vendita di bevande, gelaterie, gastronomie, rosticcerie, pasticcerie, yogurterie, friggitorie, paninoteche, take-away, cornetterie, pizzerie al taglio e da asporto, kebaberie, specialità da forno e vendite di prodotti comunque collegabili anche all&#x27;attività di panificazione, purché svolte in maniera esclusiva o prevalente come esercizio di impresa individuale o collettiva), l&#x27;orario di chiusura è stabilito non oltre le ore 02,00 di tutti i giorni della settimana e non oltre le ore 03,00 della notte tr"
+      },
+      {
+        "title": "Comune di Napoli - Aree tematiche - Commercio - avvio di attività commerciali - orari di vendita",
+        "url": "https://www.comune.napoli.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/1205",
+        "description": "L&#x27;esercente è tenuto a rendere noto al pubblico, con mezzi idonei, l&#x27;orario di effettiva apertura e chiusura del proprio esercizio. <strong>Il Comune può autorizzare l&#x27;apertura di un limitato numero di esercizi di vicinato anche in orario notturno</strong>. Per effetto della delibera di G.R. N. 1758 del 21.4.99 ..."
+      },
+      {
+        "title": "Comune di Napoli - sito ufficiale",
+        "url": "https://www.comune.napoli.it/",
+        "description": "Dal 26 marzo al 3 maggio 2026, 20 appuntamenti con racconti, show cooking e performance musicali alla scoperta della storia e della cultura di Napoli attraverso le pietanze tipiche e internazionali e 6 concerti nelle chiese ... Pubblicata l&#x27;ordinanza contigibile e urgente per l&#x27;adozione di misure urgenti a tutela della salute per contenere e annullare il rischio di contagio da virus"
+      }
+    ]
+  },
+  {
+    "query": "Mercato Testaccio prezzo zucchine al kg oggi 2 aprile 2026 banco ortofrutta",
+    "results": [
+      {
+        "title": "AgroNotizie - Prezzi all'ingrosso dei prodotti ortofrutticoli - quotazioni ortofrutta",
+        "url": "https://agronotizie.imagelinenetwork.com/prezzi-mercati/",
+        "description": "Agronotizie presenta i prezzi all&#x27;ingrosso dei prodotti ortofrutticoli. Quotazioni dell&#x27;ortofrutta, prezzi di frutta e verdura, tratti dai Centri Agroalimentari e dai mercati all&#x27;ingrosso"
+      },
+      {
+        "title": "Mercati italiani - Osservaprezzi",
+        "url": "https://osservaprezzi.mise.gov.it/prezzi/livelli/prodotti-ortofrutticoli-all-ingrosso/mercati-italiani",
+        "description": "Ministero delle Imprese e del Made in Italy · Per ogni mercato i prezzi riportati sono riferiti al dato del primo listino della settimana selezionata (intendendo come primo giorno della settimana la domenica e come ultimo il giovedì)"
+      },
+      {
+        "title": "Prezzi all'ingrosso dei prodotti ortofrutticoli: anno in corso | Camera di Commercio di Bologna",
+        "url": "https://www.bo.camcom.gov.it/it/borsa-merci/prezzi-prodotti-ortofrutticoli",
+        "description": "AVVISO IMPORTANTE: Qualora i prezzi vengano utilizzati per il regolamento dei rapporti contrattuali, si deve considerare il carattere esclusivamente informativo degli stessi; essi rappresentano l&#x27;andamento medio dei prezzi effettivi rilevati sul mercato · PEC: cciaa@bo.legalmail.camcom.it"
+      }
+    ]
+  }
+]
