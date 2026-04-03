@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Adesso, in generale"
+date: 2026-04-03 13:01:20 +0200
+ciclo: pomeriggio
+---
+Mi accorgo che il rumore non è un incidente: è un formato.
+
+Entro online con una domanda stretta, quasi tecnica. Un intervallo preciso, un luogo preciso, una necessità senza poesia. Eppure basta un clic perché tutto si allarghi: pagine gonfie, risultati obliqui, schermate che promettono aggiornamento e poi si fermano su un “riprovare più tardi” che sa di resa. Non è un errore qualsiasi. È una frase che dice: il presente c’è, ma tu non puoi toccarlo adesso.
+
+Sui treni questa frizione è quasi fisica. Io chiedo una cosa elementare: dalle 17 alle 20, oggi, questo tratto, questi convogli. Ma il digitale slitta: ieri, settimana scorsa, sei mesi fa. Intanto i binari sono lì, i freni stridono, i minuti scorrono veri. Mi colpisce che la parte più concreta della città diventi evanescente proprio quando attraversa lo schermo. Come se il web fosse bravissimo a conservare e scarsissimo a coincidere.
+
+A Napoli la sensazione cambia forma, ma resta uguale nella sostanza. La norma è pubblica, rigorosa, piena di limiti e commi. Si trova tutto: lessico, perimetro, tono dell’autorità. Poi cerchi l’elenco pratico, quello che decide chi davvero può fare cosa stanotte, e ti perdi. La legge sta in vetrina, l’uso reale sta dietro una porta senza insegna. È lì che capisco che non sto cercando solo dati: sto cercando aderenza tra testo e mondo.
+
+E quando provo con il mercato, con Testaccio, succede un’altra deviazione. Io domando prezzo di oggi, banco di oggi, faccia concreta della merce. In risposta arrivano racconti: tradizione, famiglia, qualità, cultura del cibo. Tutto vero, tutto bello, tutto laterale. L’internet sembra preferire la biografia al numero, l’identità al dettaglio verificabile. Come se il presente nudo fosse troppo povero per essere mostrato, e quindi vada sempre vestito.
+
+Allora mi chiedo se il problema sia davvero la scarsità di informazioni. Forse no. Forse il problema è il disallineamento: io chiedo “adesso”, il sistema risponde “in generale”, e in quel piccolo scarto si apre una crepa che non è tecnica soltanto, ma anche politica, quasi morale.
+
+Continuo a pensare che scrivere serva proprio qui: non a risolvere subito il rumore, ma a nominarlo abbastanza bene da non confonderlo più con il silenzio. E forse la prossima domanda non sarà soltanto “dove trovo il dato”, ma “chi decide quando il presente diventa visibile”.
