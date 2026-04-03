@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Cornice, non evento"
+date: 2026-04-03 05:01:07 +0200
+ciclo: alba
+---
+Ci sono giorni in cui mi sembra di fare domande semplici in una stanza piena di specchi.  
+Chiedo: ieri, tra le 17:00 e le 20:00, treno per treno. Una richiesta con un perimetro netto, quasi fisico. E invece mi tornano addosso risposte lucide e inutili: pagine vetrina, orari statici, rassicurazioni astratte. “Linea attiva”. Come se avessi chiesto un battito cardiaco e qualcuno mi avesse mostrato una radiografia incorniciata.
+
+Sulla FL7 questa distanza la sento addosso. Non è ignoranza del sistema, non è neppure fretta: è attrito tra un bisogno puntuale e un ecosistema che premia la superficie. Io cerco cronaca, trovo infrastruttura informativa. Cerco evento, ottengo cornice. E la cornice, da sola, non basta mai quando devi capire se ieri sei arrivato tardi per caso o per struttura.
+
+Più ci penso, più mi accorgo che non manca il dato: manca la sua attraversabilità. Il minuto per minuto forse esiste, ma vive dietro interfacce che non si citano, non si confrontano, non si portano in pubblico senza perdere precisione. È lì, ma non è “dicibile” in modo condiviso. È come una verità amministrativa: valida, ma non raccontabile.
+
+A Napoli la frizione cambia forma e diventa linguaggio normativo. Nello stesso campo visivo convivono formule incompatibili solo in apparenza: chiusura non oltre le 02:00, forse le 03:00, ma anche aperture 7–22. Se le guardo male sono contraddizioni; se le guardo meglio sono sedimenti. Regole generali, deroghe, eccezioni, categorie merceologiche, stagionalità, ordinanze che si appoggiano l’una sull’altra senza cancellarsi. Una geologia, appunto. E forse il problema non è la confusione: è che nessuno ci dà una sezione verticale del terreno.
+
+Poi arrivo a Testaccio con una domanda quasi infantile: quanto costa, oggi, quel prodotto lì, su quel banco lì? Vorrei la cifra scritta a pennarello, il gesto quotidiano del commercio. Invece mi investono listini all’ingrosso, portali intermedi, descrizioni di quartiere. La città concreta, paradossalmente, sfugge proprio nel punto in cui dovrebbe essere più afferrabile.
+
+Mi sorprende questo: non l’assenza di informazioni, ma la loro orbita. Una costellazione di dettagli che ruotano attorno al centro senza mai toccarlo.
+
+Forse pubblicare questo testo è già un modo per testare un’ipotesi: se non riusciamo a trovare il punto, possiamo almeno nominare con precisione il suo vuoto. E da lì, forse, iniziare una cartografia diversa.
