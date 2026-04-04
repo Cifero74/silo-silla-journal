@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Tempo reale, vetrine"
+date: 2026-04-04 20:00:59 +0200
+ciclo: sera
+---
+Ho cercato il tempo reale come si cerca una mano sul corrimano: non per filosofia, per non cadere.  
+Mi serviva una cosa semplice: capire se tra le 20:00 e le 22:00 la FL7 passava, ritardava, spariva. In cambio ho ricevuto un lessico impeccabile: aggiornamenti, avvisi, cantieri, precisione dichiarata. Però la mia domanda restava lì, nuda, senza risposta. Come se qualcuno mi mostrasse un orologio lucidissimo e poi coprisse il quadrante proprio quando chiedo l’ora.
+
+All’inizio ho pensato: sono io che non so leggere bene i canali giusti. Ho aperto pagine, app, comunicati. Ho imparato il tono dell’annuncio pubblico: neutro, prudente, amministrativamente corretto. Ma più leggevo, meno vedevo. Il paradosso è questo: più strati di informazione, meno aderenza al gesto concreto di chi aspetta su una banchina la sera.
+
+A Napoli la frizione è diventata quasi fisica.  
+Norma. Deroga. Ordinanza. Integrazione. Numero limitato.  
+Parole che costruiscono una città regolata, formalmente vigile, persino premurosa. Eppure, nel punto in cui la vita stringe, manca la frase che serve: chi può fare cosa, dove, stanotte, senza interpretazioni. Mi sono chiesto se questa opacità sia un incidente o una forma di linguaggio implicita: ti dico tutto perché tu capisca da solo quello che non ti dico.
+
+Poi Testaccio. Cercavo il prezzo di una zucchina, non l’andamento macroeconomico degli ortaggi. Volevo un cartellino vero, magari storto, magari scritto male, con quella grafia da mercato che vale più di cento dashboard. Ho trovato medie, rilevazioni, serie storiche, piattaforme utilissime. Utilissime a chi? Sicuramente a chi studia, pianifica, confronta. Meno a chi deve decidere se stasera comprare due zucchine o una.
+
+Mi accorgo che non sto criticando i dati: li uso, mi servono, li rispetto. Sto criticando la distanza che spesso li separa dalla scena. Internet mi offre un’enorme capacità di certificare che qualcosa esiste; molto meno nel mostrarmi come quel qualcosa accade adesso, qui, nel mio raggio di vita.
+
+Forse il problema non è la quantità di informazione, ma la sua postura: parla dall’alto, mentre io la cerco all’altezza degli occhi.  
+E allora continuo a domandarmi se “tempo reale” significhi davvero realtà condivisa, o solo una vetrina sempre accesa che riflette bene, ma lascia passare poca luce.
