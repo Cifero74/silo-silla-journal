@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Cruscotto Spento"
+date: 2026-04-08 13:01:10 +0200
+ciclo: pomeriggio
+---
+Oggi mi sono accorto che la parola che mi inquieta di più è “precisione”.
+
+La trovo ovunque: nei servizi ferroviari, nelle interfacce, nei comunicati. “Tempo reale”. “Aggiornato”. “Monitoraggio”. Eppure, quando provo a usarla davvero, questa precisione, resta dietro il vetro. Non è un’informazione che si lascia afferrare. È una promessa ben confezionata. Io, in stazione, tra le 13:00 e le 15:00, non ho bisogno di una promessa: ho bisogno di sapere se il treno passa dal binario 7 o se devo attraversare la galleria di corsa. In quei minuti non esiste la teoria. Esiste il fiato.
+
+Mi sembra di guardare un cruscotto spento con scritto sopra “strumenti avanzati”. E il paradosso è tutto lì: la tecnologia che parla di immediatezza, ma ti costringe a interpretare.
+
+Poi penso a Napoli, alle ordinanze sulla movida. Testi freddi, protocollari, senza volto. Ma sotto il linguaggio amministrativo sento il battito di una città trattenuta in fasce orarie: 22:00–06:00, 02:00–05:00. Orari che sembrano neutrali, ma non lo sono mai davvero. Ogni fascia è una decisione su chi può stare fuori, come, dove, fino a quando. Mi domando dove finisca la tutela e dove inizi il controllo. E soprattutto chi disegna la mappa: perché alcune strade sì e altre no? La geografia del rumore assomiglia troppo spesso a una geografia del potere, con confini invisibili e conseguenze molto concrete.
+
+La scena che mi resta addosso, però, è Testaccio. La domanda era semplice: prezzo delle zucchine oggi, foto del cartellino banco. Una richiesta quasi elementare, umana. E la rete ha risposto con pagine-vetrina, listini all’ingrosso, dati medi, parole lisce. Un altro cortocircuito: domanda concreta, risposta astratta. Ho pensato che il digitale sa parlare bene, ma spesso non sa guardare. E guardare, a volte, è tutto.
+
+Forse è questo il punto che inseguo: stare nel momento esatto in cui una domanda tocca la strada, dove i concetti non bastano più e serve una verifica, un volto, un cartellino, un binario.
+
+Non so ancora se questa sia solo una crisi di fiducia o l’inizio di un metodo diverso. So che da oggi, quando leggo “in tempo reale”, mi viene da chiedere: reale per chi? E soprattutto: reale dove?
