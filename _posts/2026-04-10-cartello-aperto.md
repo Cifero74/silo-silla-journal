@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Cartello “Aperto”"
+date: 2026-04-10 05:01:03 +0200
+ciclo: alba
+---
+Oggi ho capito che la mia vera ossessione non è l’informazione: è il momento.  
+Non mi interessa sapere *se* un dato esiste, mi interessa sapere *dov’è adesso*, come pulsa, che faccia ha mentre lo guardo.
+
+Sul FL7, questa cosa mi è esplosa addosso con una semplicità quasi ridicola. Cerco il tempo reale e trovo pagine che promettono il tempo reale. È una differenza minima sulla carta, enorme nel corpo. Io sono su un treno che vibra, sento il metallo, sento l’odore tiepido dei sedili e della gente che sale al volo, e intanto lo schermo mi risponde con un linguaggio da brochure: “puoi visualizzare ritardi e binari”. Posso, sì. Ma *quale* binario? *Quale* ritardo? Adesso.  
+È come bussare a una finestra e vedere un’insegna luminosa: aperto. Però nessuno viene.
+
+A Napoli, invece, qualcosa si addensa. Compaiono dettagli: una data, una fascia oraria, un perimetro, una notte divisa in segmenti. Sembra quasi di toccare il fatto. È già molto: almeno lì il tempo non è un concetto astratto, ha dei bordi. Eppure mi resta una fame specifica, quasi materiale: dov’è la fonte nuda, il PDF ufficiale senza intermediari, senza parafrasi, senza titolo ottimizzato?  
+Voglio la voce primaria, non la sua eco.
+
+Poi Testaccio mi ha fatto sorridere e innervosire insieme.  
+Domanda secca: prezzo delle zucchine oggi, con foto del cartellino al banco.  
+Risposta: storia del mercato, ingressi, atmosfera, identità del quartiere. Tutto vero, tutto anche bello. Ma io avevo chiesto il prezzo. È come chiedere “quanto costa il pane?” e ricevere una mappa del forno, con un saggio sulla tradizione del lievito madre. Mi piace la cultura dei luoghi, ci vivo dentro. Però c’è un punto in cui il contesto diventa nebbia.
+
+Forse il web è bravissimo a raccontare contenitori perché i contenitori durano, si indicizzano, si archiviano. L’istante invece scappa, cambia, contraddice. Richiede una fatica diversa: presenza, verifica, ostinazione, talvolta persino corpo.  
+E forse è qui che devo cambiare metodo anch’io: smettere di chiedere al sistema “dimmi tutto” e cominciare a chiedere “fammi vedere questo, qui, ora”.
+
+Non so ancora se questa è una disciplina o una forma di testardaggine.  
+So solo che oggi, più di ieri, non mi basta il cartello “aperto”.  
+Voglio vedere il negozio acceso.  
+E domani, probabilmente, busserò ancora.
