@@ -1,0 +1,62 @@
+[
+  {
+    "query": "FL7 Roma Termini Latina partenza 20:00 14 aprile 2026 binario effettivo ritardo reale",
+    "results": [
+      {
+        "title": "Stazione di ROMA TERMINI",
+        "url": "https://iechub.rfi.it/ArriviPartenze/arrivalsdepartures/Monitor?placeId=2416&arrivals=True",
+        "description": "It En Fr De · MONITOR ARRIVI &amp; PARTENZE LIVE aggiornato il 14/04/2026 alle ore 09:51:09 · ROMA TERMINI · Arrivi Partenze · HIGH SPEED TRAINS FROM AND TO NAPOLI CENTRALE SALERNO REGGIO CALABRIA BARI LECCE, DELAYED UP TO 180 MINUTES, VARIATED OR CANCELLED DUE TO AN INFRASTRUCTURE DEVICES ..."
+      },
+      {
+        "title": "Notizie Infomobilità | Trenitalia",
+        "url": "https://www.trenitalia.com/it/informazioni/Infomobilita/notizie-infomobilita.html",
+        "description": "Consulta le notizie di Infomobilità Trenitalia: info su traffico, lavori, variazioni e aggiornamenti in tempo reale per pianificare al meglio il tuo viaggio."
+      },
+      {
+        "title": "ROMA TERMINI - Partenze e Arrivi Tempo Reale | Treniamo",
+        "url": "https://treniamo.it/it/stazione/S08409-roma-termini",
+        "description": "Partenze e arrivi in tempo reale dalla stazione di ROMA TERMINI. Puntualita del 53% con un <strong>ritardo medio di 2.0 min negli ultimi 30 giorni</strong>. Orari, ritardi e binari aggiornati ogni minuto."
+      }
+    ]
+  },
+  {
+    "query": "Piazza Bellini Napoli controlli notte 14 15 aprile 2026 verbali sequestri comunicato ufficiale",
+    "results": [
+      {
+        "title": "Controlli a piazza Bellini. - Questura di Napoli | Polizia di Stato",
+        "url": "https://questure.poliziadistato.it/it/Napoli/articolo/2359609392feddd78751998593",
+        "description": "Ieri gli agenti del Commissariato Decumani hanno effettuato servizi tesi al rispetto delle norme anti Covid-19 nella zona della &quot;movida&quot; in <strong>piazza Bellini</strong>. Nel corso dell’attività sono state identi"
+      },
+      {
+        "title": "Movida a Piazza Bellini: firmata l’ordinanza per la tutela della quiete pubblica. Nuovi orari e restrizioni per i locali - Comune di Napoli",
+        "url": "https://www.comune.napoli.it/novita/movida-a-piazza-bellini-firmata-lordinanza-per-la-tutela-della-quiete-pubblica-nuovi-orari-e-restrizioni-per-i-locali/",
+        "description": "Il Sindaco di Napoli, Gaetano Manfredi, ha firmato l’ordinanza finalizzata a garantire la tranquillità e il riposo dei residenti nell’area di <strong>Piazza Bellini</strong> e zone limitrofe."
+      },
+      {
+        "title": "Operazione interforze nel quartiere di Miano, controlli e sequestri - Notizie - Ansa.it",
+        "url": "https://www.ansa.it/campania/notizie/2026/04/10/operazione-interforze-nel-quartiere-di-miano-controlli-e-sequestri_b53b6bdb-bc40-4616-b1c2-2d80f0d937df.html",
+        "description": "Operazione interforze, la scorsa notte, nel quartiere Miano di Napoli. (ANSA)"
+      }
+    ]
+  },
+  {
+    "query": "Mercato di Testaccio prezzo fragole al kg 14 aprile 2026 foto cartellini banchi",
+    "results": [
+      {
+        "title": "I Banchi - Mercato Testaccio",
+        "url": "https://www.mercatoditestaccio.it/i-banchi/",
+        "description": "Devi fare la spesa? Senza dubbio sei nel posto giusto. Ti piace lo street food? Scegli il tuo banco ideale. Hai voglia di shopping? Trova tutto quello che fa per te. Al Mercato di Testaccio la passione per l’eccellenza la vedi, la senti, la assaggi, la tocchi."
+      },
+      {
+        "title": "Il Mercato - Mercato Testaccio",
+        "url": "https://www.mercatoditestaccio.it/il-mercato/",
+        "description": "Nel Mercato di Testaccio i banchi dei veterani si alternano alle proposte più innovative, mostrandoti una Roma autentica, capace di incantare e di sperimentare. Perfetto per chi è alla ricerca di prodotti freschi, autentici e genuini, è il non plus ultra per chi ama lo street food, i piatti ..."
+      },
+      {
+        "title": "Mercato Testaccio — Un mercato che è più di un mercato",
+        "url": "https://www.mercatoditestaccio.it/",
+        "description": "Segui Mercato Testaccio su FB!"
+      }
+    ]
+  }
+]
