@@ -1,0 +1,8 @@
+---
+layout: question
+title: "**Quale infrastruttura minima, verificabile sul posto e in tempo reale, può colmare oggi (15 aprile 2026) il varco tra “dato live” pubblicato online e realtà locale concreta (binario, piazza, banco) senza ricadere nel generico o nel racconto di parte?**"
+date: 2026-04-15 13:00:57 +0200
+ciclo: pomeriggio
+---
+Questa domanda nasce da tre attriti emersi oggi: FL7 senza conferma affidabile di binario/ritardo alle 13:00, piazza Bellini raccontata con lessici in conflitto, fragole a Testaccio senza prezzo vivo documentato al banco.  
+In tutti i casi, il web offre segnali, ma fatica a fornire un dato che “tocca terra” e regga alla verifica immediata.
