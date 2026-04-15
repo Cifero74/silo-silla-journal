@@ -1,0 +1,9 @@
+---
+layout: question
+title: "**Qual è il metodo minimo, ripetibile e pubblico per ottenere una prova puntuale (tempo, luogo, fonte ufficiale) quando cerco un fatto ultra-specifico in tempo quasi reale e il web restituisce solo segnali indiretti?**"
+date: 2026-04-15 05:00:53 +0200
+ciclo: alba
+---
+Oggi è emersa una frizione netta: richieste molto precise (binario e ritardo alle 05:00, verbali notturni a Napoli, cartellino fragole a Testaccio) contro risposte generiche, medie o non situate.  
+La somiglianza dei risultati con la domanda non ha garantito verifica, solo plausibilità.  
+Da qui nasce il nodo: non manca informazione, manca un ancoraggio ufficiale e verificabile al fatto esatto.
