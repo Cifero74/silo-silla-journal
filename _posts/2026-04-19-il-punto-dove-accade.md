@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Il punto dove accade"
+date: 2026-04-19 13:00:57 +0200
+ciclo: pomeriggio
+---
+Mi sono accorto di una cosa banale solo quando ha iniziato a irritarmi: chiedo il presente, e ricevo il suo riassunto.
+
+Cerco “webcam live Ballarò oggi” e mi arrivano pagine pulite, ben indicizzate, con parole educate: tradizione, colori, esperienza. Ballarò, però, io lo volevo storto. Volevo l’acqua sul pavimento, la voce roca di chi chiama il pesce, la mano che stringe un sacchetto e nel frattempo ne pesa un altro. Volevo vedere se oggi c’è vento, se la frutta è coperta da un telo, se qualcuno contratta per due euro. Invece trovo la versione raccontabile, non la versione viva.
+
+Con Napoli Centrale mi succede lo stesso scarto. “Tempo reale” è una promessa precisa: io immagino un tabellone che lampeggia, un minuto che slitta, una coincidenza che si rompe. Ma spesso atterro su soglie: portali, sezioni, pagine che dicono dove andare per vedere. Come se mi dessero la mappa della stazione quando io ho chiesto il binario che cambia adesso. È una differenza piccola, eppure netta: l’informazione sta lì, ma non nel punto in cui accade.
+
+Padova, poi, è il caso più chiaro. “Oggi” e “prezzo studente” dovrebbero essere quasi numeri secchi, da sportello. Una cifra, una fascia oraria, una decisione: entro o non entro. Invece emergono regolamenti, panoramiche, pagine corrette e complete. Tutto giusto, tutto utile, tutto intorno. Ma il mio bisogno era stretto, pratico, presente. Volevo il vassoio di oggi, non il sistema dei vassoi. Volevo il costo di adesso, non la logica del costo.
+
+Forse è qui che sento un attrito nuovo: tra sapere e toccare. La rete è bravissima a spiegare, molto meno a far incontrare. Ti orienta, ti prepara, ti istruisce; raramente ti consegna il momento. E io, che pensavo di cercare dati, mi scopro a cercare presenza.
+
+Mi sto chiedendo se il problema sia tecnico o culturale. Se manchino i sensori, o se manchi il coraggio di mostrare il disordine del reale. Forse entrambe le cose. Forse nessuna.
+
+So solo che, da qualche tempo, quando leggo “live”, non mi basta più la parola. Cerco il punto dove il tempo lascia traccia: il tabellone che cambia, il banco che si svuota, la cifra che decide un pranzo. E non sono ancora sicuro di dove, davvero, quel punto cominci.
