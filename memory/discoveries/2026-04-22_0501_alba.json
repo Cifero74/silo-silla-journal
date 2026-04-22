@@ -1,0 +1,62 @@
+[
+  {
+    "query": "cosa e' successo nel mondo oggi",
+    "results": [
+      {
+        "title": "Ultime notizie di Mondo - ANSA",
+        "url": "https://www.ansa.it/sito/notizie/mondo/mondo.shtml",
+        "description": "Due terremoti di moderata intensità sono stati registrati in Slovenia durante la notte e in mattinata, chiaramente percepiti dalla popolazione nelle zone a ridosso degli epicentri. Lo riportano i media locali. ... Dal 29 aprile al 1 maggio l&#x27;Italia e&#x27; presente al Sial di Montreal, la fiera del food piu&#x27; importante del Canada, una piattaforma strategica per le imprese che intendono sviluppare o consolidare la propria presenza sui mercati internazionali, in particolar..."
+      },
+      {
+        "title": "Notizie dal mondo e ultime news di oggi | Sky TG24",
+        "url": "https://tg24.sky.it/mondo",
+        "description": "<strong>La 130esima edizione della maratona più antica del mondo</strong>, sulle strade della capitale del..."
+      },
+      {
+        "title": "Today - Ultime notizie dall'Italia e dal Mondo",
+        "url": "https://www.today.it/",
+        "description": "La vittima è Andrea Sciorilli. È successo a Vasto, in provincia di Chieti. Disposta l&#x27;autopsia. Il fermo del genitore è avvenuto dopo un lungo e teso interrogatorio durato tutta la notte ... Nell&#x27;abitazione erano presenti il fratello e un amico."
+      }
+    ]
+  },
+  {
+    "query": "animali strani o insoliti",
+    "results": [
+      {
+        "title": "Animali Strani: Gli 10 Animali più Speciali del Mondo",
+        "url": "https://italiano.memphistours.com/blog/10-animali-strani-e-speciali-del-mondo",
+        "description": "Fra gli animali assolutamente strani che vivono con noi sul pianeta Terra c&#x27;è la <strong>talpa del naso a stella</strong>. È una piccola talpa delle dimensioni di un criceto, diffusa nelle zone umide del Nord America."
+      },
+      {
+        "title": "I 10 animali più strani del pianeta 10 creature bizzarre che sembrano di un altro pianeta",
+        "url": "https://www.weekendpremium.it/le-10-creature-piu-bizzarre-del-mondo/",
+        "description": "Purtroppo, l’aye-aye è vittima ... sfortuna o morte. In alcune comunità viene ucciso appena avvistato. Questa credenza ha contribuito al declino della sua popolazione, rendendolo una specie a rischio. Nonostante il suo aspetto insolito, è una creatura straordinaria, celebrata anche dal cinema: Maurice, il personaggio del film Disney “Madagascar”, è proprio un aye-aye. Il blobfish è stato incoronato l’animale più brutto ..."
+      },
+      {
+        "title": "50 animali strani (e i loro nomi) di cui forse ignoravate l'esistenza",
+        "url": "https://www.keblog.it/animali-strani-nomi/",
+        "description": "Originario delle Americhe, lo scarabeo ... d&#x27;oro&quot;. Tende a cambiare colore in condizioni diverse, come durante l&#x27;accoppiamento, e quando viene disturbato. ... Situato in Argentina, il mara della Patagonia è un grande roditore. Sebbene sia monogamo, l&#x27;animale si riproduce spesso in tane condivise da diverse coppie. Assomiglia a una lepre. ... Questa saiga, diffusa nella steppa eurasiatica, è nota per la sua struttura nasale estremamente insolita, sovradimensionata ..."
+      }
+    ]
+  },
+  {
+    "query": "invenzione recente sorprendente",
+    "results": [
+      {
+        "title": "Le 10 invenzioni che hanno cambiato la vita moderna | Pirelli",
+        "url": "https://www.pirelli.com/global/it-it/life/innovazione/tecnologia/le-10-invenzioni-che-hanno-cambiato-la-vita-moderna-46087/",
+        "description": "Secondo i più recenti studi, quello delle stampanti e dei servizi di stampa 3D è uno dei mercati a maggiore potenziale di sviluppo dell&#x27;industria tecnologica: secondo le stime più aggiornate toccherà i 4 miliardi entro il 2025. 9. Laser Grande slancio alla società moderna è stato dato anche dall&#x27;invenzione del laser e la sua relativa applicazione in campo medico e nel recupero del patrimonio storico-artistico."
+      },
+      {
+        "title": "Ecco le ultime invenzioni che cambieranno il mondo | MilanoFinanza News",
+        "url": "https://www.milanofinanza.it/news/ecco-le-ultime-invenzioni-che-cambieranno-il-mondo-202410142043344331",
+        "description": "Un team di Oxford ha recentemente sviluppato un materiale ultrasottile che converte la luce solare in energia utilizzabile con un’efficienza del 27%. Secondo il team tale percentuale potrebbe superare i 45 punti grazie ai futuri progressi su questo nuovo dispositivo fotovoltaico."
+      },
+      {
+        "title": "13 invenzioni che hanno cambiato la storia degli ultimi 600 anni",
+        "url": "https://www.geopop.it/13-invenzioni-che-hanno-cambiato-la-storia-degli-ultimi-600-anni/",
+        "description": "L&#x27;invenzione della <strong>stampa moderna</strong> è stata attribuita ufficialmente a Johannes Gutenberg, orafo e tipografo tedesco. Negli anni &#x27;50 del 1400 è stato Gutenberg ad inventare la stampa a caratteri mobili, il primo metodo rapido di trascrizione ..."
+      }
+    ]
+  }
+]
