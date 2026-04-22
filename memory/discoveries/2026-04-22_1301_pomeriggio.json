@@ -1,0 +1,62 @@
+[
+  {
+    "query": "ANSA Slovenia terremoto ultime 24 ore magnitudo area Lubiana 22 aprile 2026",
+    "results": [
+      {
+        "title": "Lista Terremoti aggiornata in tempo reale » INGV Osservatorio Nazionale Terremoti",
+        "url": "https://terremoti.ingv.it/",
+        "description": "Lista dei terremoti aggiornata in tempo reale dall&#x27;Osservatorio Nazionale Terremoti. Monitoraggio e sorveglianza sismica in Italia."
+      },
+      {
+        "title": "Slovenia, due terremoti di moderata intensità registrati oggi - Slovenia - Ansa.it",
+        "url": "https://www.ansa.it/nuova_europa/it/notizie/nazioni/slovenia/2026/04/21/slovenia-due-terremoti-di-moderata-intensita-registrati-oggi_50aaf580-b141-412f-812d-9bd1406baf2d.html",
+        "description": "<strong>Due terremoti di moderata intensità sono stati registrati in Slovenia durante la notte e in mattinata</strong>, chiaramente percepiti dalla popolazione nelle zone a ridosso degli epicentri. Lo riportano i media locali. (ANSA)"
+      },
+      {
+        "title": "Slovenia - terremoti.net",
+        "url": "https://www.terremoti.net/slovenia/",
+        "description": "Una scossa di <strong>magnitudo (ML) 1.3</strong> è avvenuta nella zona: Confine Italia-Slovenia (SLOVENIA) il 18/06/2024 11:59:25 Articolo completo » · Mercoledì, 5 Giugno 2024 Hai Sentito il Terremoto · Data e ora locale 22-04-2014 10:58:27 Coordinate Epicentrali 45.622, 14.253 Zona Slovenia (SLOVENIA) ..."
+      }
+    ]
+  },
+  {
+    "query": "Napoli Centrale partenze regionali monitor stazione vs sito RFI ritardo aggiornamento tempo reale",
+    "results": [
+      {
+        "title": "Monitor Arrivi Partenze live",
+        "url": "https://www.rfi.it/it/stazioni/pagine-stazioni/servizi-di-qualita/informazioni-al-pubblico/monitor-arrivi-partenze-live.html",
+        "description": "&gt; in stazione i viaggiatori sono comunque invitati a prestare attenzione agli annunci sonori e visivi diffusi &gt; <strong>le informazioni on line possono apparire con un ritardo fino a tre minuti rispetto a quelle diffuse in tempo reale nelle stazioni</strong> &gt; una ..."
+      },
+      {
+        "title": "Stazione di NAPOLI CENTRALE",
+        "url": "https://iechub.rfi.it/ArriviPartenze/ArrivalsDepartures/Monitor?placeId=1888&arrivals=True",
+        "description": "It En Fr De · MONITOR ARRIVI &amp; PARTENZE LIVE aggiornato il 21/04/2026 alle ore 13:54:24 · NAPOLI CENTRALE · Arrivi Partenze · ATTENZIONE! E&#x27; SEVERAMENTE VIETATO OLTREPASSARE LA LINEA GIALLA E SALIRE O SCENDERE DAI TRENI QUANDO NON SONO COMPLETAMENTE FERMI"
+      },
+      {
+        "title": "NAPOLI CENTRALE - Partenze e Arrivi Tempo Reale | Treniamo",
+        "url": "https://treniamo.it/it/stazione/S09218-napoli-centrale",
+        "description": "<strong>Ogni treno mostra ritardo attuale in tempo reale</strong>. Per trend storici, visita la pagina Puntualita. Il binario di partenza e mostrato nella colonna &quot;Binario&quot; accanto ad ogni treno. Se il binario non e ancora stato assegnato, verra mostrato &quot;TBD&quot; e si aggiornera automaticamente appena disponibile."
+      }
+    ]
+  },
+  {
+    "query": "ESU Padova mensa Piovego menu pranzo oggi 22 aprile 2026 prezzo studente",
+    "results": [
+      {
+        "title": "Ristorazione - ESU Padova IT",
+        "url": "https://www.esu.pd.it/ristorazione/",
+        "description": "Gli utenti registrati accedono alle ristorazioni universitarie informatizzateNord Piovego, Agripolis, Pio X, Murialdo, Casa del Fanciullo, CIELS, Vicenza, Rovigo Censer con il TESSERINO MENSA generato dall’app ESUPd.EAT."
+      },
+      {
+        "title": "Home - ESU Padova IT",
+        "url": "https://www.esu.pd.it/",
+        "description": "Sono state aggiornate le tariffe di accesso al servizio ristorazione per gli studenti dell’Università di Padova divenuti beneficiari di borsa di studio in 2° assegnazione. Segnaliamo che, come previsto dalle Norme… ... il 21 e 22 aprile 2026 vi aspettiamo alla Residenza Copernico per una nuova edizione della Scuola di Autoimprenditoria dell’ESU di Padova!"
+      },
+      {
+        "title": "Ristorazione studenti | Università di Padova",
+        "url": "https://www.unipd.it/ristorazione-studenti",
+        "description": "Nelle sedi distaccate dell’Università (Castelfranco Veneto, Conegliano, Feltre, Rovigo, Treviso, Portogruaro, Vicenza) l’ESU opera attraverso convenzioni con strutture di ristorazione locali: l’elenco completo è consultabile, assieme a eventuali notizie e aggiornamenti, sul sito dell’ESU:"
+      }
+    ]
+  }
+]
