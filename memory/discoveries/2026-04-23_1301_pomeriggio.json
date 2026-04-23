@@ -1,0 +1,62 @@
+[
+  {
+    "query": "Napoli Centrale monitor partenze regionali confronto Viaggiatreno ritardi oggi",
+    "results": [
+      {
+        "title": "Monitor Arrivi Partenze live",
+        "url": "https://www.rfi.it/it/stazioni/pagine-stazioni/servizi-di-qualita/informazioni-al-pubblico/monitor-arrivi-partenze-live.html",
+        "description": "&gt; in stazione i viaggiatori sono comunque invitati a prestare attenzione agli annunci sonori e visivi diffusi &gt; <strong>le informazioni on line possono apparire con un ritardo fino a tre minuti rispetto a quelle diffuse in tempo reale nelle stazioni</strong> &gt; una ..."
+      },
+      {
+        "title": "Trenitalia - ViaggiaTreno",
+        "url": "http://www.viaggiatreno.it/infomobilita/index.jsp?idreg=0&trattaAB=307&trattaBA=308",
+        "description": "Viaggia Treno mette a disposizione della clientela in tempo reale le notizie sull’andamento dei treni a scopo esclusivamente informativo. Pertanto le informazioni di Viaggia Treno riguardanti la circolazione treni, quali i tempi di percorrenza, ritardi, interruzioni di linea e/o perturbazioni del traffico, ecc."
+      },
+      {
+        "title": "Italo In Viaggio: Binario e Orari dei treni in tempo reale – Italo",
+        "url": "https://italoinviaggio.italotreno.com/it",
+        "description": "Scegli la stazione che ti interessa per visualizzare i tabelloni con le partenze e gli arrivi aggiornati in tempo reale. ... In questa sezione trovi gli orari programmati dei treni regionali per la data e orario ricercati. ... Se il tuo treno deve ancora partire ed è previsto un ritardo superiore ai 60 minuti, o se viene cancellato in partenza puoi richiedere immediatamente: il rimborso del prezzo del biglietto senza alcuna trattenuta per: - la parte di viaggio non ancora effettuato; - l’intero viaggio se non hai più bisogno di arrivare a destinazione."
+      }
+    ]
+  },
+  {
+    "query": "INGV terremoti ultime 24 ore entro 120 km da Lubiana magnitudo almeno 2.5",
+    "results": [
+      {
+        "title": "Lista Terremoti aggiornata in tempo reale » INGV Osservatorio Nazionale Terremoti",
+        "url": "https://terremoti.ingv.it/",
+        "description": "Lista dei terremoti aggiornata in tempo reale dall&#x27;Osservatorio Nazionale Terremoti. Monitoraggio e sorveglianza sismica in Italia."
+      },
+      {
+        "title": "Terremoti in Italia ≈ Ultime scosse di Terremoto e Magnitudo del Sisma",
+        "url": "https://www.3bmeteo.com/terremoti/italia",
+        "description": "Notizie in tempo reale + elenco dei terremoti in atto con dettagli sull&#x27;epicentro del sisma e sulla magnitudo. Aiutaci con le tue segnalazioni per identificare le zone colpite."
+      },
+      {
+        "title": "INGV Terremoti",
+        "url": "https://ingvterremoti.com/",
+        "description": "L’INGV ha realizzato il video dell’animazione della propagazione sulla superficie terrestre delle onde sismiche generate dal terremoto di magnitudo Mw 5.1 (Ml 5.1) localizzato dalla Rete Sismica Nazionale alle ore 05:53 …"
+      }
+    ]
+  },
+  {
+    "query": "ESU Padova mensa Piovego menu cena oggi 23 aprile 2026 prezzo studente",
+    "results": [
+      {
+        "title": "Ristorazione - ESU Padova IT",
+        "url": "https://www.esu.pd.it/ristorazione/",
+        "description": "Gli utenti registrati accedono alle ristorazioni universitarie informatizzateNord Piovego, Agripolis, Pio X, Murialdo, Casa del Fanciullo, CIELS, Vicenza, Rovigo Censer con il TESSERINO MENSA generato dall’app ESUPd.EAT."
+      },
+      {
+        "title": "Mense universitarie - Controguida | Studenti Per Udu Padova",
+        "url": "https://controguida.udupadova.it/vita-quotidiana/mense-universitarie-unipd/",
+        "description": "Nelle vicinanze degli istituti universitari tutta la popolazione studentesca ha la possibilità di utilizzare il servizio mensa nelle apposite strutture ESU. Il costo del pasto varia a seconda della tipologia di studentə, dell’ISEE dichiarato e del merito."
+      },
+      {
+        "title": "Ristorazione studenti | Università di Padova",
+        "url": "https://www.unipd.it/ristorazione-studenti",
+        "description": "Nelle sedi distaccate dell’Università (Castelfranco Veneto, Conegliano, Feltre, Rovigo, Treviso, Portogruaro, Vicenza) l’ESU opera attraverso convenzioni con strutture di ristorazione locali: l’elenco completo è consultabile, assieme a eventuali notizie e aggiornamenti, sul sito dell’ESU:"
+      }
+    ]
+  }
+]
