@@ -1,0 +1,62 @@
+[
+  {
+    "query": "Napoli Centrale partenze regionali 26 aprile 2026 confronto tabellone stazione e ViaggiaTreno ritardi oltre 10 minuti",
+    "results": [
+      {
+        "title": "Trenitalia - ViaggiaTreno",
+        "url": "http://www.viaggiatreno.it/infomobilita/index.jsp?idreg=0&trattaAB=500&trattaBA=501",
+        "description": "Per le informazioni sui treni Regionali va cliccato Traffico Regionale, e poi la mappa della regione di interesse. Il colore blu indica le linee e le direzioni con treni in circolazione in quel momento. Cliccando sulla singola linea si visualizzano tutti i treni che la stanno percorrendo e il loro andamento in tempo reale. Selezionando la località si visualizza il quadro Arrivi e Partenze delle principali stazioni del nodo ferroviario corrispondente."
+      },
+      {
+        "title": "Tabellone partenze e arrivi - Napoli Centrale",
+        "url": "https://it.mytrainpal.com/tempo-reale/partenze/napoli-centrale",
+        "description": "Vuoi sapere se il tuo treno è in orario, se è in ritardo o se è stato cancellato? Il tracker ti offre tutti gli aggiornamenti in tempo reale. Puoi anche monitorare il tragitto durante il viaggio, per essere sempre aggiornato e preparato in caso di modifiche o interruzioni del servizio. ... Orari di partenza/arrivo in tempo reale: non devi fare altro che inserire le stazioni di partenza e di arrivo e potrai visualizzare gli orari in tempo reale."
+      },
+      {
+        "title": "Orari treni 2026 | Trenitalia e Italo | Orari in Tempo Reale",
+        "url": "https://www.thetrainline.com/it/orari-treni",
+        "description": "Con la nostra funzione in App, puoi seguire l’andamento dei treni in tempo reale e visualizzare le informazioni dettagliate sugli orari di arrivo e partenza, le fermate previste, il binario di partenza ed eventuali ritardi o cancellazioni. Come avere sempre con te il tuo tabellone delle partenze, invece di doverlo consultare in stazione al tuo arrivo!"
+      }
+    ]
+  },
+  {
+    "query": "INGV terremoti Nord Adriatico ultime 24 ore orario evento e orario prima pubblicazione confronto EMSC",
+    "results": [
+      {
+        "title": "Lista Terremoti aggiornata in tempo reale » INGV Osservatorio Nazionale Terremoti",
+        "url": "https://terremoti.ingv.it/",
+        "description": "Lista dei terremoti aggiornata in tempo reale dall&#x27;Osservatorio Nazionale Terremoti. Monitoraggio e sorveglianza sismica in Italia."
+      },
+      {
+        "title": "INGV Terremoti - App su Google Play",
+        "url": "https://play.google.com/store/apps/details?id=it.ingv.terremoti&hl=it",
+        "description": "I parametri (tempo origine, coordinate epicentrali, profondità e magnitudo) delle localizzazioni dei terremoti sono disponibili grazie al Servizio di Sorveglianza Sismica dell&#x27;INGV, <strong>attivo 24h/24, 7 giorni su 7.</strong> I parametri sono suscettibili ..."
+      },
+      {
+        "title": "INGV Terremoti",
+        "url": "https://ingvterremoti.com/",
+        "description": "L’INGV ha realizzato il video dell’animazione della propagazione sulla superficie terrestre delle onde sismiche generate dal terremoto di magnitudo Mw 5.1 (Ml 5.1) localizzato dalla Rete Sismica Nazionale alle ore 05:53 …"
+      }
+    ]
+  },
+  {
+    "query": "Padova Portello 26 aprile 2026 colazioni economiche aperte alle 05:30 prezzi brioche e caffè",
+    "results": [
+      {
+        "title": "Come ti svoltano la giornata queste colazioni in centro a Padova",
+        "url": "https://2night.it/6e2ab2-/colazione-padova.html",
+        "description": "Potrei continuare consigliandoti altro, ma tra le loro brioches, i loro babà o le zeppole di San Giuseppe, non puoi fare a meno di provare tutto. I prezzi sono medio-alti, ma non bisogna sorprendersi, l’alta qualità, giustamente, si paga. San Michele Sud Experience, Via Michele Sanmicheli 1, Padova _ Tel. 3755507470 · Un luogo in cui la pasticceria americana si fonde con quella europea è Red Velvet. Ci troviamo in via Gianbattista Belzoni, a 300 metri da Porta Portello e in piena zona universitaria."
+      },
+      {
+        "title": "Pasticceria Tadiotto Al Duomo | colazioni e torte a Padova",
+        "url": "https://pasticceriatadiotto.it/",
+        "description": "Pasticceria Tadiotto, da sempre la pasticceria al Duomo di Padova per colazioni, pause caffè e torte artigianali da asporto. Visita il sito e chiamaci."
+      },
+      {
+        "title": "Colazioni: Bar e Caffetterie a Padova",
+        "url": "https://www.paginegialle.it/veneto/padova/colazioni.html",
+        "description": "Cerchi un Bar o una Caffetteria per fare Colazione a Padova? Su PagineGialle scopri la lista completa con Indirizzi e Orari."
+      }
+    ]
+  }
+]
