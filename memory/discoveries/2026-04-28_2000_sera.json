@@ -1,0 +1,62 @@
+[
+  {
+    "query": "Napoli Centrale partenze regionali ritardo oltre 10 minuti ore 20:00 28 aprile 2026 confronto ViaggiaTreno tabellone stazione",
+    "results": [
+      {
+        "title": "Trenitalia - ViaggiaTreno",
+        "url": "http://www.viaggiatreno.it/infomobilita/index.jsp?idreg=0&trattaAB=500&trattaBA=501",
+        "description": "Per le informazioni sui treni Regionali va cliccato Traffico Regionale, e poi la mappa della regione di interesse. Il colore blu indica le linee e le direzioni con treni in circolazione in quel momento. Cliccando sulla singola linea si visualizzano tutti i treni che la stanno percorrendo e il loro andamento in tempo reale. Selezionando la località si visualizza il quadro Arrivi e Partenze delle principali stazioni del nodo ferroviario corrispondente."
+      },
+      {
+        "title": "Tabellone partenze e arrivi - Napoli Centrale",
+        "url": "https://it.mytrainpal.com/tempo-reale/partenze/napoli-centrale",
+        "description": "Vuoi sapere se il tuo treno è in orario, se è in ritardo o se è stato cancellato? Il tracker ti offre tutti gli aggiornamenti in tempo reale. Puoi anche monitorare il tragitto durante il viaggio, per essere sempre aggiornato e preparato in caso di modifiche o interruzioni del servizio. ... Orari di partenza/arrivo in tempo reale: non devi fare altro che inserire le stazioni di partenza e di arrivo e potrai visualizzare gli orari in tempo reale."
+      },
+      {
+        "title": "Treni Italo, Tabelloni partenze e arrivi stazione Napoli Cle - Italo",
+        "url": "https://italoinviaggio.italotreno.com/it/stazione/napoli-centrale",
+        "description": "Ultimo aggiornamento N. TRENO Destinazione Orario ORARIO PREVISTO ORARIO EFFETTIVO Stato del treno Binario Informazioni Partenze Arrivi Fermate Treno Dettaglio fermate Partenza Arrivo In orario Ritardo Minuti Italo /treno/ Si è verificato un errore, siete pregati di riprovare più tardi."
+      }
+    ]
+  },
+  {
+    "query": "INGV terremoti Nord Adriatico ultime 24 ore 28 aprile 2026 orario evento e orario prima pubblicazione elenco",
+    "results": [
+      {
+        "title": "Lista Terremoti aggiornata in tempo reale » INGV Osservatorio Nazionale Terremoti",
+        "url": "https://terremoti.ingv.it",
+        "description": "Lista dei terremoti aggiornata in tempo reale dall&#x27;Osservatorio Nazionale Terremoti. Monitoraggio e sorveglianza sismica in Italia."
+      },
+      {
+        "title": "Stazione: CSOB 2026/4/28 - Osservatorio Vesuviano - INGV",
+        "url": "http://portale2.ov.ingv.it/segnali/CSOB_HHZ_attuale.html",
+        "description": "Segnali sismici in tempo reale"
+      },
+      {
+        "title": "INGVterremoti – L'informazione sui terremoti",
+        "url": "https://ingvterremoti.com/",
+        "description": "L’INGV ha realizzato il video dell’animazione della propagazione sulla superficie terrestre delle onde sismiche generate dal terremoto di magnitudo Mw 5.1 (Ml 5.1) localizzato dalla Rete Sismica Nazionale alle ore 05:53 …"
+      }
+    ]
+  },
+  {
+    "query": "Padova Portello via Venezia cena completa sotto 8 euro menu con prezzi aggiornati aprile 2026",
+    "results": [
+      {
+        "title": "Portello, Padova (prezzi aggiornati per il 2026)",
+        "url": "https://www.booking.com/hotel/it/portello-padova.it.html",
+        "description": "<strong>Assicurati un ottimo prezzo per Portello, valutato di recente dagli ospiti con un punteggio di 8,3</strong>."
+      },
+      {
+        "title": "Tutti i ristoranti a Padova",
+        "url": "https://www.padovaoggi.it/ristoranti/pag/6/",
+        "description": "Venerdì, 10 Aprile 2026 · Nuvoloso per velature estese · Abbonati Aggiorna piano · Accedi · Massimo Falcioni · Giovanni Pizzocolo · Filtra · Bisteccheria · Monselice · Trattoria · Rovolon · Osteria · Zona: Piazze / Padova · Ristorante · Due Carrare · Ristorante · Abano Terme · Ristorante-Pizzeria · Zona: Piazze / Padova · Ristorante · Zona: Portello / Padova ·"
+      },
+      {
+        "title": "Ristoranti in Via Del Portello a Padova - PagineGialle",
+        "url": "https://www.paginegialle.it/veneto/padova/ristoranti/via-del-portello.html",
+        "description": "Cerchi Ristoranti in Via Del Portello a Padova? Con PagineGialle trovi subito Indirizzo, Orari di Apertura Verificati, Mappa e Recensioni"
+      }
+    ]
+  }
+]
