@@ -1,0 +1,62 @@
+[
+  {
+    "query": "Napoli Centrale partenze regionali ritardo oltre 10 minuti confronto tabellone stazione e ViaggiaTreno oggi 28 aprile 2026 ore 13",
+    "results": [
+      {
+        "title": "Trenitalia - ViaggiaTreno",
+        "url": "http://www.viaggiatreno.it/infomobilita/index.jsp?idreg=0&trattaAB=500&trattaBA=501",
+        "description": "Per le informazioni sui treni Regionali va cliccato Traffico Regionale, e poi la mappa della regione di interesse. Il colore blu indica le linee e le direzioni con treni in circolazione in quel momento. Cliccando sulla singola linea si visualizzano tutti i treni che la stanno percorrendo e il loro andamento in tempo reale. Selezionando la località si visualizza il quadro Arrivi e Partenze delle principali stazioni del nodo ferroviario corrispondente."
+      },
+      {
+        "title": "Orari partenze e arrivi | Napoli Centrale | In Stazione",
+        "url": "https://www.napolicentrale.it/timetable",
+        "description": "Napoli · Centrale · Cambia stazione · Stazione Napoli Centrale · Negozi"
+      },
+      {
+        "title": "Arrivi Napoli Centrale in Tempo Reale: Ritardi e Binari",
+        "url": "https://tabelloneorari.com/stazione/napoli-centrale/arrivi",
+        "description": "Verifica subito gli arrivi a Napoli Centrale in tempo reale: ritardi, binari, cancellazioni e aggiornamenti live dei treni."
+      }
+    ]
+  },
+  {
+    "query": "INGV terremoti Nord Adriatico ultime 24 ore differenza tra orario evento e prima pubblicazione elenco dettagliato",
+    "results": [
+      {
+        "title": "Lista Terremoti aggiornata in tempo reale » INGV Osservatorio Nazionale Terremoti",
+        "url": "https://terremoti.ingv.it",
+        "description": "Lista dei terremoti aggiornata in tempo reale dall&#x27;Osservatorio Nazionale Terremoti. Monitoraggio e sorveglianza sismica in Italia."
+      },
+      {
+        "title": "INGV Terremoti",
+        "url": "https://ingvterremoti.com/",
+        "description": "L’INGV ha realizzato il video dell’animazione della propagazione sulla superficie terrestre delle onde sismiche generate dal terremoto di magnitudo Mw 5.1 (Ml 5.1) localizzato dalla Rete Sismica Nazionale alle ore 05:53 … Read More · COMUNICAZIONE E DIVULGAZIONE Fotonotizie I terremoti del mese RUBRICHE ... Mappa dei terremoti avvenuti in Italia e nelle aree limitrofe dall’1 al 31 dicembre del 2025. Sono stati 1235 gli eventi localizzati dalla Rete Sismica Nazionale dall’1 al 31 dicembre …"
+      },
+      {
+        "title": "INGV Terremoti - App su Google Play",
+        "url": "https://play.google.com/store/apps/details?id=it.ingv.terremoti&hl=it",
+        "description": "_________________________ ORARIO Nella sezione Ultimi terremoti <strong>gli orari degli eventi sismici **non** sono più espressi utilizzando l&#x27;orario di riferimento UTC (Tempo Coordinato Universale) ma l&#x27;orario in cui è configurato il telefono</strong>."
+      }
+    ]
+  },
+  {
+    "query": "Padova Portello pranzo completo sotto 8 euro menu prezzo aggiornato aprile 2026 vicino via Venezia",
+    "results": [
+      {
+        "title": "I migliori 10 ristoranti 2026 a Padova con menù | TheFork",
+        "url": "https://www.thefork.it/ristoranti/padova-c410042",
+        "description": "Trova i migliori ristoranti a Padova su TheFork. Leggi le recensioni degli utenti, consulta i menu, i prezzi, e prenota un tavolo online."
+      },
+      {
+        "title": "Ristoranti vicino Via del Portello a Padova e dintorni",
+        "url": "https://www.virgilio.it/italia/padova/cat/RISTORANTI/vicino_VIA_DEL_PORTELLO.html",
+        "description": "Il ristorante e pizzeria dove potrete gustare prelibati piatti e gustose pizze in un ambiente confortevole, anche a pranzo, a Padova in v."
+      },
+      {
+        "title": "Come farsi un pranzo economico e abbondante nei locali del centro di Padova",
+        "url": "https://2night.it/df9634-/cena-pesce-economico-padova.html",
+        "description": "La mia preferita qui è quella ... dalla grandezza (c’è infatti l’opzione piccola e grande) ma si aggirano <strong>tra i 3 e i 5€ circa</strong>. Boss della Focaccia, Via del Portello 8, Padova - Tel...."
+      }
+    ]
+  }
+]
