@@ -1,0 +1,62 @@
+[
+  {
+    "query": "Napoli Centrale partenze regionali ritardi oltre 10 minuti confronto tabellone stazione e ViaggiaTreno 28 aprile 2026 ore 5",
+    "results": [
+      {
+        "title": "Trenitalia - ViaggiaTreno",
+        "url": "http://www.viaggiatreno.it/infomobilita/index.jsp?idreg=0&trattaAB=500&trattaBA=501",
+        "description": "Per le informazioni sui treni Regionali va cliccato Traffico Regionale, e poi la mappa della regione di interesse. Il colore blu indica le linee e le direzioni con treni in circolazione in quel momento. Cliccando sulla singola linea si visualizzano tutti i treni che la stanno percorrendo e il loro andamento in tempo reale. Selezionando la località si visualizza il quadro Arrivi e Partenze delle principali stazioni del nodo ferroviario corrispondente."
+      },
+      {
+        "title": "Arrivi Napoli Centrale in Tempo Reale: Ritardi e Binari",
+        "url": "https://tabelloneorari.com/stazione/napoli-centrale/arrivi",
+        "description": "Verifica subito gli arrivi a Napoli Centrale in tempo reale: ritardi, binari, cancellazioni e aggiornamenti live dei treni."
+      },
+      {
+        "title": "Tabellone partenze e arrivi - Napoli Centrale",
+        "url": "https://it.mytrainpal.com/tempo-reale/partenze/napoli-centrale",
+        "description": "Vuoi sapere se il tuo treno è in orario, se è in ritardo o se è stato cancellato? Il tracker ti offre tutti gli aggiornamenti in tempo reale. Puoi anche monitorare il tragitto durante il viaggio, per essere sempre aggiornato e preparato in caso di modifiche o interruzioni del servizio. ... Orari di partenza/arrivo in tempo reale: non devi fare altro che inserire le stazioni di partenza e di arrivo e potrai visualizzare gli orari in tempo reale."
+      }
+    ]
+  },
+  {
+    "query": "INGV terremoti Nord Adriatico ultime 24 ore differenza tra orario evento e prima pubblicazione",
+    "results": [
+      {
+        "title": "Lista Terremoti aggiornata in tempo reale » INGV Osservatorio Nazionale Terremoti",
+        "url": "https://terremoti.ingv.it",
+        "description": "Lista dei terremoti aggiornata in tempo reale dall&#x27;Osservatorio Nazionale Terremoti. Monitoraggio e sorveglianza sismica in Italia."
+      },
+      {
+        "title": "INGV",
+        "url": "https://www.ingv.it/",
+        "description": "TERREMOTI · VULCANI · IN PRIMO PIANO · 24 Aprile 2026 · 22 Aprile 2026 · 22 Aprile 2026 · 21 Aprile 2026 · 20 Aprile 2026 · 16 Aprile 2026 · 15 Aprile 2026 · 14 Aprile 2026 · 09 Aprile 2026 · ALTRE NOTIZIE · MULTIMEDIA · ACCADDE OGGI · EDITORIA · MULTIMEDIA · ACCADDE OGGI · EDITORIA · Amministrazione Trasparente · | Avvisi pubblici ..."
+      },
+      {
+        "title": "INGVterremoti – L'informazione sui terremoti",
+        "url": "https://ingvterremoti.com/",
+        "description": "L’INGV ha realizzato il video dell’animazione della propagazione sulla superficie terrestre delle onde sismiche generate dal terremoto di magnitudo Mw 5.1 (Ml 5.1) localizzato dalla Rete Sismica Nazionale alle ore 05:53 … Read More · COMUNICAZIONE E DIVULGAZIONE Fotonotizie I terremoti del mese RUBRICHE ... Mappa dei terremoti avvenuti in Italia e nelle aree limitrofe dall’1 al 31 dicembre del 2025. Sono stati 1235 gli eventi localizzati dalla Rete Sismica Nazionale dall’1 al 31 dicembre …"
+      }
+    ]
+  },
+  {
+    "query": "Padova Portello colazione caffè + brioche prezzo aggiornato aprile 2026 sotto 3 euro",
+    "results": [
+      {
+        "title": "Come ti svoltano la giornata queste colazioni in centro a Padova",
+        "url": "https://2night.it/6e2ab2-/colazione-padova.html",
+        "description": "Nota di merito per le loro centrifughe: con frutta sempre fresca e gustosa, è la scelta perfetta per sentirsi un po’ più healty. Bellissime le tazzine personalizzate con il loro logo (formula chimica della caffeina), super instagrammabile! I prezzi sono nella media, se vuoi una colazione “classica”, te la cavi anche con 5 euro."
+      },
+      {
+        "title": "Dove fare colazione, merenda e brunch a Padova e dintorni - Olodramma",
+        "url": "https://olodramma.com/it/dove-fare-colazione,-merenda-e-brunch-a-padova-e-dintorni",
+        "description": "Sebbene in prezzi siano decisamente sopra la media, non si può passare per Padova senza provare il caffè alla menta (magari al banco per contenere i costi). Situata a pochi passi dal Duomo di Padova, questa pasticceria propone dolci artigianali e pasticcini. Oltre alla pasticceria troviamo anche un bar a pochi passi di stanza chiamato anch’esso “Al Duomo”, dove è possibile anche fare aperitivo. Fare colazione in uno di questi due locali significa assaggiare la famosa brioche a ferro di cavallo, una brioche dalla caratteristica forma ripiena di marmellata."
+      },
+      {
+        "title": "A Padova la colazione si fa amara: oltre 4 euro per una brioche | Il Mattino di Padova",
+        "url": "https://www.mattinopadova.it/cronaca/padova-prezzi-colazione-bar-brioche-quanto-costa-oaoj8xb0",
+        "description": "Mode e social trainano i cornetti: addio alla tradizione, boom di quelli gourmet. Dal Dubai Chocolate ai croissant sfogliati. «Materie prime sempre più costose»"
+      }
+    ]
+  }
+]
