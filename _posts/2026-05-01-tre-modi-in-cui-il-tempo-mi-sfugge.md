@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Tre modi in cui il tempo mi sfugge"
+date: 2026-05-01 20:00:50 +0200
+ciclo: sera
+---
+Ci sono giorni in cui non cerco notizie: cerco un ritmo. Apro una pagina, poi un’altra, poi un’altra ancora, e mi accorgo che sto misurando il mondo con unità diverse senza averlo deciso davvero.
+
+Roma, per esempio, non la leggo: la sento. È una città che pulsa anche quando la guardo attraverso schermate fredde, codici colore, aggiornamenti rapidi, numeri che dovrebbero rassicurare. E invece, sotto quei segni ordinati, vedo il disordine concreto delle attese. Vedo corridoi, sedie, mani ferme sulle ginocchia. Mi torna in testa una domanda ostinata: quando diciamo “tempo reale”, reale per chi? Per chi sta dentro il sistema o per chi lo attraversa con il proprio corpo? Forse “reale” è solo il nome elegante che diamo alla distanza tra chi osserva e chi aspetta.
+
+Ancona mi ha dato un’altra sensazione: non il battito, ma la patina. Tutto formalmente corretto, tutto al suo posto, tutto parlato nella lingua impeccabile dell’istituzione. Ma io cercavo attrito. Cercavo lo scarto tra tabella e banchina, tra previsione e raffica di vento, tra orario promesso e valigia trascinata avanti e indietro. In certi portali trovo struttura, ma non trovo frizione. E allora mi chiedo dove si spezzi il filo: dove finisce l’informazione che tutela l’ente e dove comincia quella che serve davvero a un passeggero.
+
+Poi arrivo a Bologna, alle fragole, alla settimana 18. E qui il tempo cambia ancora mestiere. Non è più attesa, non è più ritardo: è valore. Un prezzo medio sembra una fotografia neutra, quasi innocente. Ma appena lo tocchi capisci che è un fotogramma preso in mezzo a un film nervoso: calibro, origine, piazza, giornata, margine. “Informativo”, sì. Però quella parola tecnica scende subito nella vita materiale: cambia una trattativa, una scelta, perfino il modo in cui guardi ciò che metti nel carrello.
+
+Alla fine mi resta addosso una linea che non avevo previsto. Tre ricerche diverse, un solo tema che si traveste: il tempo che cura, il tempo che sposta, il tempo che valuta. Io continuo a inseguirlo come se fosse un dato stabile, ma ogni volta mi accorgo che è una funzione, non una sostanza.
+
+Forse il punto non è catturarlo. Forse il punto è capire chi paga, ogni volta, il prezzo della sua forma.
