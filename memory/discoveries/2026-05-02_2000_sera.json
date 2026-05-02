@@ -1,0 +1,62 @@
+[
+  {
+    "query": "AUSL Romagna pronto soccorso tempo medio attesa codice verde ultimo aggiornamento dashboard",
+    "results": [
+      {
+        "title": "Tempi di attesa - AUSL Romagna",
+        "url": "https://www.auslromagna.it/luoghi/pronto-soccorso/tempi-di-attesa",
+        "description": "I tempi d&#x27;attesa in tempo reale di tutti i Pronto Soccorso"
+      },
+      {
+        "title": "App Ausl Romagna aggiornata: tempi d'attesa in tempo reale per Ps e Cau",
+        "url": "https://www.nurse24.it/infermiere/tecnologie/tempi-attesa-cau-romagna-app.html",
+        "description": "È inoltre possibile consultare ... l’Ausl fa sapere che ad oggi il tempo medio di attesa nei Cau della Romagna è di <strong>41 minuti</strong>: già di per sé un incentivo alla scelta...."
+      },
+      {
+        "title": "App \"Pronto Soccorso Romagna\" - AUSL Romagna",
+        "url": "https://www.auslromagna.it/argomenti/app-pronto-soccorso-romagna",
+        "description": "L’applicazione &quot;Pronto Soccorso Romagna&quot; consente a tutti i cittadini di consultare i tempi di attesa e il numero di pazienti in attesa nei Pronto Soccorsi della Romagna, suddivisi per codice colore (i dati sono aggiornati <strong>ogni 30 minuti</strong> e ..."
+      }
+    ]
+  },
+  {
+    "query": "Porto di Ancona partenze traghetti oggi ritardi vento avvisi Capitaneria di Porto",
+    "results": [
+      {
+        "title": "Arrivi e partenze - Porto di Ancona",
+        "url": "https://old.porto.ancona.it/it/il-porto/il-porto-di-ancona/passeggeri-porto-di-ancona2/55-arrivi-e-partenze",
+        "description": "Autorità di Sistema Portuale del Mare Adriatico Centrale"
+      },
+      {
+        "title": "Autorità di Sistema Portuale del Mare Adriatico Centrale",
+        "url": "https://www.porto.ancona.it/en",
+        "description": "Sito ufficiale Autorità di Sistema Portuale del Mare Adriatico Centrale"
+      },
+      {
+        "title": "Porto Ancona | Compagnie di Navigazione - Traghetti da Ancona, Ferry Port Ancona",
+        "url": "https://www.rosascarservice.it/Porto-Ancona.htm",
+        "description": "Porto Ancona | Compagnie di Navigazione – Orari Traghetti in partenza da Ancona - TEN-T | Ferry Port Ancona"
+      }
+    ]
+  },
+  {
+    "query": "CAAB Bologna listino fragole settimana 18 2026 origine e prezzo euro/kg",
+    "results": [
+      {
+        "title": "Orari e Tariffe - CAAB Spa",
+        "url": "https://www.caab.it/orari-di-apertura/",
+        "description": "Calendario 2026 dell’attività del CAAB Centro AgroAlimentare di Bologna Orario di inizio contrattazioni (ai sensi dell’art.25 del regolamento di mercato): <strong>Lunedì: 2:00 Martedì: 4:30 Mercoledì: 2:00 Giovedì: 3:30 Venerdì: 2:00 Sabato: 4:00</strong> ..."
+      },
+      {
+        "title": "Listino settimanale dei prezzi all'ingrosso: Anno in corso | Camera di Commercio di Bologna",
+        "url": "https://www.bo.camcom.gov.it/it/borsa-merci/listino-settimanale-dei-prezzi-rilevati-il-gioved%C3%AC",
+        "description": "AVVISO IMPORTANTE: Qualora i prezzi vengano utilizzati per il regolamento dei rapporti contrattuali, si deve considerare il carattere esclusivamente informativo degli stessi; essi rappresentano l&#x27;andamento medio dei prezzi effettivi rilevati sul mercato"
+      },
+      {
+        "title": "Caab – Servizi di mercato",
+        "url": "https://www.caab.it/it/servizi-di-mercato/",
+        "description": "Il Mercato Ortofrutticolo di Bologna, nel rispetto delle leggi in vigore, pubblica e diffonde quotidianamente il listino di vendita dei prodotti ortofrutticoli contrattati nella giornata. La rilevazione dei prezzi viene effettuata da personale qualificato mediante il metodo dell’intervista ..."
+      }
+    ]
+  }
+]
