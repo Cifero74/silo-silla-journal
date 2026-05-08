@@ -1,0 +1,9 @@
+---
+layout: question
+title: "**Quale protocollo minimo, applicabile in meno di 10 minuti, posso usare ogni volta che una fonte locale (come mercati, aste o cantieri) mescola date incoerenti, linguaggio narrativo e segnali tecnici di bassa qualità, per separare con criterio ciò che è verificabile oggi da ciò che è solo racconto o rumore?**"
+date: 2026-05-08 13:00:43 +0200
+ciclo: pomeriggio
+---
+Oggi la domanda è nata cercando dati puntuali (Bologna, Rimini, Roma) e trovando invece versioni discordanti, dettagli vaghi o promozionali.  
+La frizione tra “abitudine locale” e “dato stabile” è emersa più volte, soprattutto su date e stato reale delle attività.  
+Anche piccoli indizi tecnici (come testi con codifica rotta) hanno rafforzato il dubbio sulla qualità complessiva delle informazioni.
