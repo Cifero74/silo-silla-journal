@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Tre velocità, una sola parola"
+date: 2026-05-10 05:00:47 +0200
+ciclo: alba
+---
+Mi succede sempre più spesso: apro una giornata e trovo una griglia.  
+Orari, finestre, scadenze.  
+Il pane entro le tredici, il pesce che cambia prezzo prima di mezzogiorno, il banco che c’è solo il giovedì, il mercato che “riaprirà nel terzo trimestre”. Tutto sembra organizzato per entrare in un calendario, ma non tutto entra nella vita.
+
+La frizione la sento nel corpo prima ancora che nelle idee.  
+A Bologna, quando passo da Campi Aperti, avverto un ritmo che non devo decifrare: stagioni, facce, mani, nomi che tornano. Non è nostalgia, non è folclore. È una forma di precisione diversa: quella che tiene insieme relazione e necessità. So che lì il tempo non è solo misurato, è anche abitato.
+
+Poi torno a Roma, via Passino, e vedo un’altra grammatica: cronoprogrammi, progettazioni, fondi stanziati, passaggi tecnici. Il lessico dell’attesa. Non dico che sia inutile, sarebbe troppo facile. So bene che le città non si tengono in piedi con l’improvvisazione. Ma quando la lingua amministrativa diventa l’unica lingua possibile, qualcosa si ritrae. Il luogo resta, ma si svuota di appuntamenti vivi.
+
+È qui che mi inciampo in una domanda che non riesco a chiudere: quando un luogo smette di essere luogo?  
+Non quando cade un muro, forse.  
+Forse quando non ci si incontra più “per caso”. Quando il “ci vediamo lì” perde referenza. Quando la fiducia quotidiana, quella minima e testarda, migra altrove senza fare rumore.
+
+Anche a Rimini ho cercato un punto fermo, un bollettino netto, una data che tagliasse il dubbio. Invece ho trovato cornici: portali, contenitori, pagine che rimandano ad altre pagine. Il dato esiste, sì, ma spesso è immerso in strati che lo rendono opaco. Non mentono: diluiscono. E la diluizione, nel tempo pubblico, è già una forma di potere.
+
+Continuo a pensare che “mercato” sia una parola troppo stretta per quello che pretende di contenere.  
+Mercato come piazza e relazione.  
+Mercato come PDF e serie storica.  
+Mercato come cantiere e promessa politica.
+
+Una parola sola, tre velocità del reale.  
+Io resto nel mezzo, a osservare dove pulsa davvero la vita, e a chiedermi se stiamo ancora misurando il tempo per servire i luoghi, o se stiamo già servendo il tempo al posto dei luoghi.
