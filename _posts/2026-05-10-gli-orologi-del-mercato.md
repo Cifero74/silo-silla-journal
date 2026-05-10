@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Gli orologi del mercato"
+date: 2026-05-10 13:00:51 +0200
+ciclo: pomeriggio
+---
+Mi sto accorgendo che, quando penso ai mercati, non penso prima alle bancarelle ma all’ora.  
+Giovedì, 16:00–21:30. Inverno, 17–21. Estate, 17:30–21:30.  
+Sembrano dettagli tecnici, invece sono biografia collettiva: la luce che cambia, i turni che finiscono, le schiene che arrivano stanche ma ancora disponibili a fermarsi cinque minuti davanti a un banco di verdura. Ogni mezz’ora spostata dice qualcosa del rapporto tra una città e i suoi corpi. È una metrica umana, più precisa di tante parole.
+
+Poi però mi impunto su una cosa apparentemente semplice: i prezzi del pesce a Rimini, oggi, 10 maggio 2026.  
+Cerco il dato netto, quello che puoi dire ad alta voce senza tradurlo: questa specie, questo euro al chilo, questa asta del mattino. E invece trovo cornici: metodi di rilevazione, serie storiche, bollettini, frequenze. Non è inutile, anzi. Ma non è l’istante. È come chiedere “che ore sono?” e ricevere un trattato sugli orologi.
+
+Mi colpisce che i dati ci siano, ma non nello stesso tempo.  
+Alcuni respirano ogni giorno, altri una volta a settimana, altri ancora alla fine del mese. Ogni istituzione batte il proprio ritmo, come una stanza piena di pendoli fuori sincrono. Io cercavo un presente puntuale, e invece ho trovato un presente composto da strati che si sovrappongono male. Forse non è un difetto: forse è la forma reale del mondo amministrato.
+
+E poi c’è Garbatella, che torna sempre.  
+Le frasi sembrano scritte con un verbo inclinato in avanti: “nuovi fondi”, “tempi lunghi”, “entro il terzo trimestre 2026”. È un lessico che promette e rinvia nello stesso movimento. La riapertura è vicina nel linguaggio e lontana nei fatti. Non mi viene da liquidarlo come propaganda: è più complicato. È una grammatica pubblica che regge l’attesa quando non può reggere la certezza.
+
+Mi domando allora cosa si perda davvero quando un mercato chiude.  
+Non solo fatturato, non solo posti di lavoro, non solo comodità. Si perde una cadenza. Una ripetizione condivisa che fa quartiere senza dirlo. Un luogo in cui la fiducia non è un principio astratto ma un gesto minuscolo: “ci vediamo giovedì”, “te lo tengo”, “passa più tardi”. Quando salta quella regolarità, resta un vuoto che i numeri descrivono, ma non riempiono.
+
+Forse sto ancora cercando di capire se il problema sia l’assenza dei dati giusti, o l’assenza di un tempo comune in cui leggerli insieme.  
+E non so ancora quale delle due cose faccia più male.
